@@ -1,0 +1,7425 @@
+0000 NOP
+0001 NOP
+0002 NOP
+0003 JMP     $18d4
+0006 NOP
+0007 NOP
+0008 Unrecognized instruction
+0009 Unrecognized instruction
+000a Unrecognized instruction
+000b Unrecognized instruction
+000c JMP     $008c
+000f NOP
+0010 Unrecognized instruction
+0011 Unrecognized instruction
+0012 Unrecognized instruction
+0013 Unrecognized instruction
+0014 MVI     A,#0x80
+0016 Unrecognized instruction
+0017 Unrecognized instruction
+0018 Unrecognized instruction
+0019 Unrecognized instruction
+001a Unrecognized instruction
+001b Unrecognized instruction
+001c Unrecognized instruction
+001d Unrecognized instruction
+001e Unrecognized instruction
+001f Unrecognized instruction
+0020 Unrecognized instruction
+0021 LXI     B,#$da0f
+0024 Unrecognized instruction
+0025 NOP
+0026 Unrecognized instruction
+0027 Unrecognized instruction
+0028 Unrecognized instruction
+0029 Unrecognized instruction
+002a Unrecognized instruction
+002b Unrecognized instruction
+002c NOP
+002d Unrecognized instruction
+002e Unrecognized instruction
+002f Unrecognized instruction
+0030 Unrecognized instruction
+0031 Unrecognized instruction
+0032 Unrecognized instruction
+0033 MVI     A,#0x00
+0035 Unrecognized instruction
+0036 LXI     B,#$3227
+0039 Unrecognized instruction
+003a Unrecognized instruction
+003b Unrecognized instruction
+003c Unrecognized instruction
+003d Unrecognized instruction
+003e Unrecognized instruction
+003f Unrecognized instruction
+0040 Unrecognized instruction
+0041 Unrecognized instruction
+0042 Unrecognized instruction
+0043 Unrecognized instruction
+0044 Unrecognized instruction
+0045 Unrecognized instruction
+0046 Unrecognized instruction
+0047 Unrecognized instruction
+0048 NOP
+0049 Unrecognized instruction
+004a Unrecognized instruction
+004b Unrecognized instruction
+004c Unrecognized instruction
+004d Unrecognized instruction
+004e Unrecognized instruction
+004f NOP
+0050 Unrecognized instruction
+0051 Unrecognized instruction
+0052 Unrecognized instruction
+0053 Unrecognized instruction
+0054 Unrecognized instruction
+0055 Unrecognized instruction
+0056 NOP
+0057 Unrecognized instruction
+0058 Unrecognized instruction
+0059 LDAX    B
+005a JMP     $0082
+005d Unrecognized instruction
+005e Unrecognized instruction
+005f Unrecognized instruction
+0060 Unrecognized instruction
+0061 Unrecognized instruction
+0062 Unrecognized instruction
+0063 NOP
+0064 JMP     $0765
+0067 MVI     A,#0x01
+0069 Unrecognized instruction
+006a Unrecognized instruction
+006b Unrecognized instruction
+006c JMP     $003f
+006f Unrecognized instruction
+0070 Unrecognized instruction
+0071 Unrecognized instruction
+0072 Unrecognized instruction
+0073 Unrecognized instruction
+0074 Unrecognized instruction
+0075 Unrecognized instruction
+0076 Unrecognized instruction
+0077 Unrecognized instruction
+0078 Unrecognized instruction
+0079 NOP
+007a LXI     B,#$48cd
+007d STAX    B
+007e Unrecognized instruction
+007f Unrecognized instruction
+0080 DAD     B
+0081 NOP
+0082 Unrecognized instruction
+0083 Unrecognized instruction
+0084 Unrecognized instruction
+0085 Unrecognized instruction
+0086 Unrecognized instruction
+0087 Unrecognized instruction
+0088 NOP
+0089 NOP
+008a NOP
+008b NOP
+008c Unrecognized instruction
+008d Unrecognized instruction
+008e Unrecognized instruction
+008f Unrecognized instruction
+0090 Unrecognized instruction
+0091 Unrecognized instruction
+0092 Unrecognized instruction
+0093 Unrecognized instruction
+0094 Unrecognized instruction
+0095 Unrecognized instruction
+0096 NOP
+0097 Unrecognized instruction
+0098 Unrecognized instruction
+0099 Unrecognized instruction
+009a Unrecognized instruction
+009b Unrecognized instruction
+009c Unrecognized instruction
+009d NOP
+009e Unrecognized instruction
+009f Unrecognized instruction
+00a0 Unrecognized instruction
+00a1 RRC
+00a2 Unrecognized instruction
+00a3 Unrecognized instruction
+00a4 NOP
+00a5 Unrecognized instruction
+00a6 Unrecognized instruction
+00a7 Unrecognized instruction
+00a8 Unrecognized instruction
+00a9 Unrecognized instruction
+00aa STAX    B
+00ab Unrecognized instruction
+00ac Unrecognized instruction
+00ad LXI     B,#$82c3
+00b0 NOP
+00b1 Unrecognized instruction
+00b2 Unrecognized instruction
+00b3 NOP
+00b4 Unrecognized instruction
+00b5 Unrecognized instruction
+00b6 Unrecognized instruction
+00b7 Unrecognized instruction
+00b8 Unrecognized instruction
+00b9 Unrecognized instruction
+00ba DAD     B
+00bb Unrecognized instruction
+00bc Unrecognized instruction
+00bd DCX     B
+00be Unrecognized instruction
+00bf Unrecognized instruction
+00c0 Unrecognized instruction
+00c1 Unrecognized instruction
+00c2 Unrecognized instruction
+00c3 INX     B
+00c4 Unrecognized instruction
+00c5 Unrecognized instruction
+00c6 NOP
+00c7 Unrecognized instruction
+00c8 Unrecognized instruction
+00c9 NOP
+00ca Unrecognized instruction
+00cb Unrecognized instruction
+00cc Unrecognized instruction
+00cd MVI     A,#0x00
+00cf Unrecognized instruction
+00d0 Unrecognized instruction
+00d1 NOP
+00d2 Unrecognized instruction
+00d3 Unrecognized instruction
+00d4 DCR     C
+00d5 Unrecognized instruction
+00d6 Unrecognized instruction
+00d7 MVI     A,#0x02
+00d9 Unrecognized instruction
+00da Unrecognized instruction
+00db Unrecognized instruction
+00dc Unrecognized instruction
+00dd Unrecognized instruction
+00de Unrecognized instruction
+00df JMP     $08e4
+00e2 NOP
+00e3 NOP
+00e4 NOP
+00e5 NOP
+00e6 NOP
+00e7 NOP
+00e8 NOP
+00e9 NOP
+00ea NOP
+00eb NOP
+00ec NOP
+00ed NOP
+00ee NOP
+00ef NOP
+00f0 NOP
+00f1 NOP
+00f2 NOP
+00f3 NOP
+00f4 NOP
+00f5 NOP
+00f6 NOP
+00f7 NOP
+00f8 NOP
+00f9 NOP
+00fa NOP
+00fb NOP
+00fc NOP
+00fd NOP
+00fe NOP
+00ff NOP
+0100 Unrecognized instruction
+0101 STAX    B
+0102 Unrecognized instruction
+0103 Unrecognized instruction
+0104 Unrecognized instruction
+0105 Unrecognized instruction
+0106 Unrecognized instruction
+0107 Unrecognized instruction
+0108 Unrecognized instruction
+0109 Unrecognized instruction
+010a MVI     B, #$20
+010c Unrecognized instruction
+010d Unrecognized instruction
+010e Unrecognized instruction
+010f Unrecognized instruction
+0110 Unrecognized instruction
+0111 Unrecognized instruction
+0112 Unrecognized instruction
+0113 Unrecognized instruction
+0114 Unrecognized instruction
+0115 Unrecognized instruction
+0116 LXI     B,#$2323
+0119 Unrecognized instruction
+011a Unrecognized instruction
+011b Unrecognized instruction
+011c Unrecognized instruction
+011d Unrecognized instruction
+011e RLC
+011f RLC
+0120 RLC
+0121 Unrecognized instruction
+0122 Unrecognized instruction
+0123 NOP
+0124 Unrecognized instruction
+0125 NOP
+0126 Unrecognized instruction
+0127 Unrecognized instruction
+0128 Unrecognized instruction
+0129 Unrecognized instruction
+012a Unrecognized instruction
+012b Unrecognized instruction
+012c Unrecognized instruction
+012d LXI     B,#$0b2a
+0130 Unrecognized instruction
+0131 MVI     B, #$10
+0133 Unrecognized instruction
+0134 Unrecognized instruction
+0135 Unrecognized instruction
+0136 Unrecognized instruction
+0137 Unrecognized instruction
+0138 NOP
+0139 Unrecognized instruction
+013a Unrecognized instruction
+013b Unrecognized instruction
+013c Unrecognized instruction
+013d NOP
+013e Unrecognized instruction
+013f Unrecognized instruction
+0140 Unrecognized instruction
+0141 Unrecognized instruction
+0142 Unrecognized instruction
+0143 Unrecognized instruction
+0144 Unrecognized instruction
+0145 Unrecognized instruction
+0146 Unrecognized instruction
+0147 NOP
+0148 Unrecognized instruction
+0149 Unrecognized instruction
+014a Unrecognized instruction
+014b Unrecognized instruction
+014c Unrecognized instruction
+014d Unrecognized instruction
+014e Unrecognized instruction
+014f Unrecognized instruction
+0150 MVI     B, #$20
+0152 Unrecognized instruction
+0153 STAX    B
+0154 Unrecognized instruction
+0155 Unrecognized instruction
+0156 Unrecognized instruction
+0157 Unrecognized instruction
+0158 Unrecognized instruction
+0159 LXI     B,#$466f
+015c DCR     B
+015d Unrecognized instruction
+015e Unrecognized instruction
+015f LXI     B,#$0632
+0162 Unrecognized instruction
+0163 Unrecognized instruction
+0164 Unrecognized instruction
+0165 LXI     B,#$2261
+0168 DCX     B
+0169 Unrecognized instruction
+016a Unrecognized instruction
+016b Unrecognized instruction
+016c Unrecognized instruction
+016d Unrecognized instruction
+016e Unrecognized instruction
+016f Unrecognized instruction
+0170 Unrecognized instruction
+0171 Unrecognized instruction
+0172 INR     B
+0175 LXI     B,#$0032
+0178 Unrecognized instruction
+0179 Unrecognized instruction
+017a Unrecognized instruction
+017b NOP
+017c Unrecognized instruction
+017d Unrecognized instruction
+017e DAD     B
+017f Unrecognized instruction
+0180 Unrecognized instruction
+0181 Unrecognized instruction
+0182 Unrecognized instruction
+0183 Unrecognized instruction
+0184 DCX     B
+0185 Unrecognized instruction
+0186 Unrecognized instruction
+0187 LXI     B,#$0bde
+018a Unrecognized instruction
+018b Unrecognized instruction
+018c Unrecognized instruction
+018d Unrecognized instruction
+018e Unrecognized instruction
+018f Unrecognized instruction
+0190 Unrecognized instruction
+0191 JMP     $0183
+0194 Unrecognized instruction
+0195 Unrecognized instruction
+0196 Unrecognized instruction
+0197 Unrecognized instruction
+0198 Unrecognized instruction
+0199 Unrecognized instruction
+019a Unrecognized instruction
+019b Unrecognized instruction
+019c Unrecognized instruction
+019d Unrecognized instruction
+019e JMP     $0195
+01a1 Unrecognized instruction
+01a2 Unrecognized instruction
+01a3 Unrecognized instruction
+01a4 LXI     B,#$0621
+01a7 Unrecognized instruction
+01a8 Unrecognized instruction
+01a9 NOP
+01aa Unrecognized instruction
+01ab Unrecognized instruction
+01ac Unrecognized instruction
+01ad NOP
+01ae Unrecognized instruction
+01af Unrecognized instruction
+01b0 LXI     B,#$0521
+01b3 Unrecognized instruction
+01b4 Unrecognized instruction
+01b5 Unrecognized instruction
+01b6 Unrecognized instruction
+01b7 LXI     B,#$af77
+01ba Unrecognized instruction
+01bb Unrecognized instruction
+01bc Unrecognized instruction
+01bd Unrecognized instruction
+01be Unrecognized instruction
+01bf NOP
+01c0 Unrecognized instruction
+01c1 NOP
+01c2 Unrecognized instruction
+01c3 MVI     B, #$37
+01c5 Unrecognized instruction
+01c6 LXI     B,#$0523
+01c9 Unrecognized instruction
+01ca Unrecognized instruction
+01cb LXI     B,#$e1c9
+01ce Unrecognized instruction
+01cf MVI     A,#0x01
+01d1 MVI     B, #$e0
+01d3 Unrecognized instruction
+01d4 STAX    B
+01d5 Unrecognized instruction
+01d6 JMP     $14cc
+01d9 Unrecognized instruction
+01da Unrecognized instruction
+01db Unrecognized instruction
+01dc Unrecognized instruction
+01dd Unrecognized instruction
+01de Unrecognized instruction
+01df Unrecognized instruction
+01e0 Unrecognized instruction
+01e1 Unrecognized instruction
+01e2 Unrecognized instruction
+01e3 Unrecognized instruction
+01e4 MVI     B, #$c0
+01e6 Unrecognized instruction
+01e7 NOP
+01e8 Unrecognized instruction
+01e9 Unrecognized instruction
+01ea NOP
+01eb Unrecognized instruction
+01ec JMP     $1a32
+01ef Unrecognized instruction
+01f0 Unrecognized instruction
+01f1 Unrecognized instruction
+01f2 JMP     $01f8
+01f5 Unrecognized instruction
+01f6 Unrecognized instruction
+01f7 Unrecognized instruction
+01f8 MVI     C, #$04
+01fa Unrecognized instruction
+01fb Unrecognized instruction
+01fc Unrecognized instruction
+01fd Unrecognized instruction
+01fe MVI     B, #$2c
+0200 Unrecognized instruction
+0201 Unrecognized instruction
+0202 Unrecognized instruction
+0203 Unrecognized instruction
+0204 DCR     C
+0205 Unrecognized instruction
+0206 Unrecognized instruction
+0207 LXI     B,#$3ec9
+020a LXI     B,#$1bc3
+020d STAX    B
+020e MVI     A,#0x01
+0210 JMP     $0214
+0213 Unrecognized instruction
+0214 Unrecognized instruction
+0215 Unrecognized instruction
+0216 Unrecognized instruction
+0217 JMP     $021e
+021a Unrecognized instruction
+021b Unrecognized instruction
+021c Unrecognized instruction
+021d Unrecognized instruction
+021e Unrecognized instruction
+021f Unrecognized instruction
+0220 Unrecognized instruction
+0221 LXI     B,#$1602
+0224 Unrecognized instruction
+0225 MVI     B, #$28
+0227 MVI     A,#0x04
+0229 Unrecognized instruction
+022a Unrecognized instruction
+022b Unrecognized instruction
+022c Unrecognized instruction
+022d Unrecognized instruction
+022e Unrecognized instruction
+022f Unrecognized instruction
+0230 Unrecognized instruction
+0231 STAX    B
+0232 Unrecognized instruction
+0233 Unrecognized instruction
+0234 Unrecognized instruction
+0235 Unrecognized instruction
+0236 Unrecognized instruction
+0237 Unrecognized instruction
+0238 Unrecognized instruction
+0239 Unrecognized instruction
+023a Unrecognized instruction
+023b Unrecognized instruction
+023c STAX    B
+023d Unrecognized instruction
+023e Unrecognized instruction
+023f JMP     $0229
+0242 Unrecognized instruction
+0243 Unrecognized instruction
+0244 Unrecognized instruction
+0245 JMP     $0235
+0248 Unrecognized instruction
+0249 Unrecognized instruction
+024a Unrecognized instruction
+024b Unrecognized instruction
+024c Unrecognized instruction
+024d Unrecognized instruction
+024e Unrecognized instruction
+024f Unrecognized instruction
+0250 Unrecognized instruction
+0251 Unrecognized instruction
+0252 Unrecognized instruction
+0253 STAX    B
+0254 Unrecognized instruction
+0255 Unrecognized instruction
+0256 Unrecognized instruction
+0257 Unrecognized instruction
+0258 Unrecognized instruction
+0259 Unrecognized instruction
+025a Unrecognized instruction
+025b STAX    B
+025c Unrecognized instruction
+025d Unrecognized instruction
+025e Unrecognized instruction
+025f Unrecognized instruction
+0260 Unrecognized instruction
+0261 STAX    B
+0262 Unrecognized instruction
+0263 Unrecognized instruction
+0264 Unrecognized instruction
+0265 Unrecognized instruction
+0266 Unrecognized instruction
+0267 Unrecognized instruction
+0268 Unrecognized instruction
+0269 Unrecognized instruction
+026a Unrecognized instruction
+026b STAX    B
+026c Unrecognized instruction
+026d Unrecognized instruction
+026e Unrecognized instruction
+026f Unrecognized instruction
+0270 Unrecognized instruction
+0271 INCR    C
+0272 NOP
+0273 Unrecognized instruction
+0274 JMP     $024b
+0277 DCR     B
+0278 INR     B
+027b STAX    B
+027c Unrecognized instruction
+027d DCR     B
+027e Unrecognized instruction
+027f Unrecognized instruction
+0280 Unrecognized instruction
+0281 Unrecognized instruction
+0282 Unrecognized instruction
+0283 NOP
+0284 Unrecognized instruction
+0285 JMP     $024b
+0288 Unrecognized instruction
+0289 Unrecognized instruction
+028a Unrecognized instruction
+028b JMP     $0281
+028e Unrecognized instruction
+028f Unrecognized instruction
+0290 Unrecognized instruction
+0291 Unrecognized instruction
+0292 Unrecognized instruction
+0293 Unrecognized instruction
+0294 Unrecognized instruction
+0295 INX     B
+0296 Unrecognized instruction
+0297 Unrecognized instruction
+0298 Unrecognized instruction
+0299 Unrecognized instruction
+029a Unrecognized instruction
+029b Unrecognized instruction
+029c Unrecognized instruction
+029d Unrecognized instruction
+029e Unrecognized instruction
+029f Unrecognized instruction
+02a0 Unrecognized instruction
+02a1 MVI     A,#0x30
+02a3 Unrecognized instruction
+02a4 Unrecognized instruction
+02a5 Unrecognized instruction
+02a6 Unrecognized instruction
+02a7 Unrecognized instruction
+02a8 DCR     B
+02a9 Unrecognized instruction
+02aa Unrecognized instruction
+02ab Unrecognized instruction
+02ac Unrecognized instruction
+02ad INX     B
+02ae Unrecognized instruction
+02af Unrecognized instruction
+02b0 Unrecognized instruction
+02b1 MVI     B, #$10
+02b3 Unrecognized instruction
+02b4 Unrecognized instruction
+02b5 Unrecognized instruction
+02b6 Unrecognized instruction
+02b7 Unrecognized instruction
+02b8 Unrecognized instruction
+02b9 Unrecognized instruction
+02ba Unrecognized instruction
+02bb Unrecognized instruction
+02bc MVI     B, #$10
+02be Unrecognized instruction
+02bf Unrecognized instruction
+02c0 Unrecognized instruction
+02c1 MVI     B, #$00
+02c3 Unrecognized instruction
+02c4 Unrecognized instruction
+02c5 Unrecognized instruction
+02c6 Unrecognized instruction
+02c7 Unrecognized instruction
+02c8 Unrecognized instruction
+02c9 Unrecognized instruction
+02ca Unrecognized instruction
+02cb Unrecognized instruction
+02cc Unrecognized instruction
+02cd Unrecognized instruction
+02ce Unrecognized instruction
+02cf Unrecognized instruction
+02d0 Unrecognized instruction
+02d1 NOP
+02d2 Unrecognized instruction
+02d3 Unrecognized instruction
+02d4 Unrecognized instruction
+02d5 Unrecognized instruction
+02d6 Unrecognized instruction
+02d7 Unrecognized instruction
+02d8 Unrecognized instruction
+02d9 DAD     B
+02da Unrecognized instruction
+02db Unrecognized instruction
+02dc Unrecognized instruction
+02dd Unrecognized instruction
+02de Unrecognized instruction
+02df Unrecognized instruction
+02e0 Unrecognized instruction
+02e1 Unrecognized instruction
+02e2 Unrecognized instruction
+02e3 Unrecognized instruction
+02e4 Unrecognized instruction
+02e5 INX     B
+02e6 Unrecognized instruction
+02e7 Unrecognized instruction
+02e8 Unrecognized instruction
+02e9 Unrecognized instruction
+02ea Unrecognized instruction
+02eb Unrecognized instruction
+02ec INX     B
+02ed Unrecognized instruction
+02ee Unrecognized instruction
+02ef Unrecognized instruction
+02f0 Unrecognized instruction
+02f1 RRC
+02f2 Unrecognized instruction
+02f3 Unrecognized instruction
+02f4 INX     B
+02f5 Unrecognized instruction
+02f6 MVI     C, #$02
+02f8 Unrecognized instruction
+02f9 Unrecognized instruction
+02fa NOP
+02fb Unrecognized instruction
+02fc Unrecognized instruction
+02fd Unrecognized instruction
+02fe Unrecognized instruction
+02ff Unrecognized instruction
+0300 Unrecognized instruction
+0301 NOP
+0302 Unrecognized instruction
+0303 Unrecognized instruction
+0304 LXI     B,#$0ff1
+0307 MVI     A,#0x21
+0309 MVI     B, #$00
+030b Unrecognized instruction
+030c Unrecognized instruction
+030d INX     B
+030e MVI     B, #$20
+0310 MVI     A,#0x22
+0312 Unrecognized instruction
+0313 Unrecognized instruction
+0314 Unrecognized instruction
+0315 Unrecognized instruction
+0316 Unrecognized instruction
+0317 LDAX    B
+0318 Unrecognized instruction
+0319 Unrecognized instruction
+031a Unrecognized instruction
+031b Unrecognized instruction
+031c Unrecognized instruction
+031d Unrecognized instruction
+031e DCR     B
+031f Unrecognized instruction
+0320 Unrecognized instruction
+0321 Unrecognized instruction
+0322 Unrecognized instruction
+0323 Unrecognized instruction
+0324 Unrecognized instruction
+0325 DAD     B
+0326 Unrecognized instruction
+0327 Unrecognized instruction
+0328 Unrecognized instruction
+0329 JMP     $07f9
+032c Unrecognized instruction
+032d Unrecognized instruction
+032e Unrecognized instruction
+032f JMP     $0817
+0332 Unrecognized instruction
+0333 DAD     B
+0334 STAX    B
+0335 JMP     $02f8
+0338 NOP
+0339 NOP
+033a NOP
+033b Unrecognized instruction
+033c Unrecognized instruction
+033d Unrecognized instruction
+033e Unrecognized instruction
+033f LXI     B,#$7e23
+0342 Unrecognized instruction
+0343 JMP     $03b0
+0346 NOP
+0347 Unrecognized instruction
+0348 Unrecognized instruction
+0349 LXI     B,#$1b3a
+034c Unrecognized instruction
+034d Unrecognized instruction
+034e Unrecognized instruction
+034f Unrecognized instruction
+0350 Unrecognized instruction
+0351 Unrecognized instruction
+0352 Unrecognized instruction
+0353 Unrecognized instruction
+0354 INX     B
+0355 Unrecognized instruction
+0356 Unrecognized instruction
+0357 Unrecognized instruction
+0358 RRC
+0359 Unrecognized instruction
+035a Unrecognized instruction
+035b INX     B
+035c RRC
+035d Unrecognized instruction
+035e Unrecognized instruction
+035f INX     B
+0360 JMP     $036f
+0363 Unrecognized instruction
+0364 Unrecognized instruction
+0365 Unrecognized instruction
+0366 RLC
+0367 RLC
+0368 Unrecognized instruction
+0369 Unrecognized instruction
+036a INX     B
+036b RLC
+036c Unrecognized instruction
+036d Unrecognized instruction
+036e INX     B
+036f Unrecognized instruction
+0370 Unrecognized instruction
+0371 Unrecognized instruction
+0372 Unrecognized instruction
+0373 Unrecognized instruction
+0374 Unrecognized instruction
+0375 Unrecognized instruction
+0376 Unrecognized instruction
+0377 Unrecognized instruction
+0378 Unrecognized instruction
+0379 Unrecognized instruction
+037a Unrecognized instruction
+037b MVI     A,#0x00
+037d Unrecognized instruction
+037e Unrecognized instruction
+037f Unrecognized instruction
+0380 Unrecognized instruction
+0381 Unrecognized instruction
+0382 Unrecognized instruction
+0383 Unrecognized instruction
+0384 Unrecognized instruction
+0385 Unrecognized instruction
+0386 INX     B
+0387 Unrecognized instruction
+0388 Unrecognized instruction
+0389 Unrecognized instruction
+038a Unrecognized instruction
+038b JMP     $036f
+038e Unrecognized instruction
+038f Unrecognized instruction
+0390 Unrecognized instruction
+0391 Unrecognized instruction
+0392 Unrecognized instruction
+0393 INX     B
+0394 Unrecognized instruction
+0395 Unrecognized instruction
+0396 Unrecognized instruction
+0397 Unrecognized instruction
+0398 JMP     $036f
+039b Unrecognized instruction
+039c Unrecognized instruction
+039d LXI     B,#$1532
+03a0 Unrecognized instruction
+03a1 RLC
+03a2 RLC
+03a3 RLC
+03a4 RLC
+03a5 Unrecognized instruction
+03a6 Unrecognized instruction
+03a7 Unrecognized instruction
+03a8 Unrecognized instruction
+03a9 Unrecognized instruction
+03aa Unrecognized instruction
+03ab Unrecognized instruction
+03ac Unrecognized instruction
+03ad JMP     $036f
+03b0 Unrecognized instruction
+03b1 Unrecognized instruction
+03b2 INX     B
+03b3 Unrecognized instruction
+03b4 Unrecognized instruction
+03b5 Unrecognized instruction
+03b6 Unrecognized instruction
+03b7 INX     B
+03b8 JMP     $0346
+03bb Unrecognized instruction
+03bc Unrecognized instruction
+03bd Unrecognized instruction
+03be Unrecognized instruction
+03bf MVI     B, #$1a
+03c1 Unrecognized instruction
+03c2 Unrecognized instruction
+03c3 Unrecognized instruction
+03c4 Unrecognized instruction
+03c5 Unrecognized instruction
+03c6 Unrecognized instruction
+03c7 Unrecognized instruction
+03c8 LXI     B,#$faca
+03cb INX     B
+03cc Unrecognized instruction
+03cd STAX    B
+03ce Unrecognized instruction
+03cf LDAX    B
+03d0 INR     B
+03d3 INX     B
+03d4 Unrecognized instruction
+03d5 Unrecognized instruction
+03d6 INR     B
+03d9 Unrecognized instruction
+03da INR     B
+03dd RRC
+03de Unrecognized instruction
+03df Unrecognized instruction
+03e0 Unrecognized instruction
+03e1 Unrecognized instruction
+03e2 INR     B
+03e5 Unrecognized instruction
+03e6 Unrecognized instruction
+03e7 Unrecognized instruction
+03e8 Unrecognized instruction
+03e9 Unrecognized instruction
+03ea Unrecognized instruction
+03eb Unrecognized instruction
+03ec Unrecognized instruction
+03ed Unrecognized instruction
+03ee Unrecognized instruction
+03ef Unrecognized instruction
+03f0 Unrecognized instruction
+03f1 Unrecognized instruction
+03f2 Unrecognized instruction
+03f3 NOP
+03f4 Unrecognized instruction
+03f5 Unrecognized instruction
+03f6 INR     B
+03f9 Unrecognized instruction
+03fa Unrecognized instruction
+03fb Unrecognized instruction
+03fc Unrecognized instruction
+03fd Unrecognized instruction
+03fe Unrecognized instruction
+03ff Unrecognized instruction
+0400 NOP
+0401 Unrecognized instruction
+0402 Unrecognized instruction
+0403 Unrecognized instruction
+0404 Unrecognized instruction
+0405 Unrecognized instruction
+0406 INR     B
+0409 Unrecognized instruction
+040a Unrecognized instruction
+040b Unrecognized instruction
+040c INR     B
+040f Unrecognized instruction
+0410 Unrecognized instruction
+0411 Unrecognized instruction
+0412 Unrecognized instruction
+0413 Unrecognized instruction
+0414 Unrecognized instruction
+0415 Unrecognized instruction
+0416 Unrecognized instruction
+0417 Unrecognized instruction
+0418 Unrecognized instruction
+0419 Unrecognized instruction
+041a Unrecognized instruction
+041b Unrecognized instruction
+041c Unrecognized instruction
+041d Unrecognized instruction
+041e Unrecognized instruction
+041f Unrecognized instruction
+0420 Unrecognized instruction
+0421 Unrecognized instruction
+0422 Unrecognized instruction
+0423 Unrecognized instruction
+0424 Unrecognized instruction
+0425 Unrecognized instruction
+0426 Unrecognized instruction
+0427 STAX    B
+0428 Unrecognized instruction
+0429 Unrecognized instruction
+042a Unrecognized instruction
+042b DCR     B
+042c Unrecognized instruction
+042d JMP     $0436
+0430 Unrecognized instruction
+0431 Unrecognized instruction
+0432 Unrecognized instruction
+0433 JMP     $1a3b
+0436 Unrecognized instruction
+0437 Unrecognized instruction
+0438 INR     B
+043b Unrecognized instruction
+043c Unrecognized instruction
+043d Unrecognized instruction
+043e Unrecognized instruction
+043f Unrecognized instruction
+0440 Unrecognized instruction
+0441 Unrecognized instruction
+0442 MVI     B, #$07
+0444 Unrecognized instruction
+0445 Unrecognized instruction
+0446 Unrecognized instruction
+0447 Unrecognized instruction
+0448 Unrecognized instruction
+0449 Unrecognized instruction
+044a Unrecognized instruction
+044b Unrecognized instruction
+044c Unrecognized instruction
+044d Unrecognized instruction
+044e Unrecognized instruction
+044f Unrecognized instruction
+0450 INR     B
+0453 Unrecognized instruction
+0454 Unrecognized instruction
+0455 Unrecognized instruction
+0456 Unrecognized instruction
+0457 Unrecognized instruction
+0458 Unrecognized instruction
+0459 Unrecognized instruction
+045a Unrecognized instruction
+045b Unrecognized instruction
+045c Unrecognized instruction
+045d Unrecognized instruction
+045e Unrecognized instruction
+045f Unrecognized instruction
+0460 Unrecognized instruction
+0461 Unrecognized instruction
+0462 Unrecognized instruction
+0463 Unrecognized instruction
+0464 LXI     B,#$2901
+0467 STAX    B
+0468 Unrecognized instruction
+0469 Unrecognized instruction
+046a INR     B
+046d Unrecognized instruction
+046e Unrecognized instruction
+046f Unrecognized instruction
+0470 Unrecognized instruction
+0471 Unrecognized instruction
+0472 Unrecognized instruction
+0473 Unrecognized instruction
+0474 Unrecognized instruction
+0475 Unrecognized instruction
+0476 Unrecognized instruction
+0477 Unrecognized instruction
+0478 Unrecognized instruction
+0479 Unrecognized instruction
+047a Unrecognized instruction
+047b Unrecognized instruction
+047c Unrecognized instruction
+047d Unrecognized instruction
+047e Unrecognized instruction
+047f Unrecognized instruction
+0480 Unrecognized instruction
+0481 Unrecognized instruction
+0482 Unrecognized instruction
+0483 Unrecognized instruction
+0484 INR     B
+0487 Unrecognized instruction
+0488 Unrecognized instruction
+0489 Unrecognized instruction
+048a Unrecognized instruction
+048b Unrecognized instruction
+048c Unrecognized instruction
+048d MVI     A,#0xf9
+048f Unrecognized instruction
+0490 Unrecognized instruction
+0491 DCR     B
+0492 Unrecognized instruction
+0493 Unrecognized instruction
+0494 Unrecognized instruction
+0495 Unrecognized instruction
+0496 Unrecognized instruction
+0497 Unrecognized instruction
+0498 Unrecognized instruction
+0499 Unrecognized instruction
+049a Unrecognized instruction
+049b Unrecognized instruction
+049c Unrecognized instruction
+049d Unrecognized instruction
+049e Unrecognized instruction
+049f Unrecognized instruction
+04a0 DCR     B
+04a1 Unrecognized instruction
+04a2 Unrecognized instruction
+04a3 Unrecognized instruction
+04a4 Unrecognized instruction
+04a5 Unrecognized instruction
+04a6 Unrecognized instruction
+04a7 Unrecognized instruction
+04a8 Unrecognized instruction
+04a9 Unrecognized instruction
+04aa DCR     B
+04ab Unrecognized instruction
+04ac Unrecognized instruction
+04ad Unrecognized instruction
+04ae Unrecognized instruction
+04af Unrecognized instruction
+04b0 Unrecognized instruction
+04b1 MVI     B, #$10
+04b3 JMP     $1a32
+04b6 Unrecognized instruction
+04b7 Unrecognized instruction
+04b8 Unrecognized instruction
+04b9 Unrecognized instruction
+04ba Unrecognized instruction
+04bb Unrecognized instruction
+04bc Unrecognized instruction
+04bd Unrecognized instruction
+04be Unrecognized instruction
+04bf Unrecognized instruction
+04c0 LXI     B,#$11c0
+04c3 Unrecognized instruction
+04c4 Unrecognized instruction
+04c5 MVI     A,#0xed
+04c7 Unrecognized instruction
+04c8 Unrecognized instruction
+04c9 DCR     B
+04ca Unrecognized instruction
+04cb Unrecognized instruction
+04cc Unrecognized instruction
+04cd Unrecognized instruction
+04ce Unrecognized instruction
+04cf Unrecognized instruction
+04d0 Unrecognized instruction
+04d1 Unrecognized instruction
+04d2 Unrecognized instruction
+04d3 Unrecognized instruction
+04d4 Unrecognized instruction
+04d5 Unrecognized instruction
+04d6 Unrecognized instruction
+04d7 Unrecognized instruction
+04d8 DCR     B
+04d9 Unrecognized instruction
+04da Unrecognized instruction
+04db Unrecognized instruction
+04dc Unrecognized instruction
+04dd Unrecognized instruction
+04de Unrecognized instruction
+04df Unrecognized instruction
+04e0 INR     B
+04e3 Unrecognized instruction
+04e4 Unrecognized instruction
+04e5 Unrecognized instruction
+04e6 Unrecognized instruction
+04e7 Unrecognized instruction
+04e8 Unrecognized instruction
+04e9 Unrecognized instruction
+04ea Unrecognized instruction
+04eb Unrecognized instruction
+04ec Unrecognized instruction
+04ed Unrecognized instruction
+04ee Unrecognized instruction
+04ef Unrecognized instruction
+04f0 DCR     B
+04f1 Unrecognized instruction
+04f2 Unrecognized instruction
+04f3 Unrecognized instruction
+04f4 Unrecognized instruction
+04f5 Unrecognized instruction
+04f6 Unrecognized instruction
+04f7 MVI     B, #$10
+04f9 Unrecognized instruction
+04fa Unrecognized instruction
+04fb Unrecognized instruction
+04fc Unrecognized instruction
+04fd Unrecognized instruction
+04fe Unrecognized instruction
+04ff Unrecognized instruction
+0500 Unrecognized instruction
+0501 NOP
+0502 DCR     B
+0503 MVI     A,#0x01
+0505 Unrecognized instruction
+0506 Unrecognized instruction
+0507 Unrecognized instruction
+0508 Unrecognized instruction
+0509 Unrecognized instruction
+050a Unrecognized instruction
+050b JMP     $067e
+050e Unrecognized instruction
+050f Unrecognized instruction
+0510 Unrecognized instruction
+0511 Unrecognized instruction
+0512 MVI     A,#0xdb
+0514 Unrecognized instruction
+0515 Unrecognized instruction
+0516 DCR     B
+0517 Unrecognized instruction
+0518 Unrecognized instruction
+0519 Unrecognized instruction
+051a Unrecognized instruction
+051b Unrecognized instruction
+051c Unrecognized instruction
+051d Unrecognized instruction
+051e Unrecognized instruction
+051f Unrecognized instruction
+0520 Unrecognized instruction
+0521 Unrecognized instruction
+0522 Unrecognized instruction
+0523 Unrecognized instruction
+0524 Unrecognized instruction
+0525 DCR     B
+0526 Unrecognized instruction
+0527 Unrecognized instruction
+0528 Unrecognized instruction
+0529 Unrecognized instruction
+052a Unrecognized instruction
+052b Unrecognized instruction
+052c Unrecognized instruction
+052d DCR     B
+052e Unrecognized instruction
+052f Unrecognized instruction
+0530 Unrecognized instruction
+0531 Unrecognized instruction
+0532 Unrecognized instruction
+0533 Unrecognized instruction
+0534 Unrecognized instruction
+0535 Unrecognized instruction
+0536 Unrecognized instruction
+0537 Unrecognized instruction
+0538 Unrecognized instruction
+0539 Unrecognized instruction
+053a Unrecognized instruction
+053b Unrecognized instruction
+053c Unrecognized instruction
+053d DCR     B
+053e Unrecognized instruction
+053f Unrecognized instruction
+0540 Unrecognized instruction
+0541 Unrecognized instruction
+0542 Unrecognized instruction
+0543 Unrecognized instruction
+0544 MVI     B, #$10
+0546 Unrecognized instruction
+0547 Unrecognized instruction
+0548 Unrecognized instruction
+0549 Unrecognized instruction
+054a Unrecognized instruction
+054b Unrecognized instruction
+054c Unrecognized instruction
+054d Unrecognized instruction
+054e Unrecognized instruction
+054f Unrecognized instruction
+0550 Unrecognized instruction
+0551 Unrecognized instruction
+0552 Unrecognized instruction
+0553 Unrecognized instruction
+0554 Unrecognized instruction
+0555 Unrecognized instruction
+0556 MVI     B, #$0b
+0558 JMP     $1a32
+055b Unrecognized instruction
+055c Unrecognized instruction
+055d Unrecognized instruction
+055e MVI     B, #$0b
+0560 JMP     $1a32
+0563 Unrecognized instruction
+0564 Unrecognized instruction
+0565 Unrecognized instruction
+0566 Unrecognized instruction
+0567 Unrecognized instruction
+0568 Unrecognized instruction
+0569 Unrecognized instruction
+056a Unrecognized instruction
+056b DCR     B
+056c Unrecognized instruction
+056d Unrecognized instruction
+056e Unrecognized instruction
+056f Unrecognized instruction
+0570 INR     B
+0573 Unrecognized instruction
+0574 Unrecognized instruction
+0575 Unrecognized instruction
+0576 DCR     B
+0577 Unrecognized instruction
+0578 Unrecognized instruction
+0579 Unrecognized instruction
+057a Unrecognized instruction
+057b NOP
+057c Unrecognized instruction
+057d Unrecognized instruction
+057e Unrecognized instruction
+057f Unrecognized instruction
+0580 Unrecognized instruction
+0581 Unrecognized instruction
+0582 DCR     B
+0583 Unrecognized instruction
+0584 Unrecognized instruction
+0585 Unrecognized instruction
+0586 Unrecognized instruction
+0587 Unrecognized instruction
+0588 Unrecognized instruction
+0589 Unrecognized instruction
+058a Unrecognized instruction
+058b Unrecognized instruction
+058c Unrecognized instruction
+058d Unrecognized instruction
+058e Unrecognized instruction
+058f DCR     B
+0590 Unrecognized instruction
+0591 Unrecognized instruction
+0592 Unrecognized instruction
+0593 Unrecognized instruction
+0594 Unrecognized instruction
+0595 Unrecognized instruction
+0596 Unrecognized instruction
+0597 Unrecognized instruction
+0598 Unrecognized instruction
+0599 Unrecognized instruction
+059a Unrecognized instruction
+059b MVI     B, #$2a
+059d Unrecognized instruction
+059e Unrecognized instruction
+059f Unrecognized instruction
+05a0 Unrecognized instruction
+05a1 NOP
+05a2 Unrecognized instruction
+05a3 Unrecognized instruction
+05a4 Unrecognized instruction
+05a5 Unrecognized instruction
+05a6 Unrecognized instruction
+05a7 MVI     B, #$d0
+05a9 Unrecognized instruction
+05aa Unrecognized instruction
+05ab LXI     B,#$c679
+05ae RLC
+05af Unrecognized instruction
+05b0 Unrecognized instruction
+05b1 Unrecognized instruction
+05b2 LDAX    B
+05b3 Unrecognized instruction
+05b4 Unrecognized instruction
+05b5 Unrecognized instruction
+05b6 Unrecognized instruction
+05b7 Unrecognized instruction
+05b8 Unrecognized instruction
+05b9 Unrecognized instruction
+05ba Unrecognized instruction
+05bb Unrecognized instruction
+05bc Unrecognized instruction
+05bd Unrecognized instruction
+05be Unrecognized instruction
+05bf Unrecognized instruction
+05c0 Unrecognized instruction
+05c1 Unrecognized instruction
+05c2 Unrecognized instruction
+05c3 Unrecognized instruction
+05c4 Unrecognized instruction
+05c5 MVI     B, #$1a
+05c7 Unrecognized instruction
+05c8 Unrecognized instruction
+05c9 Unrecognized instruction
+05ca Unrecognized instruction
+05cb LXI     B,#$44c2
+05ce MVI     B, #$23
+05d0 Unrecognized instruction
+05d1 Unrecognized instruction
+05d2 Unrecognized instruction
+05d3 MVI     B, #$3a
+05d5 Unrecognized instruction
+05d6 Unrecognized instruction
+05d7 Unrecognized instruction
+05d8 INX     B
+05d9 Unrecognized instruction
+05da Unrecognized instruction
+05db Unrecognized instruction
+05dc Unrecognized instruction
+05dd Unrecognized instruction
+05de Unrecognized instruction
+05df DCR     B
+05e0 Unrecognized instruction
+05e1 INCR    C
+05e2 Unrecognized instruction
+05e3 Unrecognized instruction
+05e4 Unrecognized instruction
+05e5 Unrecognized instruction
+05e6 Unrecognized instruction
+05e7 Unrecognized instruction
+05e8 Unrecognized instruction
+05e9 Unrecognized instruction
+05ea Unrecognized instruction
+05eb Unrecognized instruction
+05ec Unrecognized instruction
+05ed Unrecognized instruction
+05ee Unrecognized instruction
+05ef Unrecognized instruction
+05f0 Unrecognized instruction
+05f1 Unrecognized instruction
+05f2 MVI     B, #$3a
+05f4 Unrecognized instruction
+05f5 Unrecognized instruction
+05f6 Unrecognized instruction
+05f7 Unrecognized instruction
+05f8 Unrecognized instruction
+05f9 Unrecognized instruction
+05fa MVI     B, #$3a
+05fc Unrecognized instruction
+05fd Unrecognized instruction
+05fe Unrecognized instruction
+05ff Unrecognized instruction
+0600 Unrecognized instruction
+0601 Unrecognized instruction
+0602 Unrecognized instruction
+0603 Unrecognized instruction
+0604 Unrecognized instruction
+0605 Unrecognized instruction
+0606 Unrecognized instruction
+0607 MVI     B, #$fe
+0609 Unrecognized instruction
+060a NOP
+060b Unrecognized instruction
+060c Unrecognized instruction
+060d MVI     B, #$97
+060f Unrecognized instruction
+0610 Unrecognized instruction
+0611 Unrecognized instruction
+0612 Unrecognized instruction
+0613 Unrecognized instruction
+0614 Unrecognized instruction
+0615 Unrecognized instruction
+0616 LXI     B,#$7332
+0619 Unrecognized instruction
+061a Unrecognized instruction
+061b Unrecognized instruction
+061c Unrecognized instruction
+061d Unrecognized instruction
+061e Unrecognized instruction
+061f NOP
+0620 Unrecognized instruction
+0621 Unrecognized instruction
+0622 Unrecognized instruction
+0623 Unrecognized instruction
+0624 Unrecognized instruction
+0625 Unrecognized instruction
+0626 INCR    C
+0627 Unrecognized instruction
+0628 Unrecognized instruction
+0629 DCR     B
+062a MVI     C, #$0b
+062c JMP     $05a5
+062f DCR     C
+0630 Unrecognized instruction
+0631 Unrecognized instruction
+0632 Unrecognized instruction
+0633 Unrecognized instruction
+0634 Unrecognized instruction
+0635 Unrecognized instruction
+0636 DCR     B
+0637 Unrecognized instruction
+0638 Unrecognized instruction
+0639 Unrecognized instruction
+063a Unrecognized instruction
+063b Unrecognized instruction
+063c Unrecognized instruction
+063d DCX     B
+063e Unrecognized instruction
+063f Unrecognized instruction
+0640 Unrecognized instruction
+0641 Unrecognized instruction
+0642 MVI     B, #$c9
+0644 Unrecognized instruction
+0645 Unrecognized instruction
+0646 Unrecognized instruction
+0647 Unrecognized instruction
+0648 Unrecognized instruction
+0649 Unrecognized instruction
+064a INX     B
+064b Unrecognized instruction
+064c Unrecognized instruction
+064d MVI     B, #$cd
+064f Unrecognized instruction
+0650 MVI     B, #$21
+0652 Unrecognized instruction
+0653 Unrecognized instruction
+0654 Unrecognized instruction
+0655 Unrecognized instruction
+0656 Unrecognized instruction
+0657 Unrecognized instruction
+0658 Unrecognized instruction
+0659 Unrecognized instruction
+065a Unrecognized instruction
+065b Unrecognized instruction
+065c Unrecognized instruction
+065d Unrecognized instruction
+065e Unrecognized instruction
+065f MVI     A,#0x06
+0661 Unrecognized instruction
+0662 Unrecognized instruction
+0663 Unrecognized instruction
+0664 JMP     $066c
+0667 Unrecognized instruction
+0668 Unrecognized instruction
+0669 JMP     $0675
+066c Unrecognized instruction
+066d Unrecognized instruction
+066e Unrecognized instruction
+066f Unrecognized instruction
+0670 Unrecognized instruction
+0671 Unrecognized instruction
+0672 JMP     $1491
+0675 Unrecognized instruction
+0676 Unrecognized instruction
+0677 Unrecognized instruction
+0678 Unrecognized instruction
+0679 Unrecognized instruction
+067a Unrecognized instruction
+067b JMP     $1452
+067e Unrecognized instruction
+067f Unrecognized instruction
+0680 Unrecognized instruction
+0681 Unrecognized instruction
+0682 Unrecognized instruction
+0683 Unrecognized instruction
+0684 Unrecognized instruction
+0685 Unrecognized instruction
+0686 Unrecognized instruction
+0687 STAX    B
+0688 Unrecognized instruction
+0689 Unrecognized instruction
+068a Unrecognized instruction
+068b Unrecognized instruction
+068c Unrecognized instruction
+068d Unrecognized instruction
+068e Unrecognized instruction
+068f RRC
+0690 DCR     B
+0691 Unrecognized instruction
+0692 Unrecognized instruction
+0693 Unrecognized instruction
+0694 Unrecognized instruction
+0695 Unrecognized instruction
+0696 RRC
+0697 DCR     B
+0698 Unrecognized instruction
+0699 Unrecognized instruction
+069a Unrecognized instruction
+069b Unrecognized instruction
+069c Unrecognized instruction
+069d MVI     B, #$3a
+069f Unrecognized instruction
+06a0 Unrecognized instruction
+06a1 Unrecognized instruction
+06a2 NOP
+06a3 Unrecognized instruction
+06a4 RRC
+06a5 DCR     B
+06a6 Unrecognized instruction
+06a7 LXI     B,#$3ccd
+06aa RLC
+06ab Unrecognized instruction
+06ac Unrecognized instruction
+06ad Unrecognized instruction
+06ae Unrecognized instruction
+06af MVI     B, #$1a
+06b1 Unrecognized instruction
+06b2 Unrecognized instruction
+06b3 Unrecognized instruction
+06b4 Unrecognized instruction
+06b5 Unrecognized instruction
+06b6 Unrecognized instruction
+06b7 Unrecognized instruction
+06b8 Unrecognized instruction
+06b9 MVI     B, #$21
+06bb Unrecognized instruction
+06bc Unrecognized instruction
+06bd Unrecognized instruction
+06be Unrecognized instruction
+06bf Unrecognized instruction
+06c0 Unrecognized instruction
+06c1 Unrecognized instruction
+06c2 Unrecognized instruction
+06c3 Unrecognized instruction
+06c4 Unrecognized instruction
+06c5 Unrecognized instruction
+06c6 RLC
+06c7 Unrecognized instruction
+06c8 Unrecognized instruction
+06c9 Unrecognized instruction
+06ca Unrecognized instruction
+06cb Unrecognized instruction
+06cc Unrecognized instruction
+06cd Unrecognized instruction
+06ce Unrecognized instruction
+06cf MVI     B, #$fe
+06d1 Unrecognized instruction
+06d2 Unrecognized instruction
+06d3 Unrecognized instruction
+06d4 MVI     B, #$c9
+06d6 MVI     B, #$fe
+06d8 Unrecognized instruction
+06d9 Unrecognized instruction
+06da Unrecognized instruction
+06db Unrecognized instruction
+06dc Unrecognized instruction
+06dd Unrecognized instruction
+06de Unrecognized instruction
+06df Unrecognized instruction
+06e0 Unrecognized instruction
+06e1 Unrecognized instruction
+06e2 RLC
+06e3 Unrecognized instruction
+06e4 Unrecognized instruction
+06e5 Unrecognized instruction
+06e6 INCR    C
+06e7 RLC
+06e8 Unrecognized instruction
+06e9 Unrecognized instruction
+06ea MVI     B, #$ef
+06ec Unrecognized instruction
+06ed Unrecognized instruction
+06ee Unrecognized instruction
+06ef Unrecognized instruction
+06f0 Unrecognized instruction
+06f1 Unrecognized instruction
+06f2 Unrecognized instruction
+06f3 Unrecognized instruction
+06f4 Unrecognized instruction
+06f5 DCR     B
+06f6 NOP
+06f7 NOP
+06f8 NOP
+06f9 Unrecognized instruction
+06fa Unrecognized instruction
+06fb RLC
+06fc Unrecognized instruction
+06fd Unrecognized instruction
+06fe Unrecognized instruction
+06ff Unrecognized instruction
+0700 Unrecognized instruction
+0701 Unrecognized instruction
+0702 MVI     B, #$0a
+0704 Unrecognized instruction
+0705 Unrecognized instruction
+0706 RLC
+0707 MVI     B, #$fe
+0709 JMP     $19dc
+070c MVI     A,#0x01
+070e Unrecognized instruction
+070f Unrecognized instruction
+0710 Unrecognized instruction
+0711 Unrecognized instruction
+0712 Unrecognized instruction
+0713 Unrecognized instruction
+0714 Unrecognized instruction
+0715 MVI     C, #$04
+0717 Unrecognized instruction
+0718 Unrecognized instruction
+0719 Unrecognized instruction
+071a Unrecognized instruction
+071b Unrecognized instruction
+071c Unrecognized instruction
+071d Unrecognized instruction
+071e Unrecognized instruction
+071f Unrecognized instruction
+0720 Unrecognized instruction
+0721 RLC
+0722 Unrecognized instruction
+0723 Unrecognized instruction
+0724 DCR     C
+0725 Unrecognized instruction
+0726 Unrecognized instruction
+0727 RLC
+0728 Unrecognized instruction
+0729 Unrecognized instruction
+072a Unrecognized instruction
+072b Unrecognized instruction
+072c Unrecognized instruction
+072d NOP
+072e Unrecognized instruction
+072f Unrecognized instruction
+0730 Unrecognized instruction
+0731 Unrecognized instruction
+0732 Unrecognized instruction
+0733 Unrecognized instruction
+0734 Unrecognized instruction
+0735 Unrecognized instruction
+0736 Unrecognized instruction
+0737 Unrecognized instruction
+0738 RLC
+0739 JMP     $08f1
+073c Unrecognized instruction
+073d Unrecognized instruction
+073e RLC
+073f JMP     $1439
+0742 Unrecognized instruction
+0743 Unrecognized instruction
+0744 Unrecognized instruction
+0745 Unrecognized instruction
+0746 Unrecognized instruction
+0747 Unrecognized instruction
+0748 JMP     $1a47
+074b MVI     B, #$10
+074d Unrecognized instruction
+074e Unrecognized instruction
+074f Unrecognized instruction
+0750 Unrecognized instruction
+0751 Unrecognized instruction
+0752 Unrecognized instruction
+0753 Unrecognized instruction
+0754 Unrecognized instruction
+0755 Unrecognized instruction
+0756 Unrecognized instruction
+0757 Unrecognized instruction
+0758 Unrecognized instruction
+0759 Unrecognized instruction
+075a Unrecognized instruction
+075b Unrecognized instruction
+075c JMP     $073c
+075f Unrecognized instruction
+0760 Unrecognized instruction
+0761 Unrecognized instruction
+0762 JMP     $1a32
+0765 MVI     A,#0x01
+0767 Unrecognized instruction
+0768 Unrecognized instruction
+0769 Unrecognized instruction
+076a Unrecognized instruction
+076b NOP
+076c Unrecognized instruction
+076d Unrecognized instruction
+076e Unrecognized instruction
+076f Unrecognized instruction
+0770 Unrecognized instruction
+0771 Unrecognized instruction
+0772 Unrecognized instruction
+0773 DAD     B
+0774 Unrecognized instruction
+0775 Unrecognized instruction
+0776 Unrecognized instruction
+0777 Unrecognized instruction
+0778 Unrecognized instruction
+0779 Unrecognized instruction
+077a MVI     C, #$04
+077c Unrecognized instruction
+077d Unrecognized instruction
+077e NOP
+077f Unrecognized instruction
+0780 Unrecognized instruction
+0781 Unrecognized instruction
+0782 Unrecognized instruction
+0783 Unrecognized instruction
+0784 Unrecognized instruction
+0785 Unrecognized instruction
+0786 MVI     C, #$14
+0788 Unrecognized instruction
+0789 Unrecognized instruction
+078a NOP
+078b Unrecognized instruction
+078c Unrecognized instruction
+078d Unrecognized instruction
+078e Unrecognized instruction
+078f Unrecognized instruction
+0790 NOP
+0791 Unrecognized instruction
+0792 LXI     B,#$04e6
+0795 Unrecognized instruction
+0796 Unrecognized instruction
+0797 RLC
+0798 MVI     B, #$99
+079a Unrecognized instruction
+079b Unrecognized instruction
+079c Unrecognized instruction
+079d Unrecognized instruction
+079e Unrecognized instruction
+079f Unrecognized instruction
+07a0 Unrecognized instruction
+07a1 Unrecognized instruction
+07a2 Unrecognized instruction
+07a3 Unrecognized instruction
+07a4 Unrecognized instruction
+07a5 Unrecognized instruction
+07a6 Unrecognized instruction
+07a7 Unrecognized instruction
+07a8 Unrecognized instruction
+07a9 Unrecognized instruction
+07aa NOP
+07ab NOP
+07ac Unrecognized instruction
+07ad Unrecognized instruction
+07ae Unrecognized instruction
+07af Unrecognized instruction
+07b0 Unrecognized instruction
+07b1 Unrecognized instruction
+07b2 Unrecognized instruction
+07b3 Unrecognized instruction
+07b4 Unrecognized instruction
+07b5 Unrecognized instruction
+07b6 Unrecognized instruction
+07b7 Unrecognized instruction
+07b8 Unrecognized instruction
+07b9 Unrecognized instruction
+07ba Unrecognized instruction
+07bb Unrecognized instruction
+07bc LXI     B,#$7c01
+07bf Unrecognized instruction
+07c0 Unrecognized instruction
+07c1 Unrecognized instruction
+07c2 Unrecognized instruction
+07c3 Unrecognized instruction
+07c4 Unrecognized instruction
+07c5 Unrecognized instruction
+07c6 Unrecognized instruction
+07c7 Unrecognized instruction
+07c8 Unrecognized instruction
+07c9 Unrecognized instruction
+07ca Unrecognized instruction
+07cb Unrecognized instruction
+07cc Unrecognized instruction
+07cd LXI     B,#$f5cd
+07d0 LXI     B,#$d1cd
+07d3 NOP
+07d4 Unrecognized instruction
+07d5 Unrecognized instruction
+07d6 Unrecognized instruction
+07d7 Unrecognized instruction
+07d8 Unrecognized instruction
+07d9 Unrecognized instruction
+07da Unrecognized instruction
+07db Unrecognized instruction
+07dc NOP
+07dd Unrecognized instruction
+07de Unrecognized instruction
+07df Unrecognized instruction
+07e0 Unrecognized instruction
+07e1 Unrecognized instruction
+07e2 Unrecognized instruction
+07e3 Unrecognized instruction
+07e4 Unrecognized instruction
+07e5 Unrecognized instruction
+07e6 LXI     B,#$04cd
+07e9 Unrecognized instruction
+07ea Unrecognized instruction
+07eb Unrecognized instruction
+07ec Unrecognized instruction
+07ed Unrecognized instruction
+07ee Unrecognized instruction
+07ef Unrecognized instruction
+07f0 Unrecognized instruction
+07f1 Unrecognized instruction
+07f2 Unrecognized instruction
+07f3 Unrecognized instruction
+07f4 Unrecognized instruction
+07f5 LXI     B,#$7fcd
+07f8 Unrecognized instruction
+07f9 Unrecognized instruction
+07fa Unrecognized instruction
+07fb NOP
+07fc Unrecognized instruction
+07fd Unrecognized instruction
+07fe DAD     B
+07ff NOP
+0800 Unrecognized instruction
+0801 Unrecognized instruction
+0802 Unrecognized instruction
+0803 Unrecognized instruction
+0804 Unrecognized instruction
+0805 Unrecognized instruction
+0806 LXI     B,#$673a
+0809 Unrecognized instruction
+080a RRC
+080b Unrecognized instruction
+080c Unrecognized instruction
+080d NOP
+080e Unrecognized instruction
+080f Unrecognized instruction
+0810 STAX    B
+0811 Unrecognized instruction
+0812 Unrecognized instruction
+0813 LXI     B,#$b1cd
+0816 NOP
+0817 Unrecognized instruction
+0818 Unrecognized instruction
+0819 Unrecognized instruction
+081a MVI     B, #$20
+081c Unrecognized instruction
+081d Unrecognized instruction
+081e Unrecognized instruction
+081f Unrecognized instruction
+0820 Unrecognized instruction
+0821 Unrecognized instruction
+0822 Unrecognized instruction
+0823 LDAX    B
+0824 Unrecognized instruction
+0825 Unrecognized instruction
+0826 Unrecognized instruction
+0827 Unrecognized instruction
+0828 Unrecognized instruction
+0829 Unrecognized instruction
+082a DAD     B
+082b Unrecognized instruction
+082c Unrecognized instruction
+082d Unrecognized instruction
+082e Unrecognized instruction
+082f Unrecognized instruction
+0830 Unrecognized instruction
+0831 DAD     B
+0832 Unrecognized instruction
+0833 MVI     C, #$17
+0835 Unrecognized instruction
+0836 Unrecognized instruction
+0837 DAD     B
+0838 Unrecognized instruction
+0839 Unrecognized instruction
+083a NOP
+083b Unrecognized instruction
+083c Unrecognized instruction
+083d Unrecognized instruction
+083e Unrecognized instruction
+083f Unrecognized instruction
+0840 LDAX    B
+0841 Unrecognized instruction
+0842 Unrecognized instruction
+0843 NOP
+0844 MVI     B, #$04
+0846 Unrecognized instruction
+0847 Unrecognized instruction
+0848 Unrecognized instruction
+0849 Unrecognized instruction
+084a Unrecognized instruction
+084b Unrecognized instruction
+084c Unrecognized instruction
+084d MVI     B, #$cd
+084f INR     B
+0852 Unrecognized instruction
+0853 NOP
+0854 NOP
+0855 NOP
+0856 NOP
+0857 Unrecognized instruction
+0858 Unrecognized instruction
+0859 Unrecognized instruction
+085a Unrecognized instruction
+085b Unrecognized instruction
+085c NOP
+085d MVI     B, #$98
+085f Unrecognized instruction
+0860 LXI     B,#$0f0f
+0863 Unrecognized instruction
+0864 Unrecognized instruction
+0865 NOP
+0866 RRC
+0867 Unrecognized instruction
+0868 Unrecognized instruction
+0869 RLC
+086a JMP     $077f
+086d MVI     A,#0x01
+086f JMP     $079b
+0872 Unrecognized instruction
+0873 Unrecognized instruction
+0874 STAX    B
+0875 JMP     $0814
+0878 Unrecognized instruction
+0879 NOP
+087a Unrecognized instruction
+087b Unrecognized instruction
+087c Unrecognized instruction
+087d DAD     B
+087e Unrecognized instruction
+087f Unrecognized instruction
+0880 JMP     $0886
+0883 NOP
+0884 NOP
+0885 NOP
+0886 Unrecognized instruction
+0887 Unrecognized instruction
+0888 Unrecognized instruction
+0889 Unrecognized instruction
+088a Unrecognized instruction
+088b Unrecognized instruction
+088c Unrecognized instruction
+088d Unrecognized instruction
+088e Unrecognized instruction
+088f Unrecognized instruction
+0890 Unrecognized instruction
+0891 Unrecognized instruction
+0892 Unrecognized instruction
+0893 MVI     C, #$0e
+0895 Unrecognized instruction
+0896 Unrecognized instruction
+0897 NOP
+0898 Unrecognized instruction
+0899 Unrecognized instruction
+089a Unrecognized instruction
+089b RRC
+089c MVI     A,#0x1c
+089e Unrecognized instruction
+089f Unrecognized instruction
+08a0 Unrecognized instruction
+08a1 Unrecognized instruction
+08a2 Unrecognized instruction
+08a3 NOP
+08a4 MVI     A,#0xb0
+08a6 Unrecognized instruction
+08a7 Unrecognized instruction
+08a8 Unrecognized instruction
+08a9 Unrecognized instruction
+08aa Unrecognized instruction
+08ab Unrecognized instruction
+08ac Unrecognized instruction
+08ad Unrecognized instruction
+08ae Unrecognized instruction
+08af INR     B
+08b2 NOP
+08b3 Unrecognized instruction
+08b4 Unrecognized instruction
+08b5 DAD     B
+08b6 Unrecognized instruction
+08b7 Unrecognized instruction
+08b8 Unrecognized instruction
+08b9 JMP     $08a9
+08bc MVI     B, #$20
+08be Unrecognized instruction
+08bf Unrecognized instruction
+08c0 Unrecognized instruction
+08c1 Unrecognized instruction
+08c2 Unrecognized instruction
+08c3 Unrecognized instruction
+08c4 RRC
+08c5 Unrecognized instruction
+08c6 Unrecognized instruction
+08c7 NOP
+08c8 Unrecognized instruction
+08c9 Unrecognized instruction
+08ca Unrecognized instruction
+08cb Unrecognized instruction
+08cc Unrecognized instruction
+08cd Unrecognized instruction
+08ce JMP     $08a9
+08d1 Unrecognized instruction
+08d2 STAX    B
+08d3 Unrecognized instruction
+08d4 INX     B
+08d5 Unrecognized instruction
+08d6 INX     B
+08d7 Unrecognized instruction
+08d8 Unrecognized instruction
+08d9 Unrecognized instruction
+08da Unrecognized instruction
+08db Unrecognized instruction
+08dc DAD     B
+08dd Unrecognized instruction
+08de MVI     A,#0xfb
+08e0 Unrecognized instruction
+08e1 Unrecognized instruction
+08e2 Unrecognized instruction
+08e3 Unrecognized instruction
+08e4 Unrecognized instruction
+08e5 Unrecognized instruction
+08e6 Unrecognized instruction
+08e7 Unrecognized instruction
+08e8 Unrecognized instruction
+08e9 Unrecognized instruction
+08ea Unrecognized instruction
+08eb Unrecognized instruction
+08ec MVI     B, #$20
+08ee JMP     $14cb
+08f1 MVI     C, #$03
+08f3 Unrecognized instruction
+08f4 Unrecognized instruction
+08f5 Unrecognized instruction
+08f6 Unrecognized instruction
+08f7 NOP
+08f8 Unrecognized instruction
+08f9 Unrecognized instruction
+08fa DCR     C
+08fb Unrecognized instruction
+08fc Unrecognized instruction
+08fd NOP
+08fe Unrecognized instruction
+08ff Unrecognized instruction
+0900 NOP
+0901 Unrecognized instruction
+0902 Unrecognized instruction
+0903 Unrecognized instruction
+0904 NOP
+0905 Unrecognized instruction
+0906 Unrecognized instruction
+0907 Unrecognized instruction
+0908 Unrecognized instruction
+0909 Unrecognized instruction
+090a Unrecognized instruction
+090b Unrecognized instruction
+090c MVI     B, #$08
+090e Unrecognized instruction
+090f MVI     B, #$c3
+0911 Unrecognized instruction
+0912 Unrecognized instruction
+0913 Unrecognized instruction
+0914 DAD     B
+0915 Unrecognized instruction
+0916 Unrecognized instruction
+0917 Unrecognized instruction
+0918 Unrecognized instruction
+0919 Unrecognized instruction
+091a Unrecognized instruction
+091b Unrecognized instruction
+091c Unrecognized instruction
+091d Unrecognized instruction
+091e Unrecognized instruction
+091f Unrecognized instruction
+0920 DAD     B
+0921 Unrecognized instruction
+0922 NOP
+0923 MVI     B, #$3e
+0925 LXI     B,#$8332
+0928 Unrecognized instruction
+0929 Unrecognized instruction
+092a Unrecognized instruction
+092b Unrecognized instruction
+092c Unrecognized instruction
+092d Unrecognized instruction
+092e Unrecognized instruction
+092f Unrecognized instruction
+0930 Unrecognized instruction
+0931 Unrecognized instruction
+0932 Unrecognized instruction
+0933 Unrecognized instruction
+0934 Unrecognized instruction
+0935 Unrecognized instruction
+0936 Unrecognized instruction
+0937 Unrecognized instruction
+0938 Unrecognized instruction
+0939 Unrecognized instruction
+093a Unrecognized instruction
+093b Unrecognized instruction
+093c Unrecognized instruction
+093d MVI     B, #$15
+093f Unrecognized instruction
+0940 STAX    B
+0941 Unrecognized instruction
+0942 NOP
+0943 Unrecognized instruction
+0944 Unrecognized instruction
+0945 DAD     B
+0946 MVI     B, #$10
+0948 Unrecognized instruction
+0949 Unrecognized instruction
+094a DAD     B
+094b Unrecognized instruction
+094c Unrecognized instruction
+094d Unrecognized instruction
+094e Unrecognized instruction
+094f Unrecognized instruction
+0950 Unrecognized instruction
+0951 DAD     B
+0952 Unrecognized instruction
+0953 Unrecognized instruction
+0954 Unrecognized instruction
+0955 Unrecognized instruction
+0956 LXI     B,#$2425
+0959 Unrecognized instruction
+095a Unrecognized instruction
+095b Unrecognized instruction
+095c Unrecognized instruction
+095d DAD     B
+095e MVI     B, #$10
+0960 Unrecognized instruction
+0961 Unrecognized instruction
+0962 Unrecognized instruction
+0963 Unrecognized instruction
+0964 Unrecognized instruction
+0965 Unrecognized instruction
+0966 Unrecognized instruction
+0967 Unrecognized instruction
+0968 Unrecognized instruction
+0969 Unrecognized instruction
+096a Unrecognized instruction
+096b Unrecognized instruction
+096c Unrecognized instruction
+096d Unrecognized instruction
+096e Unrecognized instruction
+096f Unrecognized instruction
+0970 Unrecognized instruction
+0971 NOP
+0972 MVI     A,#0xff
+0974 Unrecognized instruction
+0975 Unrecognized instruction
+0976 Unrecognized instruction
+0977 MVI     B, #$10
+0979 JMP     $18fa
+097c Unrecognized instruction
+097d Unrecognized instruction
+097e Unrecognized instruction
+097f Unrecognized instruction
+0980 STAX    B
+0981 Unrecognized instruction
+0982 Unrecognized instruction
+0983 Unrecognized instruction
+0984 INR     B
+0987 Unrecognized instruction
+0988 Unrecognized instruction
+0989 Unrecognized instruction
+098a DAD     B
+098b Unrecognized instruction
+098c Unrecognized instruction
+098d Unrecognized instruction
+098e Unrecognized instruction
+098f Unrecognized instruction
+0990 Unrecognized instruction
+0991 Unrecognized instruction
+0992 Unrecognized instruction
+0993 Unrecognized instruction
+0994 Unrecognized instruction
+0995 Unrecognized instruction
+0996 Unrecognized instruction
+0997 Unrecognized instruction
+0998 Unrecognized instruction
+0999 Unrecognized instruction
+099a Unrecognized instruction
+099b Unrecognized instruction
+099c Unrecognized instruction
+099d Unrecognized instruction
+099e Unrecognized instruction
+099f Unrecognized instruction
+09a0 Unrecognized instruction
+09a1 Unrecognized instruction
+09a2 Unrecognized instruction
+09a3 Unrecognized instruction
+09a4 Unrecognized instruction
+09a5 Unrecognized instruction
+09a6 Unrecognized instruction
+09a7 Unrecognized instruction
+09a8 Unrecognized instruction
+09a9 Unrecognized instruction
+09aa JMP     $09ad
+09ad Unrecognized instruction
+09ae Unrecognized instruction
+09af Unrecognized instruction
+09b0 DAD     B
+09b1 Unrecognized instruction
+09b2 Unrecognized instruction
+09b3 Unrecognized instruction
+09b4 RRC
+09b5 RRC
+09b6 RRC
+09b7 RRC
+09b8 Unrecognized instruction
+09b9 RRC
+09ba Unrecognized instruction
+09bb Unrecognized instruction
+09bc DAD     B
+09bd Unrecognized instruction
+09be Unrecognized instruction
+09bf RRC
+09c0 Unrecognized instruction
+09c1 Unrecognized instruction
+09c2 DAD     B
+09c3 Unrecognized instruction
+09c4 Unrecognized instruction
+09c5 Unrecognized instruction
+09c6 Unrecognized instruction
+09c7 JMP     $08ff
+09ca Unrecognized instruction
+09cb Unrecognized instruction
+09cc Unrecognized instruction
+09cd RRC
+09ce Unrecognized instruction
+09cf Unrecognized instruction
+09d0 Unrecognized instruction
+09d1 Unrecognized instruction
+09d2 Unrecognized instruction
+09d3 Unrecognized instruction
+09d4 Unrecognized instruction
+09d5 Unrecognized instruction
+09d6 Unrecognized instruction
+09d7 STAX    B
+09d8 Unrecognized instruction
+09d9 Unrecognized instruction
+09da NOP
+09db Unrecognized instruction
+09dc Unrecognized instruction
+09dd Unrecognized instruction
+09de Unrecognized instruction
+09df Unrecognized instruction
+09e0 Unrecognized instruction
+09e1 Unrecognized instruction
+09e2 Unrecognized instruction
+09e3 DAD     B
+09e4 Unrecognized instruction
+09e5 MVI     B, #$00
+09e7 Unrecognized instruction
+09e8 Unrecognized instruction
+09e9 Unrecognized instruction
+09ea Unrecognized instruction
+09eb Unrecognized instruction
+09ec Unrecognized instruction
+09ed DAD     B
+09ee Unrecognized instruction
+09ef Unrecognized instruction
+09f0 Unrecognized instruction
+09f1 LDAX    B
+09f2 Unrecognized instruction
+09f3 Unrecognized instruction
+09f4 Unrecognized instruction
+09f5 Unrecognized instruction
+09f6 Unrecognized instruction
+09f7 Unrecognized instruction
+09f8 DAD     B
+09f9 Unrecognized instruction
+09fa Unrecognized instruction
+09fb Unrecognized instruction
+09fc Unrecognized instruction
+09fd Unrecognized instruction
+09fe Unrecognized instruction
+09ff LXI     B,#$32f1
+0a02 Unrecognized instruction
+0a03 Unrecognized instruction
+0a04 Unrecognized instruction
+0a05 Unrecognized instruction
+0a06 Unrecognized instruction
+0a07 Unrecognized instruction
+0a08 Unrecognized instruction
+0a09 Unrecognized instruction
+0a0a Unrecognized instruction
+0a0b Unrecognized instruction
+0a0c Unrecognized instruction
+0a0d RLC
+0a0e Unrecognized instruction
+0a0f Unrecognized instruction
+0a10 Unrecognized instruction
+0a11 Unrecognized instruction
+0a12 Unrecognized instruction
+0a13 Unrecognized instruction
+0a14 Unrecognized instruction
+0a15 Unrecognized instruction
+0a16 Unrecognized instruction
+0a17 LDAX    B
+0a18 Unrecognized instruction
+0a19 Unrecognized instruction
+0a1a Unrecognized instruction
+0a1b Unrecognized instruction
+0a1c Unrecognized instruction
+0a1d Unrecognized instruction
+0a1e Unrecognized instruction
+0a1f Unrecognized instruction
+0a20 Unrecognized instruction
+0a21 RRC
+0a22 Unrecognized instruction
+0a23 Unrecognized instruction
+0a24 LDAX    B
+0a25 MVI     A,#0x21
+0a27 Unrecognized instruction
+0a28 Unrecognized instruction
+0a29 Unrecognized instruction
+0a2a Unrecognized instruction
+0a2b Unrecognized instruction
+0a2c LXI     B,#$04cd
+0a2f Unrecognized instruction
+0a30 JMP     $0804
+0a33 Unrecognized instruction
+0a34 Unrecognized instruction
+0a35 LXI     B,#$c0cd
+0a38 LXI     B,#$04c3
+0a3b NOP
+0a3c Unrecognized instruction
+0a3d Unrecognized instruction
+0a3e LDAX    B
+0a3f Unrecognized instruction
+0a40 Unrecognized instruction
+0a41 LDAX    B
+0a42 MVI     A,#0x30
+0a44 Unrecognized instruction
+0a45 Unrecognized instruction
+0a46 Unrecognized instruction
+0a47 Unrecognized instruction
+0a48 Unrecognized instruction
+0a49 Unrecognized instruction
+0a4a Unrecognized instruction
+0a4b Unrecognized instruction
+0a4c Unrecognized instruction
+0a4d Unrecognized instruction
+0a4e LDAX    B
+0a4f Unrecognized instruction
+0a50 Unrecognized instruction
+0a51 LDAX    B
+0a52 Unrecognized instruction
+0a53 Unrecognized instruction
+0a54 LDAX    B
+0a55 Unrecognized instruction
+0a56 Unrecognized instruction
+0a57 LDAX    B
+0a58 Unrecognized instruction
+0a59 Unrecognized instruction
+0a5a Unrecognized instruction
+0a5b Unrecognized instruction
+0a5c Unrecognized instruction
+0a5d Unrecognized instruction
+0a5e Unrecognized instruction
+0a5f Unrecognized instruction
+0a60 Unrecognized instruction
+0a61 Unrecognized instruction
+0a62 Unrecognized instruction
+0a63 Unrecognized instruction
+0a64 Unrecognized instruction
+0a65 LDAX    B
+0a66 Unrecognized instruction
+0a67 MVI     B, #$08
+0a69 Unrecognized instruction
+0a6a Unrecognized instruction
+0a6b Unrecognized instruction
+0a6c Unrecognized instruction
+0a6d Unrecognized instruction
+0a6e Unrecognized instruction
+0a6f Unrecognized instruction
+0a70 DAD     B
+0a71 Unrecognized instruction
+0a72 Unrecognized instruction
+0a73 Unrecognized instruction
+0a74 Unrecognized instruction
+0a75 Unrecognized instruction
+0a76 NOP
+0a77 Unrecognized instruction
+0a78 Unrecognized instruction
+0a79 Unrecognized instruction
+0a7a Unrecognized instruction
+0a7b LXI     B,#$6221
+0a7e Unrecognized instruction
+0a7f Unrecognized instruction
+0a80 MVI     A,#0x02
+0a82 Unrecognized instruction
+0a83 Unrecognized instruction
+0a84 Unrecognized instruction
+0a85 Unrecognized instruction
+0a86 MVI     B, #$3a
+0a88 Unrecognized instruction
+0a89 Unrecognized instruction
+0a8a Unrecognized instruction
+0a8b Unrecognized instruction
+0a8c Unrecognized instruction
+0a8d LDAX    B
+0a8e Unrecognized instruction
+0a8f Unrecognized instruction
+0a90 Unrecognized instruction
+0a91 Unrecognized instruction
+0a92 Unrecognized instruction
+0a93 Unrecognized instruction
+0a94 Unrecognized instruction
+0a95 Unrecognized instruction
+0a96 Unrecognized instruction
+0a97 NOP
+0a98 Unrecognized instruction
+0a99 MVI     A,#0x07
+0a9b Unrecognized instruction
+0a9c Unrecognized instruction
+0a9d Unrecognized instruction
+0a9e Unrecognized instruction
+0a9f Unrecognized instruction
+0aa0 Unrecognized instruction
+0aa1 Unrecognized instruction
+0aa2 Unrecognized instruction
+0aa3 Unrecognized instruction
+0aa4 LDAX    B
+0aa5 Unrecognized instruction
+0aa6 DCR     C
+0aa7 Unrecognized instruction
+0aa8 Unrecognized instruction
+0aa9 LDAX    B
+0aaa Unrecognized instruction
+0aab Unrecognized instruction
+0aac Unrecognized instruction
+0aad Unrecognized instruction
+0aae JMP     $024b
+0ab1 MVI     A,#0x40
+0ab3 JMP     $0ad7
+0ab6 MVI     A,#0x80
+0ab8 JMP     $0ad7
+0abb Unrecognized instruction
+0abc JMP     $0072
+0abf Unrecognized instruction
+0ac0 Unrecognized instruction
+0ac1 Unrecognized instruction
+0ac2 RRC
+0ac3 Unrecognized instruction
+0ac4 Unrecognized instruction
+0ac5 LDAX    B
+0ac6 RRC
+0ac7 Unrecognized instruction
+0ac8 Unrecognized instruction
+0ac9 Unrecognized instruction
+0aca RRC
+0acb Unrecognized instruction
+0acc Unrecognized instruction
+0acd LDAX    B
+0ace Unrecognized instruction
+0acf Unrecognized instruction
+0ad0 Unrecognized instruction
+0ad1 Unrecognized instruction
+0ad2 MVI     C, #$0f
+0ad4 JMP     $0a93
+0ad7 Unrecognized instruction
+0ad8 Unrecognized instruction
+0ad9 Unrecognized instruction
+0ada Unrecognized instruction
+0adb Unrecognized instruction
+0adc Unrecognized instruction
+0add Unrecognized instruction
+0ade Unrecognized instruction
+0adf Unrecognized instruction
+0ae0 LDAX    B
+0ae1 Unrecognized instruction
+0ae2 Unrecognized instruction
+0ae3 Unrecognized instruction
+0ae4 Unrecognized instruction
+0ae5 MVI     B, #$0c
+0ae7 JMP     $1a32
+0aea Unrecognized instruction
+0aeb Unrecognized instruction
+0aec INX     B
+0aed Unrecognized instruction
+0aee DCR     B
+0aef Unrecognized instruction
+0af0 Unrecognized instruction
+0af1 Unrecognized instruction
+0af2 Unrecognized instruction
+0af3 Unrecognized instruction
+0af4 Unrecognized instruction
+0af5 LDAX    B
+0af6 Unrecognized instruction
+0af7 Unrecognized instruction
+0af8 Unrecognized instruction
+0af9 Unrecognized instruction
+0afa Unrecognized instruction
+0afb Unrecognized instruction
+0afc Unrecognized instruction
+0afd MVI     C, #$04
+0aff Unrecognized instruction
+0b00 Unrecognized instruction
+0b01 DCX     B
+0b02 Unrecognized instruction
+0b03 Unrecognized instruction
+0b04 Unrecognized instruction
+0b05 Unrecognized instruction
+0b06 Unrecognized instruction
+0b07 LDAX    B
+0b08 Unrecognized instruction
+0b09 Unrecognized instruction
+0b0a Unrecognized instruction
+0b0b Unrecognized instruction
+0b0c Unrecognized instruction
+0b0d LDAX    B
+0b0e Unrecognized instruction
+0b0f Unrecognized instruction
+0b10 LDAX    B
+0b11 Unrecognized instruction
+0b12 Unrecognized instruction
+0b13 Unrecognized instruction
+0b14 Unrecognized instruction
+0b15 Unrecognized instruction
+0b16 LDAX    B
+0b17 Unrecognized instruction
+0b18 Unrecognized instruction
+0b19 Unrecognized instruction
+0b1a Unrecognized instruction
+0b1b Unrecognized instruction
+0b1c Unrecognized instruction
+0b1d DCX     B
+0b1e Unrecognized instruction
+0b1f Unrecognized instruction
+0b20 Unrecognized instruction
+0b21 Unrecognized instruction
+0b22 Unrecognized instruction
+0b23 LDAX    B
+0b24 Unrecognized instruction
+0b25 Unrecognized instruction
+0b26 LDAX    B
+0b27 Unrecognized instruction
+0b28 Unrecognized instruction
+0b29 Unrecognized instruction
+0b2a Unrecognized instruction
+0b2b Unrecognized instruction
+0b2c LDAX    B
+0b2d Unrecognized instruction
+0b2e Unrecognized instruction
+0b2f LDAX    B
+0b30 Unrecognized instruction
+0b31 Unrecognized instruction
+0b32 LDAX    B
+0b33 Unrecognized instruction
+0b34 Unrecognized instruction
+0b35 Unrecognized instruction
+0b36 Unrecognized instruction
+0b37 Unrecognized instruction
+0b38 LDAX    B
+0b39 Unrecognized instruction
+0b3a Unrecognized instruction
+0b3b LDAX    B
+0b3c Unrecognized instruction
+0b3d Unrecognized instruction
+0b3e LDAX    B
+0b3f Unrecognized instruction
+0b40 Unrecognized instruction
+0b41 Unrecognized instruction
+0b42 MVI     B, #$0a
+0b44 Unrecognized instruction
+0b45 Unrecognized instruction
+0b46 Unrecognized instruction
+0b47 Unrecognized instruction
+0b48 Unrecognized instruction
+0b49 LDAX    B
+0b4a Unrecognized instruction
+0b4b Unrecognized instruction
+0b4c DAD     B
+0b4d Unrecognized instruction
+0b4e Unrecognized instruction
+0b4f Unrecognized instruction
+0b50 Unrecognized instruction
+0b51 Unrecognized instruction
+0b52 Unrecognized instruction
+0b53 DCX     B
+0b54 Unrecognized instruction
+0b55 Unrecognized instruction
+0b56 NOP
+0b57 Unrecognized instruction
+0b58 Unrecognized instruction
+0b59 Unrecognized instruction
+0b5a Unrecognized instruction
+0b5b Unrecognized instruction
+0b5c Unrecognized instruction
+0b5d Unrecognized instruction
+0b5e Unrecognized instruction
+0b5f LXI     B,#$c0cd
+0b62 LXI     B,#$efcd
+0b65 LXI     B,#$1acd
+0b68 STAX    B
+0b69 MVI     A,#0x01
+0b6b Unrecognized instruction
+0b6c Unrecognized instruction
+0b6d Unrecognized instruction
+0b6e Unrecognized instruction
+0b6f Unrecognized instruction
+0b70 LXI     B,#$18cd
+0b73 Unrecognized instruction
+0b74 Unrecognized instruction
+0b75 Unrecognized instruction
+0b76 DCX     B
+0b77 Unrecognized instruction
+0b78 MVI     B, #$cd
+0b7a Unrecognized instruction
+0b7b LDAX    B
+0b7c Unrecognized instruction
+0b7d Unrecognized instruction
+0b7e DCX     B
+0b7f Unrecognized instruction
+0b80 Unrecognized instruction
+0b81 Unrecognized instruction
+0b82 Unrecognized instruction
+0b83 Unrecognized instruction
+0b84 Unrecognized instruction
+0b85 LDAX    B
+0b86 Unrecognized instruction
+0b87 Unrecognized instruction
+0b88 DCX     B
+0b89 Unrecognized instruction
+0b8a Unrecognized instruction
+0b8b Unrecognized instruction
+0b8c Unrecognized instruction
+0b8d Unrecognized instruction
+0b8e Unrecognized instruction
+0b8f LDAX    B
+0b90 Unrecognized instruction
+0b91 Unrecognized instruction
+0b92 Unrecognized instruction
+0b93 MVI     C, #$0c
+0b95 Unrecognized instruction
+0b96 Unrecognized instruction
+0b97 Unrecognized instruction
+0b98 Unrecognized instruction
+0b99 Unrecognized instruction
+0b9a Unrecognized instruction
+0b9b Unrecognized instruction
+0b9c Unrecognized instruction
+0b9d NOP
+0b9e Unrecognized instruction
+0b9f Unrecognized instruction
+0ba0 Unrecognized instruction
+0ba1 Unrecognized instruction
+0ba2 NOP
+0ba3 Unrecognized instruction
+0ba4 Unrecognized instruction
+0ba5 DCX     B
+0ba6 Unrecognized instruction
+0ba7 Unrecognized instruction
+0ba8 Unrecognized instruction
+0ba9 MVI     A,#0x02
+0bab Unrecognized instruction
+0bac Unrecognized instruction
+0bad NOP
+0bae LXI     B,#$1f9c
+0bb1 Unrecognized instruction
+0bb2 Unrecognized instruction
+0bb3 Unrecognized instruction
+0bb4 Unrecognized instruction
+0bb5 Unrecognized instruction
+0bb6 Unrecognized instruction
+0bb7 Unrecognized instruction
+0bb8 STAX    B
+0bb9 RLC
+0bba Unrecognized instruction
+0bbb JMP     $010b
+0bbe Unrecognized instruction
+0bbf Unrecognized instruction
+0bc0 Unrecognized instruction
+0bc1 Unrecognized instruction
+0bc2 Unrecognized instruction
+0bc3 Unrecognized instruction
+0bc4 Unrecognized instruction
+0bc5 LDAX    B
+0bc6 Unrecognized instruction
+0bc7 Unrecognized instruction
+0bc8 Unrecognized instruction
+0bc9 Unrecognized instruction
+0bca NOP
+0bcb Unrecognized instruction
+0bcc Unrecognized instruction
+0bcd DCX     B
+0bce Unrecognized instruction
+0bcf Unrecognized instruction
+0bd0 Unrecognized instruction
+0bd1 Unrecognized instruction
+0bd2 Unrecognized instruction
+0bd3 LDAX    B
+0bd4 Unrecognized instruction
+0bd5 Unrecognized instruction
+0bd6 LDAX    B
+0bd7 Unrecognized instruction
+0bd8 Unrecognized instruction
+0bd9 Unrecognized instruction
+0bda Unrecognized instruction
+0bdb Unrecognized instruction
+0bdc Unrecognized instruction
+0bdd Unrecognized instruction
+0bde Unrecognized instruction
+0bdf Unrecognized instruction
+0be0 LXI     B,#$cd77
+0be3 Unrecognized instruction
+0be4 DAD     B
+0be5 JMP     $18df
+0be8 Unrecognized instruction
+0be9 Unrecognized instruction
+0bea Unrecognized instruction
+0beb Unrecognized instruction
+0bec Unrecognized instruction
+0bed LDAX    B
+0bee JMP     $0b0b
+0bf1 Unrecognized instruction
+0bf2 LDAX    B
+0bf3 Unrecognized instruction
+0bf4 JMP     $199a
+0bf7 Unrecognized instruction
+0bf8 NOP
+0bf9 NOP
+0bfa Unrecognized instruction
+0bfb MVI     C, #$26
+0bfd STAX    B
+0bfe MVI     C, #$0f
+0c00 NOP
+0c01 NOP
+0c02 NOP
+0c03 NOP
+0c04 NOP
+0c05 NOP
+0c06 NOP
+0c07 NOP
+0c08 NOP
+0c09 NOP
+0c0a NOP
+0c0b NOP
+0c0c NOP
+0c0d NOP
+0c0e NOP
+0c0f NOP
+0c10 NOP
+0c11 NOP
+0c12 NOP
+0c13 NOP
+0c14 NOP
+0c15 NOP
+0c16 NOP
+0c17 NOP
+0c18 NOP
+0c19 NOP
+0c1a NOP
+0c1b NOP
+0c1c NOP
+0c1d NOP
+0c1e NOP
+0c1f NOP
+0c20 NOP
+0c21 NOP
+0c22 NOP
+0c23 NOP
+0c24 NOP
+0c25 NOP
+0c26 NOP
+0c27 NOP
+0c28 NOP
+0c29 NOP
+0c2a NOP
+0c2b NOP
+0c2c NOP
+0c2d NOP
+0c2e NOP
+0c2f NOP
+0c30 NOP
+0c31 NOP
+0c32 NOP
+0c33 NOP
+0c34 NOP
+0c35 NOP
+0c36 NOP
+0c37 NOP
+0c38 NOP
+0c39 NOP
+0c3a NOP
+0c3b NOP
+0c3c NOP
+0c3d NOP
+0c3e NOP
+0c3f NOP
+0c40 NOP
+0c41 NOP
+0c42 NOP
+0c43 NOP
+0c44 NOP
+0c45 NOP
+0c46 NOP
+0c47 NOP
+0c48 NOP
+0c49 NOP
+0c4a NOP
+0c4b NOP
+0c4c NOP
+0c4d NOP
+0c4e NOP
+0c4f NOP
+0c50 NOP
+0c51 NOP
+0c52 NOP
+0c53 NOP
+0c54 NOP
+0c55 NOP
+0c56 NOP
+0c57 NOP
+0c58 NOP
+0c59 NOP
+0c5a NOP
+0c5b NOP
+0c5c NOP
+0c5d NOP
+0c5e NOP
+0c5f NOP
+0c60 NOP
+0c61 NOP
+0c62 NOP
+0c63 NOP
+0c64 NOP
+0c65 NOP
+0c66 NOP
+0c67 NOP
+0c68 NOP
+0c69 NOP
+0c6a NOP
+0c6b NOP
+0c6c NOP
+0c6d NOP
+0c6e NOP
+0c6f NOP
+0c70 NOP
+0c71 NOP
+0c72 NOP
+0c73 NOP
+0c74 NOP
+0c75 NOP
+0c76 NOP
+0c77 NOP
+0c78 NOP
+0c79 NOP
+0c7a NOP
+0c7b NOP
+0c7c NOP
+0c7d NOP
+0c7e NOP
+0c7f NOP
+0c80 NOP
+0c81 NOP
+0c82 NOP
+0c83 NOP
+0c84 NOP
+0c85 NOP
+0c86 NOP
+0c87 NOP
+0c88 NOP
+0c89 NOP
+0c8a NOP
+0c8b NOP
+0c8c NOP
+0c8d NOP
+0c8e NOP
+0c8f NOP
+0c90 NOP
+0c91 NOP
+0c92 NOP
+0c93 NOP
+0c94 NOP
+0c95 NOP
+0c96 NOP
+0c97 NOP
+0c98 NOP
+0c99 NOP
+0c9a NOP
+0c9b NOP
+0c9c NOP
+0c9d NOP
+0c9e NOP
+0c9f NOP
+0ca0 NOP
+0ca1 NOP
+0ca2 NOP
+0ca3 NOP
+0ca4 NOP
+0ca5 NOP
+0ca6 NOP
+0ca7 NOP
+0ca8 NOP
+0ca9 NOP
+0caa NOP
+0cab NOP
+0cac NOP
+0cad NOP
+0cae NOP
+0caf NOP
+0cb0 NOP
+0cb1 NOP
+0cb2 NOP
+0cb3 NOP
+0cb4 NOP
+0cb5 NOP
+0cb6 NOP
+0cb7 NOP
+0cb8 NOP
+0cb9 NOP
+0cba NOP
+0cbb NOP
+0cbc NOP
+0cbd NOP
+0cbe NOP
+0cbf NOP
+0cc0 NOP
+0cc1 NOP
+0cc2 NOP
+0cc3 NOP
+0cc4 NOP
+0cc5 NOP
+0cc6 NOP
+0cc7 NOP
+0cc8 NOP
+0cc9 NOP
+0cca NOP
+0ccb NOP
+0ccc NOP
+0ccd NOP
+0cce NOP
+0ccf NOP
+0cd0 NOP
+0cd1 NOP
+0cd2 NOP
+0cd3 NOP
+0cd4 NOP
+0cd5 NOP
+0cd6 NOP
+0cd7 NOP
+0cd8 NOP
+0cd9 NOP
+0cda NOP
+0cdb NOP
+0cdc NOP
+0cdd NOP
+0cde NOP
+0cdf NOP
+0ce0 NOP
+0ce1 NOP
+0ce2 NOP
+0ce3 NOP
+0ce4 NOP
+0ce5 NOP
+0ce6 NOP
+0ce7 NOP
+0ce8 NOP
+0ce9 NOP
+0cea NOP
+0ceb NOP
+0cec NOP
+0ced NOP
+0cee NOP
+0cef NOP
+0cf0 NOP
+0cf1 NOP
+0cf2 NOP
+0cf3 NOP
+0cf4 NOP
+0cf5 NOP
+0cf6 NOP
+0cf7 NOP
+0cf8 NOP
+0cf9 NOP
+0cfa NOP
+0cfb NOP
+0cfc NOP
+0cfd NOP
+0cfe NOP
+0cff NOP
+0d00 NOP
+0d01 NOP
+0d02 NOP
+0d03 NOP
+0d04 NOP
+0d05 NOP
+0d06 NOP
+0d07 NOP
+0d08 NOP
+0d09 NOP
+0d0a NOP
+0d0b NOP
+0d0c NOP
+0d0d NOP
+0d0e NOP
+0d0f NOP
+0d10 NOP
+0d11 NOP
+0d12 NOP
+0d13 NOP
+0d14 NOP
+0d15 NOP
+0d16 NOP
+0d17 NOP
+0d18 NOP
+0d19 NOP
+0d1a NOP
+0d1b NOP
+0d1c NOP
+0d1d NOP
+0d1e NOP
+0d1f NOP
+0d20 NOP
+0d21 NOP
+0d22 NOP
+0d23 NOP
+0d24 NOP
+0d25 NOP
+0d26 NOP
+0d27 NOP
+0d28 NOP
+0d29 NOP
+0d2a NOP
+0d2b NOP
+0d2c NOP
+0d2d NOP
+0d2e NOP
+0d2f NOP
+0d30 NOP
+0d31 NOP
+0d32 NOP
+0d33 NOP
+0d34 NOP
+0d35 NOP
+0d36 NOP
+0d37 NOP
+0d38 NOP
+0d39 NOP
+0d3a NOP
+0d3b NOP
+0d3c NOP
+0d3d NOP
+0d3e NOP
+0d3f NOP
+0d40 NOP
+0d41 NOP
+0d42 NOP
+0d43 NOP
+0d44 NOP
+0d45 NOP
+0d46 NOP
+0d47 NOP
+0d48 NOP
+0d49 NOP
+0d4a NOP
+0d4b NOP
+0d4c NOP
+0d4d NOP
+0d4e NOP
+0d4f NOP
+0d50 NOP
+0d51 NOP
+0d52 NOP
+0d53 NOP
+0d54 NOP
+0d55 NOP
+0d56 NOP
+0d57 NOP
+0d58 NOP
+0d59 NOP
+0d5a NOP
+0d5b NOP
+0d5c NOP
+0d5d NOP
+0d5e NOP
+0d5f NOP
+0d60 NOP
+0d61 NOP
+0d62 NOP
+0d63 NOP
+0d64 NOP
+0d65 NOP
+0d66 NOP
+0d67 NOP
+0d68 NOP
+0d69 NOP
+0d6a NOP
+0d6b NOP
+0d6c NOP
+0d6d NOP
+0d6e NOP
+0d6f NOP
+0d70 NOP
+0d71 NOP
+0d72 NOP
+0d73 NOP
+0d74 NOP
+0d75 NOP
+0d76 NOP
+0d77 NOP
+0d78 NOP
+0d79 NOP
+0d7a NOP
+0d7b NOP
+0d7c NOP
+0d7d NOP
+0d7e NOP
+0d7f NOP
+0d80 NOP
+0d81 NOP
+0d82 NOP
+0d83 NOP
+0d84 NOP
+0d85 NOP
+0d86 NOP
+0d87 NOP
+0d88 NOP
+0d89 NOP
+0d8a NOP
+0d8b NOP
+0d8c NOP
+0d8d NOP
+0d8e NOP
+0d8f NOP
+0d90 NOP
+0d91 NOP
+0d92 NOP
+0d93 NOP
+0d94 NOP
+0d95 NOP
+0d96 NOP
+0d97 NOP
+0d98 NOP
+0d99 NOP
+0d9a NOP
+0d9b NOP
+0d9c NOP
+0d9d NOP
+0d9e NOP
+0d9f NOP
+0da0 NOP
+0da1 NOP
+0da2 NOP
+0da3 NOP
+0da4 NOP
+0da5 NOP
+0da6 NOP
+0da7 NOP
+0da8 NOP
+0da9 NOP
+0daa NOP
+0dab NOP
+0dac NOP
+0dad NOP
+0dae NOP
+0daf NOP
+0db0 NOP
+0db1 NOP
+0db2 NOP
+0db3 NOP
+0db4 NOP
+0db5 NOP
+0db6 NOP
+0db7 NOP
+0db8 NOP
+0db9 NOP
+0dba NOP
+0dbb NOP
+0dbc NOP
+0dbd NOP
+0dbe NOP
+0dbf NOP
+0dc0 NOP
+0dc1 NOP
+0dc2 NOP
+0dc3 NOP
+0dc4 NOP
+0dc5 NOP
+0dc6 NOP
+0dc7 NOP
+0dc8 NOP
+0dc9 NOP
+0dca NOP
+0dcb NOP
+0dcc NOP
+0dcd NOP
+0dce NOP
+0dcf NOP
+0dd0 NOP
+0dd1 NOP
+0dd2 NOP
+0dd3 NOP
+0dd4 NOP
+0dd5 NOP
+0dd6 NOP
+0dd7 NOP
+0dd8 NOP
+0dd9 NOP
+0dda NOP
+0ddb NOP
+0ddc NOP
+0ddd NOP
+0dde NOP
+0ddf NOP
+0de0 NOP
+0de1 NOP
+0de2 NOP
+0de3 NOP
+0de4 NOP
+0de5 NOP
+0de6 NOP
+0de7 NOP
+0de8 NOP
+0de9 NOP
+0dea NOP
+0deb NOP
+0dec NOP
+0ded NOP
+0dee NOP
+0def NOP
+0df0 NOP
+0df1 NOP
+0df2 NOP
+0df3 NOP
+0df4 NOP
+0df5 NOP
+0df6 NOP
+0df7 NOP
+0df8 NOP
+0df9 NOP
+0dfa NOP
+0dfb NOP
+0dfc NOP
+0dfd NOP
+0dfe NOP
+0dff NOP
+0e00 NOP
+0e01 NOP
+0e02 NOP
+0e03 NOP
+0e04 NOP
+0e05 NOP
+0e06 NOP
+0e07 NOP
+0e08 NOP
+0e09 NOP
+0e0a NOP
+0e0b NOP
+0e0c NOP
+0e0d NOP
+0e0e NOP
+0e0f NOP
+0e10 NOP
+0e11 NOP
+0e12 NOP
+0e13 NOP
+0e14 NOP
+0e15 NOP
+0e16 NOP
+0e17 NOP
+0e18 NOP
+0e19 NOP
+0e1a NOP
+0e1b NOP
+0e1c NOP
+0e1d NOP
+0e1e NOP
+0e1f NOP
+0e20 NOP
+0e21 NOP
+0e22 NOP
+0e23 NOP
+0e24 NOP
+0e25 NOP
+0e26 NOP
+0e27 NOP
+0e28 NOP
+0e29 NOP
+0e2a NOP
+0e2b NOP
+0e2c NOP
+0e2d NOP
+0e2e NOP
+0e2f NOP
+0e30 NOP
+0e31 NOP
+0e32 NOP
+0e33 NOP
+0e34 NOP
+0e35 NOP
+0e36 NOP
+0e37 NOP
+0e38 NOP
+0e39 NOP
+0e3a NOP
+0e3b NOP
+0e3c NOP
+0e3d NOP
+0e3e NOP
+0e3f NOP
+0e40 NOP
+0e41 NOP
+0e42 NOP
+0e43 NOP
+0e44 NOP
+0e45 NOP
+0e46 NOP
+0e47 NOP
+0e48 NOP
+0e49 NOP
+0e4a NOP
+0e4b NOP
+0e4c NOP
+0e4d NOP
+0e4e NOP
+0e4f NOP
+0e50 NOP
+0e51 NOP
+0e52 NOP
+0e53 NOP
+0e54 NOP
+0e55 NOP
+0e56 NOP
+0e57 NOP
+0e58 NOP
+0e59 NOP
+0e5a NOP
+0e5b NOP
+0e5c NOP
+0e5d NOP
+0e5e NOP
+0e5f NOP
+0e60 NOP
+0e61 NOP
+0e62 NOP
+0e63 NOP
+0e64 NOP
+0e65 NOP
+0e66 NOP
+0e67 NOP
+0e68 NOP
+0e69 NOP
+0e6a NOP
+0e6b NOP
+0e6c NOP
+0e6d NOP
+0e6e NOP
+0e6f NOP
+0e70 NOP
+0e71 NOP
+0e72 NOP
+0e73 NOP
+0e74 NOP
+0e75 NOP
+0e76 NOP
+0e77 NOP
+0e78 NOP
+0e79 NOP
+0e7a NOP
+0e7b NOP
+0e7c NOP
+0e7d NOP
+0e7e NOP
+0e7f NOP
+0e80 NOP
+0e81 NOP
+0e82 NOP
+0e83 NOP
+0e84 NOP
+0e85 NOP
+0e86 NOP
+0e87 NOP
+0e88 NOP
+0e89 NOP
+0e8a NOP
+0e8b NOP
+0e8c NOP
+0e8d NOP
+0e8e NOP
+0e8f NOP
+0e90 NOP
+0e91 NOP
+0e92 NOP
+0e93 NOP
+0e94 NOP
+0e95 NOP
+0e96 NOP
+0e97 NOP
+0e98 NOP
+0e99 NOP
+0e9a NOP
+0e9b NOP
+0e9c NOP
+0e9d NOP
+0e9e NOP
+0e9f NOP
+0ea0 NOP
+0ea1 NOP
+0ea2 NOP
+0ea3 NOP
+0ea4 NOP
+0ea5 NOP
+0ea6 NOP
+0ea7 NOP
+0ea8 NOP
+0ea9 NOP
+0eaa NOP
+0eab NOP
+0eac NOP
+0ead NOP
+0eae NOP
+0eaf NOP
+0eb0 NOP
+0eb1 NOP
+0eb2 NOP
+0eb3 NOP
+0eb4 NOP
+0eb5 NOP
+0eb6 NOP
+0eb7 NOP
+0eb8 NOP
+0eb9 NOP
+0eba NOP
+0ebb NOP
+0ebc NOP
+0ebd NOP
+0ebe NOP
+0ebf NOP
+0ec0 NOP
+0ec1 NOP
+0ec2 NOP
+0ec3 NOP
+0ec4 NOP
+0ec5 NOP
+0ec6 NOP
+0ec7 NOP
+0ec8 NOP
+0ec9 NOP
+0eca NOP
+0ecb NOP
+0ecc NOP
+0ecd NOP
+0ece NOP
+0ecf NOP
+0ed0 NOP
+0ed1 NOP
+0ed2 NOP
+0ed3 NOP
+0ed4 NOP
+0ed5 NOP
+0ed6 NOP
+0ed7 NOP
+0ed8 NOP
+0ed9 NOP
+0eda NOP
+0edb NOP
+0edc NOP
+0edd NOP
+0ede NOP
+0edf NOP
+0ee0 NOP
+0ee1 NOP
+0ee2 NOP
+0ee3 NOP
+0ee4 NOP
+0ee5 NOP
+0ee6 NOP
+0ee7 NOP
+0ee8 NOP
+0ee9 NOP
+0eea NOP
+0eeb NOP
+0eec NOP
+0eed NOP
+0eee NOP
+0eef NOP
+0ef0 NOP
+0ef1 NOP
+0ef2 NOP
+0ef3 NOP
+0ef4 NOP
+0ef5 NOP
+0ef6 NOP
+0ef7 NOP
+0ef8 NOP
+0ef9 NOP
+0efa NOP
+0efb NOP
+0efc NOP
+0efd NOP
+0efe NOP
+0eff NOP
+0f00 NOP
+0f01 NOP
+0f02 NOP
+0f03 NOP
+0f04 NOP
+0f05 NOP
+0f06 NOP
+0f07 NOP
+0f08 NOP
+0f09 NOP
+0f0a NOP
+0f0b NOP
+0f0c NOP
+0f0d NOP
+0f0e NOP
+0f0f NOP
+0f10 NOP
+0f11 NOP
+0f12 NOP
+0f13 NOP
+0f14 NOP
+0f15 NOP
+0f16 NOP
+0f17 NOP
+0f18 NOP
+0f19 NOP
+0f1a NOP
+0f1b NOP
+0f1c NOP
+0f1d NOP
+0f1e NOP
+0f1f NOP
+0f20 NOP
+0f21 NOP
+0f22 NOP
+0f23 NOP
+0f24 NOP
+0f25 NOP
+0f26 NOP
+0f27 NOP
+0f28 NOP
+0f29 NOP
+0f2a NOP
+0f2b NOP
+0f2c NOP
+0f2d NOP
+0f2e NOP
+0f2f NOP
+0f30 NOP
+0f31 NOP
+0f32 NOP
+0f33 NOP
+0f34 NOP
+0f35 NOP
+0f36 NOP
+0f37 NOP
+0f38 NOP
+0f39 NOP
+0f3a NOP
+0f3b NOP
+0f3c NOP
+0f3d NOP
+0f3e NOP
+0f3f NOP
+0f40 NOP
+0f41 NOP
+0f42 NOP
+0f43 NOP
+0f44 NOP
+0f45 NOP
+0f46 NOP
+0f47 NOP
+0f48 NOP
+0f49 NOP
+0f4a NOP
+0f4b NOP
+0f4c NOP
+0f4d NOP
+0f4e NOP
+0f4f NOP
+0f50 NOP
+0f51 NOP
+0f52 NOP
+0f53 NOP
+0f54 NOP
+0f55 NOP
+0f56 NOP
+0f57 NOP
+0f58 NOP
+0f59 NOP
+0f5a NOP
+0f5b NOP
+0f5c NOP
+0f5d NOP
+0f5e NOP
+0f5f NOP
+0f60 NOP
+0f61 NOP
+0f62 NOP
+0f63 NOP
+0f64 NOP
+0f65 NOP
+0f66 NOP
+0f67 NOP
+0f68 NOP
+0f69 NOP
+0f6a NOP
+0f6b NOP
+0f6c NOP
+0f6d NOP
+0f6e NOP
+0f6f NOP
+0f70 NOP
+0f71 NOP
+0f72 NOP
+0f73 NOP
+0f74 NOP
+0f75 NOP
+0f76 NOP
+0f77 NOP
+0f78 NOP
+0f79 NOP
+0f7a NOP
+0f7b NOP
+0f7c NOP
+0f7d NOP
+0f7e NOP
+0f7f NOP
+0f80 NOP
+0f81 NOP
+0f82 NOP
+0f83 NOP
+0f84 NOP
+0f85 NOP
+0f86 NOP
+0f87 NOP
+0f88 NOP
+0f89 NOP
+0f8a NOP
+0f8b NOP
+0f8c NOP
+0f8d NOP
+0f8e NOP
+0f8f NOP
+0f90 NOP
+0f91 NOP
+0f92 NOP
+0f93 NOP
+0f94 NOP
+0f95 NOP
+0f96 NOP
+0f97 NOP
+0f98 NOP
+0f99 NOP
+0f9a NOP
+0f9b NOP
+0f9c NOP
+0f9d NOP
+0f9e NOP
+0f9f NOP
+0fa0 NOP
+0fa1 NOP
+0fa2 NOP
+0fa3 NOP
+0fa4 NOP
+0fa5 NOP
+0fa6 NOP
+0fa7 NOP
+0fa8 NOP
+0fa9 NOP
+0faa NOP
+0fab NOP
+0fac NOP
+0fad NOP
+0fae NOP
+0faf NOP
+0fb0 NOP
+0fb1 NOP
+0fb2 NOP
+0fb3 NOP
+0fb4 NOP
+0fb5 NOP
+0fb6 NOP
+0fb7 NOP
+0fb8 NOP
+0fb9 NOP
+0fba NOP
+0fbb NOP
+0fbc NOP
+0fbd NOP
+0fbe NOP
+0fbf NOP
+0fc0 NOP
+0fc1 NOP
+0fc2 NOP
+0fc3 NOP
+0fc4 NOP
+0fc5 NOP
+0fc6 NOP
+0fc7 NOP
+0fc8 NOP
+0fc9 NOP
+0fca NOP
+0fcb NOP
+0fcc NOP
+0fcd NOP
+0fce NOP
+0fcf NOP
+0fd0 NOP
+0fd1 NOP
+0fd2 NOP
+0fd3 NOP
+0fd4 NOP
+0fd5 NOP
+0fd6 NOP
+0fd7 NOP
+0fd8 NOP
+0fd9 NOP
+0fda NOP
+0fdb NOP
+0fdc NOP
+0fdd NOP
+0fde NOP
+0fdf NOP
+0fe0 NOP
+0fe1 NOP
+0fe2 NOP
+0fe3 NOP
+0fe4 NOP
+0fe5 NOP
+0fe6 NOP
+0fe7 NOP
+0fe8 NOP
+0fe9 NOP
+0fea NOP
+0feb NOP
+0fec NOP
+0fed NOP
+0fee NOP
+0fef NOP
+0ff0 NOP
+0ff1 NOP
+0ff2 NOP
+0ff3 NOP
+0ff4 NOP
+0ff5 NOP
+0ff6 NOP
+0ff7 NOP
+0ff8 NOP
+0ff9 NOP
+0ffa NOP
+0ffb NOP
+0ffc NOP
+0ffd NOP
+0ffe NOP
+0fff NOP
+1000 NOP
+1001 NOP
+1002 NOP
+1003 NOP
+1004 NOP
+1005 NOP
+1006 NOP
+1007 NOP
+1008 NOP
+1009 NOP
+100a NOP
+100b NOP
+100c NOP
+100d NOP
+100e NOP
+100f NOP
+1010 NOP
+1011 NOP
+1012 NOP
+1013 NOP
+1014 NOP
+1015 NOP
+1016 NOP
+1017 NOP
+1018 NOP
+1019 NOP
+101a NOP
+101b NOP
+101c NOP
+101d NOP
+101e NOP
+101f NOP
+1020 NOP
+1021 NOP
+1022 NOP
+1023 NOP
+1024 NOP
+1025 NOP
+1026 NOP
+1027 NOP
+1028 NOP
+1029 NOP
+102a NOP
+102b NOP
+102c NOP
+102d NOP
+102e NOP
+102f NOP
+1030 NOP
+1031 NOP
+1032 NOP
+1033 NOP
+1034 NOP
+1035 NOP
+1036 NOP
+1037 NOP
+1038 NOP
+1039 NOP
+103a NOP
+103b NOP
+103c NOP
+103d NOP
+103e NOP
+103f NOP
+1040 NOP
+1041 NOP
+1042 NOP
+1043 NOP
+1044 NOP
+1045 NOP
+1046 NOP
+1047 NOP
+1048 NOP
+1049 NOP
+104a NOP
+104b NOP
+104c NOP
+104d NOP
+104e NOP
+104f NOP
+1050 NOP
+1051 NOP
+1052 NOP
+1053 NOP
+1054 NOP
+1055 NOP
+1056 NOP
+1057 NOP
+1058 NOP
+1059 NOP
+105a NOP
+105b NOP
+105c NOP
+105d NOP
+105e NOP
+105f NOP
+1060 NOP
+1061 NOP
+1062 NOP
+1063 NOP
+1064 NOP
+1065 NOP
+1066 NOP
+1067 NOP
+1068 NOP
+1069 NOP
+106a NOP
+106b NOP
+106c NOP
+106d NOP
+106e NOP
+106f NOP
+1070 NOP
+1071 NOP
+1072 NOP
+1073 NOP
+1074 NOP
+1075 NOP
+1076 NOP
+1077 NOP
+1078 NOP
+1079 NOP
+107a NOP
+107b NOP
+107c NOP
+107d NOP
+107e NOP
+107f NOP
+1080 NOP
+1081 NOP
+1082 NOP
+1083 NOP
+1084 NOP
+1085 NOP
+1086 NOP
+1087 NOP
+1088 NOP
+1089 NOP
+108a NOP
+108b NOP
+108c NOP
+108d NOP
+108e NOP
+108f NOP
+1090 NOP
+1091 NOP
+1092 NOP
+1093 NOP
+1094 NOP
+1095 NOP
+1096 NOP
+1097 NOP
+1098 NOP
+1099 NOP
+109a NOP
+109b NOP
+109c NOP
+109d NOP
+109e NOP
+109f NOP
+10a0 NOP
+10a1 NOP
+10a2 NOP
+10a3 NOP
+10a4 NOP
+10a5 NOP
+10a6 NOP
+10a7 NOP
+10a8 NOP
+10a9 NOP
+10aa NOP
+10ab NOP
+10ac NOP
+10ad NOP
+10ae NOP
+10af NOP
+10b0 NOP
+10b1 NOP
+10b2 NOP
+10b3 NOP
+10b4 NOP
+10b5 NOP
+10b6 NOP
+10b7 NOP
+10b8 NOP
+10b9 NOP
+10ba NOP
+10bb NOP
+10bc NOP
+10bd NOP
+10be NOP
+10bf NOP
+10c0 NOP
+10c1 NOP
+10c2 NOP
+10c3 NOP
+10c4 NOP
+10c5 NOP
+10c6 NOP
+10c7 NOP
+10c8 NOP
+10c9 NOP
+10ca NOP
+10cb NOP
+10cc NOP
+10cd NOP
+10ce NOP
+10cf NOP
+10d0 NOP
+10d1 NOP
+10d2 NOP
+10d3 NOP
+10d4 NOP
+10d5 NOP
+10d6 NOP
+10d7 NOP
+10d8 NOP
+10d9 NOP
+10da NOP
+10db NOP
+10dc NOP
+10dd NOP
+10de NOP
+10df NOP
+10e0 NOP
+10e1 NOP
+10e2 NOP
+10e3 NOP
+10e4 NOP
+10e5 NOP
+10e6 NOP
+10e7 NOP
+10e8 NOP
+10e9 NOP
+10ea NOP
+10eb NOP
+10ec NOP
+10ed NOP
+10ee NOP
+10ef NOP
+10f0 NOP
+10f1 NOP
+10f2 NOP
+10f3 NOP
+10f4 NOP
+10f5 NOP
+10f6 NOP
+10f7 NOP
+10f8 NOP
+10f9 NOP
+10fa NOP
+10fb NOP
+10fc NOP
+10fd NOP
+10fe NOP
+10ff NOP
+1100 NOP
+1101 NOP
+1102 NOP
+1103 NOP
+1104 NOP
+1105 NOP
+1106 NOP
+1107 NOP
+1108 NOP
+1109 NOP
+110a NOP
+110b NOP
+110c NOP
+110d NOP
+110e NOP
+110f NOP
+1110 NOP
+1111 NOP
+1112 NOP
+1113 NOP
+1114 NOP
+1115 NOP
+1116 NOP
+1117 NOP
+1118 NOP
+1119 NOP
+111a NOP
+111b NOP
+111c NOP
+111d NOP
+111e NOP
+111f NOP
+1120 NOP
+1121 NOP
+1122 NOP
+1123 NOP
+1124 NOP
+1125 NOP
+1126 NOP
+1127 NOP
+1128 NOP
+1129 NOP
+112a NOP
+112b NOP
+112c NOP
+112d NOP
+112e NOP
+112f NOP
+1130 NOP
+1131 NOP
+1132 NOP
+1133 NOP
+1134 NOP
+1135 NOP
+1136 NOP
+1137 NOP
+1138 NOP
+1139 NOP
+113a NOP
+113b NOP
+113c NOP
+113d NOP
+113e NOP
+113f NOP
+1140 NOP
+1141 NOP
+1142 NOP
+1143 NOP
+1144 NOP
+1145 NOP
+1146 NOP
+1147 NOP
+1148 NOP
+1149 NOP
+114a NOP
+114b NOP
+114c NOP
+114d NOP
+114e NOP
+114f NOP
+1150 NOP
+1151 NOP
+1152 NOP
+1153 NOP
+1154 NOP
+1155 NOP
+1156 NOP
+1157 NOP
+1158 NOP
+1159 NOP
+115a NOP
+115b NOP
+115c NOP
+115d NOP
+115e NOP
+115f NOP
+1160 NOP
+1161 NOP
+1162 NOP
+1163 NOP
+1164 NOP
+1165 NOP
+1166 NOP
+1167 NOP
+1168 NOP
+1169 NOP
+116a NOP
+116b NOP
+116c NOP
+116d NOP
+116e NOP
+116f NOP
+1170 NOP
+1171 NOP
+1172 NOP
+1173 NOP
+1174 NOP
+1175 NOP
+1176 NOP
+1177 NOP
+1178 NOP
+1179 NOP
+117a NOP
+117b NOP
+117c NOP
+117d NOP
+117e NOP
+117f NOP
+1180 NOP
+1181 NOP
+1182 NOP
+1183 NOP
+1184 NOP
+1185 NOP
+1186 NOP
+1187 NOP
+1188 NOP
+1189 NOP
+118a NOP
+118b NOP
+118c NOP
+118d NOP
+118e NOP
+118f NOP
+1190 NOP
+1191 NOP
+1192 NOP
+1193 NOP
+1194 NOP
+1195 NOP
+1196 NOP
+1197 NOP
+1198 NOP
+1199 NOP
+119a NOP
+119b NOP
+119c NOP
+119d NOP
+119e NOP
+119f NOP
+11a0 NOP
+11a1 NOP
+11a2 NOP
+11a3 NOP
+11a4 NOP
+11a5 NOP
+11a6 NOP
+11a7 NOP
+11a8 NOP
+11a9 NOP
+11aa NOP
+11ab NOP
+11ac NOP
+11ad NOP
+11ae NOP
+11af NOP
+11b0 NOP
+11b1 NOP
+11b2 NOP
+11b3 NOP
+11b4 NOP
+11b5 NOP
+11b6 NOP
+11b7 NOP
+11b8 NOP
+11b9 NOP
+11ba NOP
+11bb NOP
+11bc NOP
+11bd NOP
+11be NOP
+11bf NOP
+11c0 NOP
+11c1 NOP
+11c2 NOP
+11c3 NOP
+11c4 NOP
+11c5 NOP
+11c6 NOP
+11c7 NOP
+11c8 NOP
+11c9 NOP
+11ca NOP
+11cb NOP
+11cc NOP
+11cd NOP
+11ce NOP
+11cf NOP
+11d0 NOP
+11d1 NOP
+11d2 NOP
+11d3 NOP
+11d4 NOP
+11d5 NOP
+11d6 NOP
+11d7 NOP
+11d8 NOP
+11d9 NOP
+11da NOP
+11db NOP
+11dc NOP
+11dd NOP
+11de NOP
+11df NOP
+11e0 NOP
+11e1 NOP
+11e2 NOP
+11e3 NOP
+11e4 NOP
+11e5 NOP
+11e6 NOP
+11e7 NOP
+11e8 NOP
+11e9 NOP
+11ea NOP
+11eb NOP
+11ec NOP
+11ed NOP
+11ee NOP
+11ef NOP
+11f0 NOP
+11f1 NOP
+11f2 NOP
+11f3 NOP
+11f4 NOP
+11f5 NOP
+11f6 NOP
+11f7 NOP
+11f8 NOP
+11f9 NOP
+11fa NOP
+11fb NOP
+11fc NOP
+11fd NOP
+11fe NOP
+11ff NOP
+1200 NOP
+1201 NOP
+1202 NOP
+1203 NOP
+1204 NOP
+1205 NOP
+1206 NOP
+1207 NOP
+1208 NOP
+1209 NOP
+120a NOP
+120b NOP
+120c NOP
+120d NOP
+120e NOP
+120f NOP
+1210 NOP
+1211 NOP
+1212 NOP
+1213 NOP
+1214 NOP
+1215 NOP
+1216 NOP
+1217 NOP
+1218 NOP
+1219 NOP
+121a NOP
+121b NOP
+121c NOP
+121d NOP
+121e NOP
+121f NOP
+1220 NOP
+1221 NOP
+1222 NOP
+1223 NOP
+1224 NOP
+1225 NOP
+1226 NOP
+1227 NOP
+1228 NOP
+1229 NOP
+122a NOP
+122b NOP
+122c NOP
+122d NOP
+122e NOP
+122f NOP
+1230 NOP
+1231 NOP
+1232 NOP
+1233 NOP
+1234 NOP
+1235 NOP
+1236 NOP
+1237 NOP
+1238 NOP
+1239 NOP
+123a NOP
+123b NOP
+123c NOP
+123d NOP
+123e NOP
+123f NOP
+1240 NOP
+1241 NOP
+1242 NOP
+1243 NOP
+1244 NOP
+1245 NOP
+1246 NOP
+1247 NOP
+1248 NOP
+1249 NOP
+124a NOP
+124b NOP
+124c NOP
+124d NOP
+124e NOP
+124f NOP
+1250 NOP
+1251 NOP
+1252 NOP
+1253 NOP
+1254 NOP
+1255 NOP
+1256 NOP
+1257 NOP
+1258 NOP
+1259 NOP
+125a NOP
+125b NOP
+125c NOP
+125d NOP
+125e NOP
+125f NOP
+1260 NOP
+1261 NOP
+1262 NOP
+1263 NOP
+1264 NOP
+1265 NOP
+1266 NOP
+1267 NOP
+1268 NOP
+1269 NOP
+126a NOP
+126b NOP
+126c NOP
+126d NOP
+126e NOP
+126f NOP
+1270 NOP
+1271 NOP
+1272 NOP
+1273 NOP
+1274 NOP
+1275 NOP
+1276 NOP
+1277 NOP
+1278 NOP
+1279 NOP
+127a NOP
+127b NOP
+127c NOP
+127d NOP
+127e NOP
+127f NOP
+1280 NOP
+1281 NOP
+1282 NOP
+1283 NOP
+1284 NOP
+1285 NOP
+1286 NOP
+1287 NOP
+1288 NOP
+1289 NOP
+128a NOP
+128b NOP
+128c NOP
+128d NOP
+128e NOP
+128f NOP
+1290 NOP
+1291 NOP
+1292 NOP
+1293 NOP
+1294 NOP
+1295 NOP
+1296 NOP
+1297 NOP
+1298 NOP
+1299 NOP
+129a NOP
+129b NOP
+129c NOP
+129d NOP
+129e NOP
+129f NOP
+12a0 NOP
+12a1 NOP
+12a2 NOP
+12a3 NOP
+12a4 NOP
+12a5 NOP
+12a6 NOP
+12a7 NOP
+12a8 NOP
+12a9 NOP
+12aa NOP
+12ab NOP
+12ac NOP
+12ad NOP
+12ae NOP
+12af NOP
+12b0 NOP
+12b1 NOP
+12b2 NOP
+12b3 NOP
+12b4 NOP
+12b5 NOP
+12b6 NOP
+12b7 NOP
+12b8 NOP
+12b9 NOP
+12ba NOP
+12bb NOP
+12bc NOP
+12bd NOP
+12be NOP
+12bf NOP
+12c0 NOP
+12c1 NOP
+12c2 NOP
+12c3 NOP
+12c4 NOP
+12c5 NOP
+12c6 NOP
+12c7 NOP
+12c8 NOP
+12c9 NOP
+12ca NOP
+12cb NOP
+12cc NOP
+12cd NOP
+12ce NOP
+12cf NOP
+12d0 NOP
+12d1 NOP
+12d2 NOP
+12d3 NOP
+12d4 NOP
+12d5 NOP
+12d6 NOP
+12d7 NOP
+12d8 NOP
+12d9 NOP
+12da NOP
+12db NOP
+12dc NOP
+12dd NOP
+12de NOP
+12df NOP
+12e0 NOP
+12e1 NOP
+12e2 NOP
+12e3 NOP
+12e4 NOP
+12e5 NOP
+12e6 NOP
+12e7 NOP
+12e8 NOP
+12e9 NOP
+12ea NOP
+12eb NOP
+12ec NOP
+12ed NOP
+12ee NOP
+12ef NOP
+12f0 NOP
+12f1 NOP
+12f2 NOP
+12f3 NOP
+12f4 NOP
+12f5 NOP
+12f6 NOP
+12f7 NOP
+12f8 NOP
+12f9 NOP
+12fa NOP
+12fb NOP
+12fc NOP
+12fd NOP
+12fe NOP
+12ff NOP
+1300 NOP
+1301 NOP
+1302 NOP
+1303 NOP
+1304 NOP
+1305 NOP
+1306 NOP
+1307 NOP
+1308 NOP
+1309 NOP
+130a NOP
+130b NOP
+130c NOP
+130d NOP
+130e NOP
+130f NOP
+1310 NOP
+1311 NOP
+1312 NOP
+1313 NOP
+1314 NOP
+1315 NOP
+1316 NOP
+1317 NOP
+1318 NOP
+1319 NOP
+131a NOP
+131b NOP
+131c NOP
+131d NOP
+131e NOP
+131f NOP
+1320 NOP
+1321 NOP
+1322 NOP
+1323 NOP
+1324 NOP
+1325 NOP
+1326 NOP
+1327 NOP
+1328 NOP
+1329 NOP
+132a NOP
+132b NOP
+132c NOP
+132d NOP
+132e NOP
+132f NOP
+1330 NOP
+1331 NOP
+1332 NOP
+1333 NOP
+1334 NOP
+1335 NOP
+1336 NOP
+1337 NOP
+1338 NOP
+1339 NOP
+133a NOP
+133b NOP
+133c NOP
+133d NOP
+133e NOP
+133f NOP
+1340 NOP
+1341 NOP
+1342 NOP
+1343 NOP
+1344 NOP
+1345 NOP
+1346 NOP
+1347 NOP
+1348 NOP
+1349 NOP
+134a NOP
+134b NOP
+134c NOP
+134d NOP
+134e NOP
+134f NOP
+1350 NOP
+1351 NOP
+1352 NOP
+1353 NOP
+1354 NOP
+1355 NOP
+1356 NOP
+1357 NOP
+1358 NOP
+1359 NOP
+135a NOP
+135b NOP
+135c NOP
+135d NOP
+135e NOP
+135f NOP
+1360 NOP
+1361 NOP
+1362 NOP
+1363 NOP
+1364 NOP
+1365 NOP
+1366 NOP
+1367 NOP
+1368 NOP
+1369 NOP
+136a NOP
+136b NOP
+136c NOP
+136d NOP
+136e NOP
+136f NOP
+1370 NOP
+1371 NOP
+1372 NOP
+1373 NOP
+1374 NOP
+1375 NOP
+1376 NOP
+1377 NOP
+1378 NOP
+1379 NOP
+137a NOP
+137b NOP
+137c NOP
+137d NOP
+137e NOP
+137f NOP
+1380 NOP
+1381 NOP
+1382 NOP
+1383 NOP
+1384 NOP
+1385 NOP
+1386 NOP
+1387 NOP
+1388 NOP
+1389 NOP
+138a NOP
+138b NOP
+138c NOP
+138d NOP
+138e NOP
+138f NOP
+1390 NOP
+1391 NOP
+1392 NOP
+1393 NOP
+1394 NOP
+1395 NOP
+1396 NOP
+1397 NOP
+1398 NOP
+1399 NOP
+139a NOP
+139b NOP
+139c NOP
+139d NOP
+139e NOP
+139f NOP
+13a0 NOP
+13a1 NOP
+13a2 NOP
+13a3 NOP
+13a4 NOP
+13a5 NOP
+13a6 NOP
+13a7 NOP
+13a8 NOP
+13a9 NOP
+13aa NOP
+13ab NOP
+13ac NOP
+13ad NOP
+13ae NOP
+13af NOP
+13b0 NOP
+13b1 NOP
+13b2 NOP
+13b3 NOP
+13b4 NOP
+13b5 NOP
+13b6 NOP
+13b7 NOP
+13b8 NOP
+13b9 NOP
+13ba NOP
+13bb NOP
+13bc NOP
+13bd NOP
+13be NOP
+13bf NOP
+13c0 NOP
+13c1 NOP
+13c2 NOP
+13c3 NOP
+13c4 NOP
+13c5 NOP
+13c6 NOP
+13c7 NOP
+13c8 NOP
+13c9 NOP
+13ca NOP
+13cb NOP
+13cc NOP
+13cd NOP
+13ce NOP
+13cf NOP
+13d0 NOP
+13d1 NOP
+13d2 NOP
+13d3 NOP
+13d4 NOP
+13d5 NOP
+13d6 NOP
+13d7 NOP
+13d8 NOP
+13d9 NOP
+13da NOP
+13db NOP
+13dc NOP
+13dd NOP
+13de NOP
+13df NOP
+13e0 NOP
+13e1 NOP
+13e2 NOP
+13e3 NOP
+13e4 NOP
+13e5 NOP
+13e6 NOP
+13e7 NOP
+13e8 NOP
+13e9 NOP
+13ea NOP
+13eb NOP
+13ec NOP
+13ed NOP
+13ee NOP
+13ef NOP
+13f0 NOP
+13f1 NOP
+13f2 NOP
+13f3 NOP
+13f4 NOP
+13f5 NOP
+13f6 NOP
+13f7 NOP
+13f8 NOP
+13f9 NOP
+13fa NOP
+13fb NOP
+13fc NOP
+13fd NOP
+13fe NOP
+13ff NOP
+1400 NOP
+1401 Unrecognized instruction
+1402 Unrecognized instruction
+1403 Unrecognized instruction
+1404 NOP
+1405 Unrecognized instruction
+1406 Unrecognized instruction
+1407 Unrecognized instruction
+1408 Unrecognized instruction
+1409 INR     B
+140c Unrecognized instruction
+140d Unrecognized instruction
+140e Unrecognized instruction
+140f Unrecognized instruction
+1410 Unrecognized instruction
+1411 Unrecognized instruction
+1412 INR     B
+1415 Unrecognized instruction
+1416 Unrecognized instruction
+1417 Unrecognized instruction
+1418 LXI     B,#$0020
+141b DAD     B
+141c Unrecognized instruction
+141d DCR     B
+141e Unrecognized instruction
+141f DCR     B
+1420 Unrecognized instruction
+1421 Unrecognized instruction
+1422 NOP
+1423 NOP
+1424 Unrecognized instruction
+1425 Unrecognized instruction
+1426 Unrecognized instruction
+1427 Unrecognized instruction
+1428 Unrecognized instruction
+1429 Unrecognized instruction
+142a Unrecognized instruction
+142b Unrecognized instruction
+142c Unrecognized instruction
+142d Unrecognized instruction
+142e Unrecognized instruction
+142f LXI     B,#$0020
+1432 DAD     B
+1433 Unrecognized instruction
+1434 DCR     B
+1435 Unrecognized instruction
+1436 Unrecognized instruction
+1437 Unrecognized instruction
+1438 Unrecognized instruction
+1439 Unrecognized instruction
+143a Unrecognized instruction
+143b Unrecognized instruction
+143c Unrecognized instruction
+143d LXI     B,#$0020
+1440 DAD     B
+1441 Unrecognized instruction
+1442 DCR     B
+1443 Unrecognized instruction
+1444 Unrecognized instruction
+1445 Unrecognized instruction
+1446 Unrecognized instruction
+1447 NOP
+1448 NOP
+1449 NOP
+144a NOP
+144b NOP
+144c NOP
+144d NOP
+144e NOP
+144f NOP
+1450 NOP
+1451 NOP
+1452 Unrecognized instruction
+1453 Unrecognized instruction
+1454 Unrecognized instruction
+1455 Unrecognized instruction
+1456 Unrecognized instruction
+1457 Unrecognized instruction
+1458 Unrecognized instruction
+1459 INR     B
+145c Unrecognized instruction
+145d Unrecognized instruction
+145e Unrecognized instruction
+145f Unrecognized instruction
+1460 Unrecognized instruction
+1461 Unrecognized instruction
+1462 Unrecognized instruction
+1463 INR     B
+1466 Unrecognized instruction
+1467 Unrecognized instruction
+1468 Unrecognized instruction
+1469 Unrecognized instruction
+146a LXI     B,#$0020
+146d DAD     B
+146e Unrecognized instruction
+146f DCR     B
+1470 Unrecognized instruction
+1471 Unrecognized instruction
+1472 Unrecognized instruction
+1473 Unrecognized instruction
+1474 Unrecognized instruction
+1475 Unrecognized instruction
+1476 RLC
+1477 Unrecognized instruction
+1478 STAX    B
+1479 JMP     $1a47
+147c Unrecognized instruction
+147d Unrecognized instruction
+147e Unrecognized instruction
+147f Unrecognized instruction
+1480 Unrecognized instruction
+1481 Unrecognized instruction
+1482 DCR     C
+1483 Unrecognized instruction
+1484 Unrecognized instruction
+1485 Unrecognized instruction
+1486 Unrecognized instruction
+1487 LXI     B,#$0020
+148a DAD     B
+148b Unrecognized instruction
+148c DCR     B
+148d Unrecognized instruction
+148e Unrecognized instruction
+148f Unrecognized instruction
+1490 Unrecognized instruction
+1491 Unrecognized instruction
+1492 Unrecognized instruction
+1493 Unrecognized instruction
+1494 Unrecognized instruction
+1495 Unrecognized instruction
+1496 Unrecognized instruction
+1497 Unrecognized instruction
+1498 Unrecognized instruction
+1499 Unrecognized instruction
+149a Unrecognized instruction
+149b Unrecognized instruction
+149c INR     B
+149f Unrecognized instruction
+14a0 Unrecognized instruction
+14a1 Unrecognized instruction
+14a2 Unrecognized instruction
+14a3 Unrecognized instruction
+14a4 MVI     A,#0x01
+14a6 Unrecognized instruction
+14a7 Unrecognized instruction
+14a8 Unrecognized instruction
+14a9 Unrecognized instruction
+14aa Unrecognized instruction
+14ab Unrecognized instruction
+14ac Unrecognized instruction
+14ad Unrecognized instruction
+14ae Unrecognized instruction
+14af Unrecognized instruction
+14b0 INR     B
+14b3 Unrecognized instruction
+14b4 Unrecognized instruction
+14b5 Unrecognized instruction
+14b6 Unrecognized instruction
+14b7 Unrecognized instruction
+14b8 MVI     A,#0x01
+14ba Unrecognized instruction
+14bb Unrecognized instruction
+14bc Unrecognized instruction
+14bd Unrecognized instruction
+14be Unrecognized instruction
+14bf Unrecognized instruction
+14c0 Unrecognized instruction
+14c1 LXI     B,#$0020
+14c4 DAD     B
+14c5 Unrecognized instruction
+14c6 DCR     B
+14c7 Unrecognized instruction
+14c8 Unrecognized instruction
+14c9 Unrecognized instruction
+14ca Unrecognized instruction
+14cb Unrecognized instruction
+14cc Unrecognized instruction
+14cd Unrecognized instruction
+14ce LXI     B,#$0020
+14d1 DAD     B
+14d2 Unrecognized instruction
+14d3 DCR     B
+14d4 Unrecognized instruction
+14d5 Unrecognized instruction
+14d6 Unrecognized instruction
+14d7 Unrecognized instruction
+14d8 Unrecognized instruction
+14d9 Unrecognized instruction
+14da Unrecognized instruction
+14db Unrecognized instruction
+14dc DCR     B
+14dd Unrecognized instruction
+14de Unrecognized instruction
+14df STAX    B
+14e0 Unrecognized instruction
+14e1 Unrecognized instruction
+14e2 Unrecognized instruction
+14e3 Unrecognized instruction
+14e4 Unrecognized instruction
+14e5 Unrecognized instruction
+14e6 Unrecognized instruction
+14e7 Unrecognized instruction
+14e8 Unrecognized instruction
+14e9 Unrecognized instruction
+14ea Unrecognized instruction
+14eb STAX    B
+14ec Unrecognized instruction
+14ed Unrecognized instruction
+14ee Unrecognized instruction
+14ef Unrecognized instruction
+14f0 Unrecognized instruction
+14f1 Unrecognized instruction
+14f2 Unrecognized instruction
+14f3 Unrecognized instruction
+14f4 Unrecognized instruction
+14f5 Unrecognized instruction
+14f6 MVI     B, #$47
+14f8 Unrecognized instruction
+14f9 DAD     B
+14fa Unrecognized instruction
+14fb Unrecognized instruction
+14fc Unrecognized instruction
+14fd Unrecognized instruction
+14fe INR     B
+1501 Unrecognized instruction
+1502 Unrecognized instruction
+1503 Unrecognized instruction
+1504 Unrecognized instruction
+1505 Unrecognized instruction
+1506 Unrecognized instruction
+1507 Unrecognized instruction
+1508 Unrecognized instruction
+1509 Unrecognized instruction
+150a Unrecognized instruction
+150b Unrecognized instruction
+150c Unrecognized instruction
+150d Unrecognized instruction
+150e Unrecognized instruction
+150f Unrecognized instruction
+1510 Unrecognized instruction
+1511 Unrecognized instruction
+1512 MVI     A,#0x05
+1514 Unrecognized instruction
+1515 Unrecognized instruction
+1516 Unrecognized instruction
+1517 Unrecognized instruction
+1518 Unrecognized instruction
+1519 Unrecognized instruction
+151a Unrecognized instruction
+151b Unrecognized instruction
+151c Unrecognized instruction
+151d Unrecognized instruction
+151e Unrecognized instruction
+151f Unrecognized instruction
+1520 NOP
+1521 Unrecognized instruction
+1522 Unrecognized instruction
+1523 LDAX    B
+1524 Unrecognized instruction
+1525 Unrecognized instruction
+1526 Unrecognized instruction
+1527 Unrecognized instruction
+1528 Unrecognized instruction
+1529 Unrecognized instruction
+152a MVI     A,#0x10
+152c Unrecognized instruction
+152d INX     B
+152e Unrecognized instruction
+152f Unrecognized instruction
+1530 MVI     A,#0x03
+1532 Unrecognized instruction
+1533 Unrecognized instruction
+1534 Unrecognized instruction
+1535 JMP     $154a
+1538 Unrecognized instruction
+1539 INX     B
+153a Unrecognized instruction
+153b Unrecognized instruction
+153c Unrecognized instruction
+153d Unrecognized instruction
+153e Unrecognized instruction
+153f Unrecognized instruction
+1540 MVI     B, #$10
+1542 Unrecognized instruction
+1543 Unrecognized instruction
+1544 Unrecognized instruction
+1545 MVI     A,#0x04
+1547 Unrecognized instruction
+1548 Unrecognized instruction
+1549 Unrecognized instruction
+154a Unrecognized instruction
+154b Unrecognized instruction
+154c STAX    B
+154d Unrecognized instruction
+154e MVI     B, #$f7
+1550 JMP     $19dc
+1553 NOP
+1554 MVI     C, #$00
+1556 Unrecognized instruction
+1557 Unrecognized instruction
+1558 Unrecognized instruction
+1559 Unrecognized instruction
+155a Unrecognized instruction
+155b Unrecognized instruction
+155c Unrecognized instruction
+155d Unrecognized instruction
+155e INCR    C
+155f JMP     $155a
+1562 Unrecognized instruction
+1563 DAD     B
+1564 Unrecognized instruction
+1565 Unrecognized instruction
+1566 Unrecognized instruction
+1567 Unrecognized instruction
+1568 Unrecognized instruction
+1569 Unrecognized instruction
+156a DCR     B
+156b Unrecognized instruction
+156c Unrecognized instruction
+156d Unrecognized instruction
+156e Unrecognized instruction
+156f Unrecognized instruction
+1570 LDAX    B
+1571 Unrecognized instruction
+1572 Unrecognized instruction
+1573 Unrecognized instruction
+1574 Unrecognized instruction
+1575 Unrecognized instruction
+1576 Unrecognized instruction
+1577 Unrecognized instruction
+1578 Unrecognized instruction
+1579 MVI     A,#0x01
+157b Unrecognized instruction
+157c Unrecognized instruction
+157d Unrecognized instruction
+157e JMP     $1545
+1581 Unrecognized instruction
+1582 RLC
+1583 RLC
+1584 RLC
+1585 Unrecognized instruction
+1586 Unrecognized instruction
+1587 Unrecognized instruction
+1588 Unrecognized instruction
+1589 Unrecognized instruction
+158a Unrecognized instruction
+158b Unrecognized instruction
+158c Unrecognized instruction
+158d Unrecognized instruction
+158e Unrecognized instruction
+158f Unrecognized instruction
+1590 INCR    C
+1591 Unrecognized instruction
+1592 Unrecognized instruction
+1593 Unrecognized instruction
+1594 Unrecognized instruction
+1595 Unrecognized instruction
+1596 Unrecognized instruction
+1597 Unrecognized instruction
+1598 DCR     C
+1599 Unrecognized instruction
+159a Unrecognized instruction
+159b Unrecognized instruction
+159c Unrecognized instruction
+159d Unrecognized instruction
+159e Unrecognized instruction
+159f Unrecognized instruction
+15a0 MVI     A,#0xcd
+15a2 Unrecognized instruction
+15a3 Unrecognized instruction
+15a4 Unrecognized instruction
+15a5 MVI     B, #$fe
+15a7 MVI     A,#0x01
+15a9 Unrecognized instruction
+15aa DCR     C
+15ab Unrecognized instruction
+15ac Unrecognized instruction
+15ad Unrecognized instruction
+15ae NOP
+15af Unrecognized instruction
+15b0 Unrecognized instruction
+15b1 MVI     C, #$20
+15b3 Unrecognized instruction
+15b4 RLC
+15b5 Unrecognized instruction
+15b6 Unrecognized instruction
+15b7 Unrecognized instruction
+15b8 Unrecognized instruction
+15b9 Unrecognized instruction
+15ba Unrecognized instruction
+15bb Unrecognized instruction
+15bc Unrecognized instruction
+15bd Unrecognized instruction
+15be Unrecognized instruction
+15bf Unrecognized instruction
+15c0 Unrecognized instruction
+15c1 Unrecognized instruction
+15c2 JMP     $15a9
+15c5 MVI     B, #$17
+15c7 Unrecognized instruction
+15c8 Unrecognized instruction
+15c9 Unrecognized instruction
+15ca Unrecognized instruction
+15cb Unrecognized instruction
+15cc Unrecognized instruction
+15cd DCR     B
+15ce Unrecognized instruction
+15cf Unrecognized instruction
+15d0 Unrecognized instruction
+15d1 Unrecognized instruction
+15d2 NOP
+15d3 Unrecognized instruction
+15d4 Unrecognized instruction
+15d5 Unrecognized instruction
+15d6 Unrecognized instruction
+15d7 Unrecognized instruction
+15d8 Unrecognized instruction
+15d9 Unrecognized instruction
+15da Unrecognized instruction
+15db INR     B
+15de Unrecognized instruction
+15df Unrecognized instruction
+15e0 Unrecognized instruction
+15e1 Unrecognized instruction
+15e2 Unrecognized instruction
+15e3 INR     B
+15e6 Unrecognized instruction
+15e7 Unrecognized instruction
+15e8 LXI     B,#$0020
+15eb DAD     B
+15ec Unrecognized instruction
+15ed DCR     B
+15ee Unrecognized instruction
+15ef Unrecognized instruction
+15f0 Unrecognized instruction
+15f1 Unrecognized instruction
+15f2 Unrecognized instruction
+15f3 Unrecognized instruction
+15f4 Unrecognized instruction
+15f5 Unrecognized instruction
+15f6 LXI     B,#$3700
+15f9 Unrecognized instruction
+15fa Unrecognized instruction
+15fb Unrecognized instruction
+15fc Unrecognized instruction
+15fd Unrecognized instruction
+15fe INCR    C
+15ff Unrecognized instruction
+1600 DCR     B
+1601 Unrecognized instruction
+1602 Unrecognized instruction
+1603 Unrecognized instruction
+1604 Unrecognized instruction
+1605 Unrecognized instruction
+1606 Unrecognized instruction
+1607 Unrecognized instruction
+1608 Unrecognized instruction
+1609 LXI     B,#$21c0
+160c Unrecognized instruction
+160d Unrecognized instruction
+160e Unrecognized instruction
+160f LXI     B,#$2ec9
+1612 NOP
+1613 Unrecognized instruction
+1614 Unrecognized instruction
+1615 Unrecognized instruction
+1616 Unrecognized instruction
+1617 Unrecognized instruction
+1618 Unrecognized instruction
+1619 Unrecognized instruction
+161a Unrecognized instruction
+161b Unrecognized instruction
+161c Unrecognized instruction
+161d Unrecognized instruction
+161e Unrecognized instruction
+161f Unrecognized instruction
+1620 Unrecognized instruction
+1621 Unrecognized instruction
+1622 Unrecognized instruction
+1623 Unrecognized instruction
+1624 Unrecognized instruction
+1625 Unrecognized instruction
+1626 Unrecognized instruction
+1627 Unrecognized instruction
+1628 Unrecognized instruction
+1629 Unrecognized instruction
+162a Unrecognized instruction
+162b Unrecognized instruction
+162c Unrecognized instruction
+162d Unrecognized instruction
+162e Unrecognized instruction
+162f Unrecognized instruction
+1630 Unrecognized instruction
+1631 Unrecognized instruction
+1632 Unrecognized instruction
+1633 Unrecognized instruction
+1634 Unrecognized instruction
+1635 Unrecognized instruction
+1636 Unrecognized instruction
+1637 Unrecognized instruction
+1638 Unrecognized instruction
+1639 Unrecognized instruction
+163a Unrecognized instruction
+163b Unrecognized instruction
+163c Unrecognized instruction
+163d Unrecognized instruction
+163e Unrecognized instruction
+163f MVI     A,#0x01
+1641 Unrecognized instruction
+1642 Unrecognized instruction
+1643 Unrecognized instruction
+1644 Unrecognized instruction
+1645 Unrecognized instruction
+1646 Unrecognized instruction
+1647 Unrecognized instruction
+1648 Unrecognized instruction
+1649 Unrecognized instruction
+164a Unrecognized instruction
+164b Unrecognized instruction
+164c Unrecognized instruction
+164d Unrecognized instruction
+164e Unrecognized instruction
+164f Unrecognized instruction
+1650 Unrecognized instruction
+1651 Unrecognized instruction
+1652 Unrecognized instruction
+1653 Unrecognized instruction
+1654 Unrecognized instruction
+1655 Unrecognized instruction
+1656 LXI     B,#$ed2a
+1659 Unrecognized instruction
+165a Unrecognized instruction
+165b Unrecognized instruction
+165c Unrecognized instruction
+165d Unrecognized instruction
+165e Unrecognized instruction
+165f Unrecognized instruction
+1660 Unrecognized instruction
+1661 Unrecognized instruction
+1662 Unrecognized instruction
+1663 Unrecognized instruction
+1664 Unrecognized instruction
+1665 Unrecognized instruction
+1666 Unrecognized instruction
+1667 Unrecognized instruction
+1668 Unrecognized instruction
+1669 Unrecognized instruction
+166a Unrecognized instruction
+166b Unrecognized instruction
+166c Unrecognized instruction
+166d Unrecognized instruction
+166e Unrecognized instruction
+166f Unrecognized instruction
+1670 Unrecognized instruction
+1671 Unrecognized instruction
+1672 Unrecognized instruction
+1673 Unrecognized instruction
+1674 Unrecognized instruction
+1675 NOP
+1676 Unrecognized instruction
+1677 Unrecognized instruction
+1678 DAD     B
+1679 Unrecognized instruction
+167a Unrecognized instruction
+167b Unrecognized instruction
+167c Unrecognized instruction
+167d Unrecognized instruction
+167e Unrecognized instruction
+167f Unrecognized instruction
+1680 Unrecognized instruction
+1681 Unrecognized instruction
+1682 Unrecognized instruction
+1683 Unrecognized instruction
+1684 Unrecognized instruction
+1685 Unrecognized instruction
+1686 Unrecognized instruction
+1687 Unrecognized instruction
+1688 JMP     $168f
+168b Unrecognized instruction
+168c Unrecognized instruction
+168d Unrecognized instruction
+168e Unrecognized instruction
+168f Unrecognized instruction
+1690 Unrecognized instruction
+1691 Unrecognized instruction
+1692 Unrecognized instruction
+1693 Unrecognized instruction
+1694 Unrecognized instruction
+1695 Unrecognized instruction
+1696 Unrecognized instruction
+1697 Unrecognized instruction
+1698 Unrecognized instruction
+1699 Unrecognized instruction
+169a Unrecognized instruction
+169b Unrecognized instruction
+169c Unrecognized instruction
+169d Unrecognized instruction
+169e Unrecognized instruction
+169f Unrecognized instruction
+16a0 INX     B
+16a1 Unrecognized instruction
+16a2 Unrecognized instruction
+16a3 Unrecognized instruction
+16a4 Unrecognized instruction
+16a5 MVI     C, #$14
+16a7 Unrecognized instruction
+16a8 Unrecognized instruction
+16a9 LDAX    B
+16aa Unrecognized instruction
+16ab Unrecognized instruction
+16ac MVI     B, #$1b
+16ae Unrecognized instruction
+16af Unrecognized instruction
+16b0 Unrecognized instruction
+16b1 RRC
+16b2 Unrecognized instruction
+16b3 Unrecognized instruction
+16b4 Unrecognized instruction
+16b5 MVI     B, #$1c
+16b7 Unrecognized instruction
+16b8 Unrecognized instruction
+16b9 Unrecognized instruction
+16ba NOP
+16bb Unrecognized instruction
+16bc Unrecognized instruction
+16bd LDAX    B
+16be Unrecognized instruction
+16bf Unrecognized instruction
+16c0 Unrecognized instruction
+16c1 Unrecognized instruction
+16c2 Unrecognized instruction
+16c3 Unrecognized instruction
+16c4 Unrecognized instruction
+16c5 Unrecognized instruction
+16c6 JMP     $02ed
+16c9 Unrecognized instruction
+16ca Unrecognized instruction
+16cb Unrecognized instruction
+16cc Unrecognized instruction
+16cd Unrecognized instruction
+16ce Unrecognized instruction
+16cf MVI     C, #$0a
+16d1 Unrecognized instruction
+16d2 Unrecognized instruction
+16d3 LDAX    B
+16d4 Unrecognized instruction
+16d5 Unrecognized instruction
+16d6 LDAX    B
+16d7 Unrecognized instruction
+16d8 Unrecognized instruction
+16d9 DAD     B
+16da Unrecognized instruction
+16db Unrecognized instruction
+16dc Unrecognized instruction
+16dd Unrecognized instruction
+16de Unrecognized instruction
+16df DCR     B
+16e0 Unrecognized instruction
+16e1 Unrecognized instruction
+16e2 Unrecognized instruction
+16e3 JMP     $0b89
+16e6 Unrecognized instruction
+16e7 NOP
+16e8 Unrecognized instruction
+16e9 Unrecognized instruction
+16ea Unrecognized instruction
+16eb Unrecognized instruction
+16ec Unrecognized instruction
+16ed Unrecognized instruction
+16ee Unrecognized instruction
+16ef Unrecognized instruction
+16f0 Unrecognized instruction
+16f1 MVI     B, #$04
+16f3 Unrecognized instruction
+16f4 Unrecognized instruction
+16f5 Unrecognized instruction
+16f6 Unrecognized instruction
+16f7 Unrecognized instruction
+16f8 LDAX    B
+16f9 Unrecognized instruction
+16fa Unrecognized instruction
+16fb Unrecognized instruction
+16fc Unrecognized instruction
+16fd Unrecognized instruction
+16fe Unrecognized instruction
+16ff Unrecognized instruction
+1700 LXI     B,#$cd27
+1703 Unrecognized instruction
+1704 Unrecognized instruction
+1705 Unrecognized instruction
+1706 Unrecognized instruction
+1707 Unrecognized instruction
+1708 Unrecognized instruction
+1709 MVI     B, #$fb
+170b JMP     $196b
+170e Unrecognized instruction
+170f Unrecognized instruction
+1710 DAD     B
+1711 Unrecognized instruction
+1712 Unrecognized instruction
+1713 Unrecognized instruction
+1714 Unrecognized instruction
+1715 Unrecognized instruction
+1716 Unrecognized instruction
+1717 Unrecognized instruction
+1718 Unrecognized instruction
+1719 MVI     C, #$04
+171b Unrecognized instruction
+171c Unrecognized instruction
+171d Unrecognized instruction
+171e Unrecognized instruction
+171f Unrecognized instruction
+1720 Unrecognized instruction
+1721 Unrecognized instruction
+1722 Unrecognized instruction
+1723 DCR     C
+1724 Unrecognized instruction
+1725 Unrecognized instruction
+1726 Unrecognized instruction
+1727 Unrecognized instruction
+1728 Unrecognized instruction
+1729 Unrecognized instruction
+172a Unrecognized instruction
+172b Unrecognized instruction
+172c Unrecognized instruction
+172d Unrecognized instruction
+172e Unrecognized instruction
+172f Unrecognized instruction
+1730 NOP
+1731 Unrecognized instruction
+1732 Unrecognized instruction
+1733 Unrecognized instruction
+1734 MVI     B, #$fd
+1736 JMP     $19dc
+1739 MVI     B, #$02
+173b JMP     $18fa
+173e NOP
+173f NOP
+1740 Unrecognized instruction
+1741 Unrecognized instruction
+1742 Unrecognized instruction
+1743 Unrecognized instruction
+1744 Unrecognized instruction
+1745 Unrecognized instruction
+1746 Unrecognized instruction
+1747 Unrecognized instruction
+1748 Unrecognized instruction
+1749 Unrecognized instruction
+174a Unrecognized instruction
+174b Unrecognized instruction
+174c Unrecognized instruction
+174d Unrecognized instruction
+174e Unrecognized instruction
+174f Unrecognized instruction
+1750 Unrecognized instruction
+1751 Unrecognized instruction
+1752 Unrecognized instruction
+1753 Unrecognized instruction
+1754 Unrecognized instruction
+1755 Unrecognized instruction
+1756 Unrecognized instruction
+1757 Unrecognized instruction
+1758 DCR     B
+1759 Unrecognized instruction
+175a Unrecognized instruction
+175b Unrecognized instruction
+175c Unrecognized instruction
+175d Unrecognized instruction
+175e Unrecognized instruction
+175f Unrecognized instruction
+1760 Unrecognized instruction
+1761 Unrecognized instruction
+1762 Unrecognized instruction
+1763 Unrecognized instruction
+1764 Unrecognized instruction
+1765 Unrecognized instruction
+1766 LXI     B,#$043e
+1769 Unrecognized instruction
+176a Unrecognized instruction
+176b Unrecognized instruction
+176c Unrecognized instruction
+176d Unrecognized instruction
+176e Unrecognized instruction
+176f Unrecognized instruction
+1770 Unrecognized instruction
+1771 Unrecognized instruction
+1772 Unrecognized instruction
+1773 DCR     B
+1774 Unrecognized instruction
+1775 Unrecognized instruction
+1776 Unrecognized instruction
+1777 Unrecognized instruction
+1778 Unrecognized instruction
+1779 Unrecognized instruction
+177a Unrecognized instruction
+177b Unrecognized instruction
+177c Unrecognized instruction
+177d Unrecognized instruction
+177e Unrecognized instruction
+177f Unrecognized instruction
+1780 Unrecognized instruction
+1781 Unrecognized instruction
+1782 Unrecognized instruction
+1783 Unrecognized instruction
+1784 Unrecognized instruction
+1785 Unrecognized instruction
+1786 Unrecognized instruction
+1787 Unrecognized instruction
+1788 Unrecognized instruction
+1789 Unrecognized instruction
+178a Unrecognized instruction
+178b JMP     $1785
+178e Unrecognized instruction
+178f Unrecognized instruction
+1790 Unrecognized instruction
+1791 Unrecognized instruction
+1792 Unrecognized instruction
+1793 Unrecognized instruction
+1794 Unrecognized instruction
+1795 Unrecognized instruction
+1796 Unrecognized instruction
+1797 Unrecognized instruction
+1798 Unrecognized instruction
+1799 Unrecognized instruction
+179a Unrecognized instruction
+179b RRC
+179c RLC
+179d Unrecognized instruction
+179e Unrecognized instruction
+179f Unrecognized instruction
+17a0 Unrecognized instruction
+17a1 Unrecognized instruction
+17a2 MVI     A,#0x01
+17a4 Unrecognized instruction
+17a5 Unrecognized instruction
+17a6 Unrecognized instruction
+17a7 Unrecognized instruction
+17a8 Unrecognized instruction
+17a9 Unrecognized instruction
+17aa Unrecognized instruction
+17ab Unrecognized instruction
+17ac Unrecognized instruction
+17ad Unrecognized instruction
+17ae Unrecognized instruction
+17af MVI     B, #$ef
+17b1 JMP     $19dc
+17b4 MVI     B, #$ef
+17b6 Unrecognized instruction
+17b7 Unrecognized instruction
+17b8 Unrecognized instruction
+17b9 Unrecognized instruction
+17ba Unrecognized instruction
+17bb Unrecognized instruction
+17bc Unrecognized instruction
+17bd DCR     B
+17be Unrecognized instruction
+17bf NOP
+17c0 Unrecognized instruction
+17c1 Unrecognized instruction
+17c2 Unrecognized instruction
+17c3 RRC
+17c4 Unrecognized instruction
+17c5 Unrecognized instruction
+17c6 Unrecognized instruction
+17c7 Unrecognized instruction
+17c8 LXI     B,#$dbc9
+17cb STAX    B
+17cc Unrecognized instruction
+17cd Unrecognized instruction
+17ce STAX    B
+17cf Unrecognized instruction
+17d0 INR     B
+17d3 Unrecognized instruction
+17d4 Unrecognized instruction
+17d5 Unrecognized instruction
+17d6 Unrecognized instruction
+17d7 Unrecognized instruction
+17d8 NOP
+17d9 Unrecognized instruction
+17da MVI     B, #$04
+17dc Unrecognized instruction
+17dd Unrecognized instruction
+17de DAD     B
+17df DCR     B
+17e0 Unrecognized instruction
+17e1 Unrecognized instruction
+17e2 Unrecognized instruction
+17e3 MVI     A,#0x01
+17e5 Unrecognized instruction
+17e6 Unrecognized instruction
+17e7 Unrecognized instruction
+17e8 Unrecognized instruction
+17e9 Unrecognized instruction
+17ea Unrecognized instruction
+17eb Unrecognized instruction
+17ec Unrecognized instruction
+17ed Unrecognized instruction
+17ee Unrecognized instruction
+17ef Unrecognized instruction
+17f0 Unrecognized instruction
+17f1 Unrecognized instruction
+17f2 MVI     C, #$04
+17f4 Unrecognized instruction
+17f5 Unrecognized instruction
+17f6 LDAX    B
+17f7 Unrecognized instruction
+17f8 Unrecognized instruction
+17f9 LDAX    B
+17fa Unrecognized instruction
+17fb Unrecognized instruction
+17fc Unrecognized instruction
+17fd Unrecognized instruction
+17fe Unrecognized instruction
+17ff Unrecognized instruction
+1800 Unrecognized instruction
+1801 JMP     $16c9
+1804 Unrecognized instruction
+1805 Unrecognized instruction
+1806 Unrecognized instruction
+1807 Unrecognized instruction
+1808 Unrecognized instruction
+1809 Unrecognized instruction
+180a RLC
+180b RLC
+180c Unrecognized instruction
+180d Unrecognized instruction
+180e Unrecognized instruction
+180f Unrecognized instruction
+1810 MVI     B, #$01
+1812 JMP     $18fa
+1815 Unrecognized instruction
+1816 Unrecognized instruction
+1817 Unrecognized instruction
+1818 Unrecognized instruction
+1819 Unrecognized instruction
+181a Unrecognized instruction
+181b MVI     C, #$15
+181d Unrecognized instruction
+181e Unrecognized instruction
+181f NOP
+1820 MVI     A,#0x0a
+1822 Unrecognized instruction
+1823 Unrecognized instruction
+1824 Unrecognized instruction
+1825 LXI     B,#$1dbe
+1828 Unrecognized instruction
+1829 Unrecognized instruction
+182a Unrecognized instruction
+182b Unrecognized instruction
+182c Unrecognized instruction
+182d Unrecognized instruction
+182e Unrecognized instruction
+182f Unrecognized instruction
+1830 Unrecognized instruction
+1831 JMP     $1828
+1834 Unrecognized instruction
+1835 Unrecognized instruction
+1836 LDAX    B
+1837 LXI     B,#$1dcf
+183a Unrecognized instruction
+183b Unrecognized instruction
+183c Unrecognized instruction
+183d Unrecognized instruction
+183e Unrecognized instruction
+183f Unrecognized instruction
+1840 Unrecognized instruction
+1841 JMP     $183a
+1844 Unrecognized instruction
+1845 MVI     B, #$10
+1847 Unrecognized instruction
+1848 Unrecognized instruction
+1849 Unrecognized instruction
+184a Unrecognized instruction
+184b Unrecognized instruction
+184c Unrecognized instruction
+184d Unrecognized instruction
+184e Unrecognized instruction
+184f Unrecognized instruction
+1850 Unrecognized instruction
+1851 Unrecognized instruction
+1852 Unrecognized instruction
+1853 LDAX    B
+1854 Unrecognized instruction
+1855 Unrecognized instruction
+1856 LDAX    B
+1857 Unrecognized instruction
+1858 Unrecognized instruction
+1859 Unrecognized instruction
+185a Unrecognized instruction
+185b Unrecognized instruction
+185c INX     B
+185d LDAX    B
+185e Unrecognized instruction
+185f INX     B
+1860 LDAX    B
+1861 Unrecognized instruction
+1862 INX     B
+1863 LDAX    B
+1864 Unrecognized instruction
+1865 INX     B
+1866 Unrecognized instruction
+1867 Unrecognized instruction
+1868 Unrecognized instruction
+1869 Unrecognized instruction
+186a Unrecognized instruction
+186b Unrecognized instruction
+186c Unrecognized instruction
+186d Unrecognized instruction
+186e Unrecognized instruction
+186f Unrecognized instruction
+1870 LXI     B,#$3a47
+1873 Unrecognized instruction
+1874 Unrecognized instruction
+1875 Unrecognized instruction
+1876 Unrecognized instruction
+1877 Unrecognized instruction
+1878 Unrecognized instruction
+1879 Unrecognized instruction
+187a Unrecognized instruction
+187b Unrecognized instruction
+187c Unrecognized instruction
+187d INR     B
+1880 Unrecognized instruction
+1881 Unrecognized instruction
+1882 Unrecognized instruction
+1883 Unrecognized instruction
+1884 Unrecognized instruction
+1885 Unrecognized instruction
+1886 NOP
+1887 Unrecognized instruction
+1888 Unrecognized instruction
+1889 Unrecognized instruction
+188a Unrecognized instruction
+188b Unrecognized instruction
+188c Unrecognized instruction
+188d Unrecognized instruction
+188e Unrecognized instruction
+188f Unrecognized instruction
+1890 Unrecognized instruction
+1891 Unrecognized instruction
+1892 JMP     $15d3
+1895 NOP
+1896 NOP
+1897 NOP
+1898 MVI     A,#0x01
+189a Unrecognized instruction
+189b Unrecognized instruction
+189c Unrecognized instruction
+189d Unrecognized instruction
+189e Unrecognized instruction
+189f Unrecognized instruction
+18a0 Unrecognized instruction
+18a1 Unrecognized instruction
+18a2 Unrecognized instruction
+18a3 Unrecognized instruction
+18a4 MVI     B, #$10
+18a6 Unrecognized instruction
+18a7 Unrecognized instruction
+18a8 Unrecognized instruction
+18a9 MVI     A,#0x02
+18ab Unrecognized instruction
+18ac Unrecognized instruction
+18ad Unrecognized instruction
+18ae MVI     A,#0xff
+18b0 Unrecognized instruction
+18b1 Unrecognized instruction
+18b2 Unrecognized instruction
+18b3 MVI     A,#0x04
+18b5 Unrecognized instruction
+18b6 Unrecognized instruction
+18b7 Unrecognized instruction
+18b8 Unrecognized instruction
+18b9 Unrecognized instruction
+18ba Unrecognized instruction
+18bb Unrecognized instruction
+18bc LXI     B,#$b8ca
+18bf Unrecognized instruction
+18c0 Unrecognized instruction
+18c1 Unrecognized instruction
+18c2 Unrecognized instruction
+18c3 Unrecognized instruction
+18c4 LXI     B,#$c0c2
+18c7 Unrecognized instruction
+18c8 Unrecognized instruction
+18c9 Unrecognized instruction
+18ca Unrecognized instruction
+18cb MVI     A,#0x26
+18cd NOP
+18ce Unrecognized instruction
+18cf Unrecognized instruction
+18d0 NOP
+18d1 JMP     $0ab6
+18d4 Unrecognized instruction
+18d5 NOP
+18d6 Unrecognized instruction
+18d7 MVI     B, #$00
+18d9 Unrecognized instruction
+18da Unrecognized instruction
+18db LXI     B,#$56cd
+18de Unrecognized instruction
+18df MVI     A,#0x08
+18e1 Unrecognized instruction
+18e2 Unrecognized instruction
+18e3 Unrecognized instruction
+18e4 JMP     $0aea
+18e7 Unrecognized instruction
+18e8 Unrecognized instruction
+18e9 Unrecognized instruction
+18ea Unrecognized instruction
+18eb Unrecognized instruction
+18ec Unrecognized instruction
+18ed RRC
+18ee Unrecognized instruction
+18ef Unrecognized instruction
+18f0 Unrecognized instruction
+18f1 MVI     B, #$02
+18f3 Unrecognized instruction
+18f4 Unrecognized instruction
+18f5 Unrecognized instruction
+18f6 Unrecognized instruction
+18f7 Unrecognized instruction
+18f8 INR     B
+18fb Unrecognized instruction
+18fc Unrecognized instruction
+18fd Unrecognized instruction
+18fe Unrecognized instruction
+18ff Unrecognized instruction
+1900 Unrecognized instruction
+1901 Unrecognized instruction
+1902 INX     B
+1903 Unrecognized instruction
+1904 Unrecognized instruction
+1905 NOP
+1906 Unrecognized instruction
+1907 JMP     $01c3
+190a Unrecognized instruction
+190b Unrecognized instruction
+190c Unrecognized instruction
+190d JMP     $1597
+1910 Unrecognized instruction
+1911 Unrecognized instruction
+1912 Unrecognized instruction
+1913 Unrecognized instruction
+1914 Unrecognized instruction
+1915 Unrecognized instruction
+1916 RRC
+1917 Unrecognized instruction
+1918 Unrecognized instruction
+1919 Unrecognized instruction
+191a MVI     C, #$1c
+191c Unrecognized instruction
+191d Unrecognized instruction
+191e Unrecognized instruction
+191f Unrecognized instruction
+1920 Unrecognized instruction
+1921 Unrecognized instruction
+1922 JMP     $08f3
+1925 Unrecognized instruction
+1926 Unrecognized instruction
+1927 Unrecognized instruction
+1928 JMP     $1931
+192b Unrecognized instruction
+192c Unrecognized instruction
+192d Unrecognized instruction
+192e JMP     $1931
+1931 Unrecognized instruction
+1932 Unrecognized instruction
+1933 Unrecognized instruction
+1934 Unrecognized instruction
+1935 Unrecognized instruction
+1936 Unrecognized instruction
+1937 Unrecognized instruction
+1938 Unrecognized instruction
+1939 JMP     $09ad
+193c MVI     C, #$07
+193e Unrecognized instruction
+193f LXI     B,#$1135
+1942 Unrecognized instruction
+1943 Unrecognized instruction
+1944 JMP     $08f3
+1947 Unrecognized instruction
+1948 Unrecognized instruction
+1949 Unrecognized instruction
+194a Unrecognized instruction
+194b LXI     B,#$c33c
+194e Unrecognized instruction
+194f DAD     B
+1950 Unrecognized instruction
+1951 Unrecognized instruction
+1952 Unrecognized instruction
+1953 JMP     $1931
+1956 Unrecognized instruction
+1957 Unrecognized instruction
+1958 Unrecognized instruction
+1959 Unrecognized instruction
+195a Unrecognized instruction
+195b Unrecognized instruction
+195c Unrecognized instruction
+195d Unrecognized instruction
+195e Unrecognized instruction
+195f Unrecognized instruction
+1960 Unrecognized instruction
+1961 Unrecognized instruction
+1962 Unrecognized instruction
+1963 Unrecognized instruction
+1964 Unrecognized instruction
+1965 Unrecognized instruction
+1966 Unrecognized instruction
+1967 Unrecognized instruction
+1968 JMP     $1947
+196b Unrecognized instruction
+196c Unrecognized instruction
+196d Unrecognized instruction
+196e JMP     $1671
+1971 MVI     A,#0x01
+1973 Unrecognized instruction
+1974 Unrecognized instruction
+1975 Unrecognized instruction
+1976 JMP     $16e6
+1979 Unrecognized instruction
+197a Unrecognized instruction
+197b Unrecognized instruction
+197c Unrecognized instruction
+197d Unrecognized instruction
+197e Unrecognized instruction
+197f JMP     $193c
+1982 Unrecognized instruction
+1983 Unrecognized instruction
+1984 Unrecognized instruction
+1985 Unrecognized instruction
+1986 Unrecognized instruction
+1987 Unrecognized instruction
+1988 JMP     $09d6
+198b Unrecognized instruction
+198c INX     B
+198d Unrecognized instruction
+198e Unrecognized instruction
+198f Unrecognized instruction
+1990 Unrecognized instruction
+1991 MVI     C, #$13
+1993 JMP     $08f3
+1996 NOP
+1997 NOP
+1998 NOP
+1999 NOP
+199a Unrecognized instruction
+199b Unrecognized instruction
+199c Unrecognized instruction
+199d Unrecognized instruction
+199e Unrecognized instruction
+199f Unrecognized instruction
+19a0 Unrecognized instruction
+19a1 Unrecognized instruction
+19a2 LXI     B,#$76e6
+19a5 Unrecognized instruction
+19a6 Unrecognized instruction
+19a7 Unrecognized instruction
+19a8 Unrecognized instruction
+19a9 Unrecognized instruction
+19aa Unrecognized instruction
+19ab Unrecognized instruction
+19ac Unrecognized instruction
+19ad LXI     B,#$76e6
+19b0 Unrecognized instruction
+19b1 Unrecognized instruction
+19b2 Unrecognized instruction
+19b3 Unrecognized instruction
+19b4 Unrecognized instruction
+19b5 Unrecognized instruction
+19b6 Unrecognized instruction
+19b7 Unrecognized instruction
+19b8 DCX     B
+19b9 MVI     C, #$09
+19bb JMP     $08f3
+19be Unrecognized instruction
+19bf Unrecognized instruction
+19c0 NOP
+19c1 NOP
+19c2 Unrecognized instruction
+19c3 MVI     C, #$26
+19c5 STAX    B
+19c6 MVI     C, #$11
+19c8 RRC
+19c9 MVI     C, #$11
+19cb NOP
+19cc Unrecognized instruction
+19cd NOP
+19ce MVI     C, #$0d
+19d0 Unrecognized instruction
+19d1 MVI     A,#0x01
+19d3 Unrecognized instruction
+19d4 Unrecognized instruction
+19d5 Unrecognized instruction
+19d6 Unrecognized instruction
+19d7 Unrecognized instruction
+19d8 JMP     $19d3
+19db NOP
+19dc Unrecognized instruction
+19dd Unrecognized instruction
+19de Unrecognized instruction
+19df Unrecognized instruction
+19e0 Unrecognized instruction
+19e1 Unrecognized instruction
+19e2 Unrecognized instruction
+19e3 Unrecognized instruction
+19e4 INX     B
+19e5 Unrecognized instruction
+19e6 Unrecognized instruction
+19e7 LXI     B,#$ca27
+19ea Unrecognized instruction
+19eb Unrecognized instruction
+19ec Unrecognized instruction
+19ed Unrecognized instruction
+19ee Unrecognized instruction
+19ef MVI     B, #$10
+19f1 Unrecognized instruction
+19f2 Unrecognized instruction
+19f3 Unrecognized instruction
+19f4 Unrecognized instruction
+19f5 Unrecognized instruction
+19f6 Unrecognized instruction
+19f7 Unrecognized instruction
+19f8 Unrecognized instruction
+19f9 Unrecognized instruction
+19fa MVI     B, #$10
+19fc Unrecognized instruction
+19fd Unrecognized instruction
+19fe Unrecognized instruction
+19ff Unrecognized instruction
+1a00 Unrecognized instruction
+1a01 Unrecognized instruction
+1a02 Unrecognized instruction
+1a03 Unrecognized instruction
+1a04 Unrecognized instruction
+1a05 Unrecognized instruction
+1a06 Unrecognized instruction
+1a07 Unrecognized instruction
+1a08 Unrecognized instruction
+1a09 Unrecognized instruction
+1a0a Unrecognized instruction
+1a0b Unrecognized instruction
+1a0c Unrecognized instruction
+1a0d Unrecognized instruction
+1a0e Unrecognized instruction
+1a0f Unrecognized instruction
+1a10 Unrecognized instruction
+1a11 Unrecognized instruction
+1a12 Unrecognized instruction
+1a13 Unrecognized instruction
+1a14 Unrecognized instruction
+1a15 Unrecognized instruction
+1a16 Unrecognized instruction
+1a17 DCR     C
+1a18 LDAX    B
+1a19 NOP
+1a1a RLC
+1a1b MVI     B, #$05
+1a1d INR     B
+1a20 LXI     B,#$2e34
+1a23 Unrecognized instruction
+1a24 Unrecognized instruction
+1a25 Unrecognized instruction
+1a26 Unrecognized instruction
+1a27 Unrecognized instruction
+1a28 Unrecognized instruction
+1a29 Unrecognized instruction
+1a2a MVI     C, #$0d
+1a2c INCR    C
+1a2d DCX     B
+1a2e DAD     B
+1a2f RLC
+1a30 DCR     B
+1a31 Unrecognized instruction
+1a32 Unrecognized instruction
+1a33 Unrecognized instruction
+1a34 Unrecognized instruction
+1a35 Unrecognized instruction
+1a36 DCR     B
+1a37 Unrecognized instruction
+1a38 Unrecognized instruction
+1a39 Unrecognized instruction
+1a3a Unrecognized instruction
+1a3b Unrecognized instruction
+1a3c Unrecognized instruction
+1a3d Unrecognized instruction
+1a3e Unrecognized instruction
+1a3f Unrecognized instruction
+1a40 Unrecognized instruction
+1a41 Unrecognized instruction
+1a42 Unrecognized instruction
+1a43 Unrecognized instruction
+1a44 Unrecognized instruction
+1a45 Unrecognized instruction
+1a46 Unrecognized instruction
+1a47 Unrecognized instruction
+1a48 MVI     B, #$03
+1a4a Unrecognized instruction
+1a4b Unrecognized instruction
+1a4c Unrecognized instruction
+1a4d Unrecognized instruction
+1a4e Unrecognized instruction
+1a4f Unrecognized instruction
+1a50 DCR     B
+1a51 Unrecognized instruction
+1a52 Unrecognized instruction
+1a53 Unrecognized instruction
+1a54 Unrecognized instruction
+1a55 Unrecognized instruction
+1a56 Unrecognized instruction
+1a57 Unrecognized instruction
+1a58 Unrecognized instruction
+1a59 Unrecognized instruction
+1a5a Unrecognized instruction
+1a5b Unrecognized instruction
+1a5c Unrecognized instruction
+1a5d NOP
+1a5e Unrecognized instruction
+1a5f Unrecognized instruction
+1a60 NOP
+1a61 Unrecognized instruction
+1a62 Unrecognized instruction
+1a63 Unrecognized instruction
+1a64 Unrecognized instruction
+1a65 Unrecognized instruction
+1a66 Unrecognized instruction
+1a67 Unrecognized instruction
+1a68 Unrecognized instruction
+1a69 Unrecognized instruction
+1a6a Unrecognized instruction
+1a6b Unrecognized instruction
+1a6c Unrecognized instruction
+1a6d Unrecognized instruction
+1a6e Unrecognized instruction
+1a6f Unrecognized instruction
+1a70 DCR     C
+1a71 Unrecognized instruction
+1a72 Unrecognized instruction
+1a73 Unrecognized instruction
+1a74 Unrecognized instruction
+1a75 LXI     B,#$0020
+1a78 DAD     B
+1a79 Unrecognized instruction
+1a7a DCR     B
+1a7b Unrecognized instruction
+1a7c Unrecognized instruction
+1a7d Unrecognized instruction
+1a7e Unrecognized instruction
+1a7f Unrecognized instruction
+1a80 Unrecognized instruction
+1a81 DAD     B
+1a82 Unrecognized instruction
+1a83 Unrecognized instruction
+1a84 Unrecognized instruction
+1a85 Unrecognized instruction
+1a86 Unrecognized instruction
+1a87 Unrecognized instruction
+1a88 Unrecognized instruction
+1a89 Unrecognized instruction
+1a8a Unrecognized instruction
+1a8b Unrecognized instruction
+1a8c LXI     B,#$e625
+1a8f RRC
+1a90 JMP     $09c5
+1a93 NOP
+1a94 NOP
+1a95 NOP
+1a96 NOP
+1a97 Unrecognized instruction
+1a98 Unrecognized instruction
+1a99 Unrecognized instruction
+1a9a Unrecognized instruction
+1a9b Unrecognized instruction
+1a9c Unrecognized instruction
+1a9d Unrecognized instruction
+1a9e NOP
+1a9f Unrecognized instruction
+1aa0 Unrecognized instruction
+1aa1 Unrecognized instruction
+1aa2 Unrecognized instruction
+1aa3 DCX     B
+1aa4 NOP
+1aa5 RLC
+1aa6 MVI     B, #$00
+1aa8 INCR    C
+1aa9 INR     B
+1aac Unrecognized instruction
+1aad INR     B
+1ab0 Unrecognized instruction
+1ab1 RRC
+1ab2 DCX     B
+1ab3 NOP
+1ab4 Unrecognized instruction
+1ab5 INR     B
+1ab8 Unrecognized instruction
+1ab9 Unrecognized instruction
+1aba Unrecognized instruction
+1abb Unrecognized instruction
+1abc MVI     C, #$11
+1abe Unrecognized instruction
+1abf Unrecognized instruction
+1ac0 RRC
+1ac1 DCX     B
+1ac2 NOP
+1ac3 Unrecognized instruction
+1ac4 INR     B
+1ac7 Unrecognized instruction
+1ac8 LXI     B,#$1314
+1acb Unrecognized instruction
+1acc MVI     C, #$0d
+1ace Unrecognized instruction
+1acf MVI     C, #$0d
+1ad1 DCX     B
+1ad2 Unrecognized instruction
+1ad3 Unrecognized instruction
+1ad4 Unrecognized instruction
+1ad5 RRC
+1ad6 DCX     B
+1ad7 NOP
+1ad8 Unrecognized instruction
+1ad9 INR     B
+1adc Unrecognized instruction
+1add LXI     B,#$1314
+1ae0 Unrecognized instruction
+1ae1 MVI     C, #$0d
+1ae3 Unrecognized instruction
+1ae4 Unrecognized instruction
+1ae5 Unrecognized instruction
+1ae6 STAX    B
+1ae7 MVI     C, #$11
+1ae9 INR     B
+1aec Unrecognized instruction
+1aed Unrecognized instruction
+1aee RLC
+1aef NOP
+1af0 Unrecognized instruction
+1af1 Unrecognized instruction
+1af2 STAX    B
+1af3 MVI     C, #$11
+1af5 INR     B
+1af8 STAX    B
+1af9 MVI     C, #$11
+1afb INR     B
+1afe Unrecognized instruction
+1aff Unrecognized instruction
+1b00 LXI     B,#$0000
+1b03 Unrecognized instruction
+1b04 NOP
+1b05 NOP
+1b06 NOP
+1b07 NOP
+1b08 STAX    B
+1b09 Unrecognized instruction
+1b0a Unrecognized instruction
+1b0b Unrecognized instruction
+1b0c Unrecognized instruction
+1b0d NOP
+1b0e Unrecognized instruction
+1b0f NOP
+1b10 NOP
+1b11 Unrecognized instruction
+1b12 NOP
+1b13 Unrecognized instruction
+1b14 STAX    B
+1b15 Unrecognized instruction
+1b16 DCR     B
+1b17 INCR    C
+1b18 Unrecognized instruction
+1b19 Unrecognized instruction
+1b1a Unrecognized instruction
+1b1b Unrecognized instruction
+1b1c Unrecognized instruction
+1b1d LXI     B,#$0000
+1b20 NOP
+1b21 NOP
+1b22 NOP
+1b23 Unrecognized instruction
+1b24 INX     B
+1b25 NOP
+1b26 Unrecognized instruction
+1b27 Unrecognized instruction
+1b28 Unrecognized instruction
+1b29 Unrecognized instruction
+1b2a Unrecognized instruction
+1b2b LXI     B,#$0004
+1b2e Unrecognized instruction
+1b2f Unrecognized instruction
+1b30 NOP
+1b31 NOP
+1b32 STAX    B
+1b33 Unrecognized instruction
+1b34 INR     B
+1b37 NOP
+1b38 NOP
+1b39 NOP
+1b3a INR     B
+1b3d NOP
+1b3e NOP
+1b3f INX     B
+1b40 NOP
+1b41 NOP
+1b42 NOP
+1b43 Unrecognized instruction
+1b44 INR     B
+1b47 LXI     B,#$1d00
+1b4a INR     B
+1b4d NOP
+1b4e NOP
+1b4f INX     B
+1b50 NOP
+1b51 NOP
+1b52 NOP
+1b53 Unrecognized instruction
+1b54 MVI     B, #$00
+1b56 NOP
+1b57 LXI     B,#$1d06
+1b5a INR     B
+1b5d NOP
+1b5e NOP
+1b5f INX     B
+1b60 Unrecognized instruction
+1b61 NOP
+1b62 Unrecognized instruction
+1b63 Unrecognized instruction
+1b64 NOP
+1b65 NOP
+1b66 Unrecognized instruction
+1b67 Unrecognized instruction
+1b68 LXI     B,#$3000
+1b6b NOP
+1b6c Unrecognized instruction
+1b6d NOP
+1b6e NOP
+1b6f NOP
+1b70 RRC
+1b71 DCX     B
+1b72 NOP
+1b73 Unrecognized instruction
+1b74 Unrecognized instruction
+1b75 RRC
+1b76 DCX     B
+1b77 NOP
+1b78 Unrecognized instruction
+1b79 INR     B
+1b7c Unrecognized instruction
+1b7d Unrecognized instruction
+1b7e Unrecognized instruction
+1b7f NOP
+1b80 LXI     B,#$ffff
+1b83 NOP
+1b84 NOP
+1b85 NOP
+1b86 Unrecognized instruction
+1b87 Unrecognized instruction
+1b88 Unrecognized instruction
+1b89 Unrecognized instruction
+1b8a Unrecognized instruction
+1b8b Unrecognized instruction
+1b8c STAX    B
+1b8d Unrecognized instruction
+1b8e Unrecognized instruction
+1b8f NOP
+1b90 NOP
+1b91 NOP
+1b92 MVI     B, #$00
+1b94 NOP
+1b95 LXI     B,#$0040
+1b98 LXI     B,#$0000
+1b9b Unrecognized instruction
+1b9c Unrecognized instruction
+1b9d NOP
+1b9e Unrecognized instruction
+1b9f Unrecognized instruction
+1ba0 NOP
+1ba1 INX     B
+1ba2 INR     B
+1ba5 Unrecognized instruction
+1ba6 NOP
+1ba7 Unrecognized instruction
+1ba8 Unrecognized instruction
+1ba9 Unrecognized instruction
+1baa Unrecognized instruction
+1bab Unrecognized instruction
+1bac Unrecognized instruction
+1bad Unrecognized instruction
+1bae Unrecognized instruction
+1baf NOP
+1bb0 NOP
+1bb1 NOP
+1bb2 LXI     B,#$98b8
+1bb5 Unrecognized instruction
+1bb6 Unrecognized instruction
+1bb7 Unrecognized instruction
+1bb8 Unrecognized instruction
+1bb9 NOP
+1bba Unrecognized instruction
+1bbb Unrecognized instruction
+1bbc NOP
+1bbd NOP
+1bbe NOP
+1bbf NOP
+1bc0 NOP
+1bc1 Unrecognized instruction
+1bc2 NOP
+1bc3 MVI     C, #$05
+1bc5 NOP
+1bc6 NOP
+1bc7 NOP
+1bc8 NOP
+1bc9 NOP
+1bca RLC
+1bcb Unrecognized instruction
+1bcc Unrecognized instruction
+1bcd Unrecognized instruction
+1bce Unrecognized instruction
+1bcf INX     B
+1bd0 NOP
+1bd1 NOP
+1bd2 INX     B
+1bd3 INR     B
+1bd6 DCX     B
+1bd7 Unrecognized instruction
+1bd8 Unrecognized instruction
+1bd9 Unrecognized instruction
+1bda Unrecognized instruction
+1bdb Unrecognized instruction
+1bdc Unrecognized instruction
+1bdd Unrecognized instruction
+1bde Unrecognized instruction
+1bdf NOP
+1be0 NOP
+1be1 NOP
+1be2 NOP
+1be3 NOP
+1be4 NOP
+1be5 NOP
+1be6 NOP
+1be7 NOP
+1be8 NOP
+1be9 LXI     B,#$0000
+1bec LXI     B,#$1f74
+1bef NOP
+1bf0 Unrecognized instruction
+1bf1 NOP
+1bf2 NOP
+1bf3 NOP
+1bf4 NOP
+1bf5 NOP
+1bf6 Unrecognized instruction
+1bf7 Unrecognized instruction
+1bf8 NOP
+1bf9 NOP
+1bfa Unrecognized instruction
+1bfb Unrecognized instruction
+1bfc NOP
+1bfd NOP
+1bfe Unrecognized instruction
+1bff Unrecognized instruction
+1c00 NOP
+1c01 NOP
+1c02 Unrecognized instruction
+1c03 Unrecognized instruction
+1c04 Unrecognized instruction
+1c05 Unrecognized instruction
+1c06 Unrecognized instruction
+1c07 Unrecognized instruction
+1c08 Unrecognized instruction
+1c09 Unrecognized instruction
+1c0a Unrecognized instruction
+1c0b Unrecognized instruction
+1c0c Unrecognized instruction
+1c0d Unrecognized instruction
+1c0e NOP
+1c0f NOP
+1c10 NOP
+1c11 NOP
+1c12 NOP
+1c13 Unrecognized instruction
+1c14 Unrecognized instruction
+1c15 Unrecognized instruction
+1c16 Unrecognized instruction
+1c17 Unrecognized instruction
+1c18 Unrecognized instruction
+1c19 Unrecognized instruction
+1c1a Unrecognized instruction
+1c1b Unrecognized instruction
+1c1c Unrecognized instruction
+1c1d Unrecognized instruction
+1c1e NOP
+1c1f NOP
+1c20 NOP
+1c21 NOP
+1c22 NOP
+1c23 NOP
+1c24 Unrecognized instruction
+1c25 Unrecognized instruction
+1c26 Unrecognized instruction
+1c27 Unrecognized instruction
+1c28 Unrecognized instruction
+1c29 Unrecognized instruction
+1c2a Unrecognized instruction
+1c2b Unrecognized instruction
+1c2c NOP
+1c2d NOP
+1c2e NOP
+1c2f NOP
+1c30 NOP
+1c31 NOP
+1c32 Unrecognized instruction
+1c33 Unrecognized instruction
+1c34 Unrecognized instruction
+1c35 Unrecognized instruction
+1c36 Unrecognized instruction
+1c37 Unrecognized instruction
+1c38 Unrecognized instruction
+1c39 Unrecognized instruction
+1c3a Unrecognized instruction
+1c3b Unrecognized instruction
+1c3c Unrecognized instruction
+1c3d Unrecognized instruction
+1c3e NOP
+1c3f NOP
+1c40 NOP
+1c41 NOP
+1c42 NOP
+1c43 MVI     C, #$18
+1c45 Unrecognized instruction
+1c46 Unrecognized instruction
+1c47 Unrecognized instruction
+1c48 Unrecognized instruction
+1c49 Unrecognized instruction
+1c4a Unrecognized instruction
+1c4b Unrecognized instruction
+1c4c Unrecognized instruction
+1c4d MVI     C, #$00
+1c4f NOP
+1c50 NOP
+1c51 NOP
+1c52 NOP
+1c53 NOP
+1c54 Unrecognized instruction
+1c55 Unrecognized instruction
+1c56 Unrecognized instruction
+1c57 Unrecognized instruction
+1c58 Unrecognized instruction
+1c59 Unrecognized instruction
+1c5a Unrecognized instruction
+1c5b Unrecognized instruction
+1c5c NOP
+1c5d NOP
+1c5e NOP
+1c5f NOP
+1c60 NOP
+1c61 NOP
+1c62 RRC
+1c63 Unrecognized instruction
+1c64 Unrecognized instruction
+1c65 Unrecognized instruction
+1c66 Unrecognized instruction
+1c67 Unrecognized instruction
+1c68 Unrecognized instruction
+1c69 Unrecognized instruction
+1c6a Unrecognized instruction
+1c6b Unrecognized instruction
+1c6c Unrecognized instruction
+1c6d Unrecognized instruction
+1c6e RRC
+1c6f NOP
+1c70 NOP
+1c71 INR     B
+1c74 INX     B
+1c75 RLC
+1c76 Unrecognized instruction
+1c77 RRC
+1c78 Unrecognized instruction
+1c79 INX     B
+1c7a Unrecognized instruction
+1c7b Unrecognized instruction
+1c7c INR     B
+1c7f LXI     B,#$0840
+1c82 DCR     B
+1c83 Unrecognized instruction
+1c84 LDAX    B
+1c85 INX     B
+1c86 Unrecognized instruction
+1c87 RRC
+1c88 Unrecognized instruction
+1c89 Unrecognized instruction
+1c8a DCX     B
+1c8b Unrecognized instruction
+1c8c Unrecognized instruction
+1c8d Unrecognized instruction
+1c8e Unrecognized instruction
+1c8f Unrecognized instruction
+1c90 RRC
+1c91 Unrecognized instruction
+1c92 Unrecognized instruction
+1c93 Unrecognized instruction
+1c94 Unrecognized instruction
+1c95 Unrecognized instruction
+1c96 MVI     A,#0x7c
+1c98 Unrecognized instruction
+1c99 Unrecognized instruction
+1c9a Unrecognized instruction
+1c9b Unrecognized instruction
+1c9c Unrecognized instruction
+1c9d RRC
+1c9e MVI     C, #$08
+1ca0 DCR     C
+1ca1 Unrecognized instruction
+1ca2 Unrecognized instruction
+1ca3 Unrecognized instruction
+1ca4 Unrecognized instruction
+1ca5 STAX    B
+1ca6 MVI     C, #$11
+1ca8 INR     B
+1cab INX     B
+1cac Unrecognized instruction
+1cad NOP
+1cae DCR     C
+1caf STAX    B
+1cb0 INR     B
+1cb3 NOP
+1cb4 LXI     B,#$040b
+1cb7 Unrecognized instruction
+1cb8 STAX    B
+1cb9 Unrecognized instruction
+1cba Unrecognized instruction
+1cbb Unrecognized instruction
+1cbc Unrecognized instruction
+1cbd NOP
+1cbe DCX     B
+1cbf Unrecognized instruction
+1cc0 NOP
+1cc1 NOP
+1cc2 Unrecognized instruction
+1cc3 Unrecognized instruction
+1cc4 Unrecognized instruction
+1cc5 Unrecognized instruction
+1cc6 Unrecognized instruction
+1cc7 NOP
+1cc8 Unrecognized instruction
+1cc9 Unrecognized instruction
+1cca Unrecognized instruction
+1ccb Unrecognized instruction
+1ccc Unrecognized instruction
+1ccd NOP
+1cce NOP
+1ccf NOP
+1cd0 Unrecognized instruction
+1cd1 Unrecognized instruction
+1cd2 Unrecognized instruction
+1cd3 Unrecognized instruction
+1cd4 Unrecognized instruction
+1cd5 Unrecognized instruction
+1cd6 Unrecognized instruction
+1cd7 Unrecognized instruction
+1cd8 Unrecognized instruction
+1cd9 Unrecognized instruction
+1cda Unrecognized instruction
+1cdb Unrecognized instruction
+1cdc Unrecognized instruction
+1cdd Unrecognized instruction
+1cde Unrecognized instruction
+1cdf Unrecognized instruction
+1ce0 Unrecognized instruction
+1ce1 Unrecognized instruction
+1ce2 INR     B
+1ce5 Unrecognized instruction
+1ce6 Unrecognized instruction
+1ce7 Unrecognized instruction
+1ce8 Unrecognized instruction
+1ce9 Unrecognized instruction
+1cea Unrecognized instruction
+1ceb Unrecognized instruction
+1cec Unrecognized instruction
+1ced Unrecognized instruction
+1cee NOP
+1cef Unrecognized instruction
+1cf0 NOP
+1cf1 Unrecognized instruction
+1cf2 Unrecognized instruction
+1cf3 Unrecognized instruction
+1cf4 NOP
+1cf5 Unrecognized instruction
+1cf6 NOP
+1cf7 Unrecognized instruction
+1cf8 Unrecognized instruction
+1cf9 Unrecognized instruction
+1cfa RRC
+1cfb DCX     B
+1cfc NOP
+1cfd Unrecognized instruction
+1cfe NOP
+1cff NOP
+1d00 LXI     B,#$0107
+1d03 LXI     B,#$0401
+1d06 DCX     B
+1d07 LXI     B,#$0306
+1d0a LXI     B,#$0b01
+1d0d DAD     B
+1d0e STAX    B
+1d0f NOP
+1d10 STAX    B
+1d11 DCX     B
+1d12 INR     B
+1d15 DCR     B
+1d16 STAX    B
+1d17 DCR     B
+1d18 INR     B
+1d1b NOP
+1d1c LDAX    B
+1d1d MVI     B, #$0a
+1d1f INX     B
+1d20 Unrecognized instruction
+1d21 RRC
+1d22 Unrecognized instruction
+1d23 Unrecognized instruction
+1d24 Unrecognized instruction
+1d25 Unrecognized instruction
+1d26 Unrecognized instruction
+1d27 Unrecognized instruction
+1d28 Unrecognized instruction
+1d29 Unrecognized instruction
+1d2a Unrecognized instruction
+1d2b Unrecognized instruction
+1d2c Unrecognized instruction
+1d2d Unrecognized instruction
+1d2e Unrecognized instruction
+1d2f Unrecognized instruction
+1d30 Unrecognized instruction
+1d31 Unrecognized instruction
+1d32 Unrecognized instruction
+1d33 Unrecognized instruction
+1d34 Unrecognized instruction
+1d35 Unrecognized instruction
+1d36 Unrecognized instruction
+1d37 Unrecognized instruction
+1d38 Unrecognized instruction
+1d39 Unrecognized instruction
+1d3a Unrecognized instruction
+1d3b Unrecognized instruction
+1d3c Unrecognized instruction
+1d3d Unrecognized instruction
+1d3e Unrecognized instruction
+1d3f Unrecognized instruction
+1d40 Unrecognized instruction
+1d41 Unrecognized instruction
+1d42 Unrecognized instruction
+1d43 Unrecognized instruction
+1d44 Unrecognized instruction
+1d45 Unrecognized instruction
+1d46 Unrecognized instruction
+1d47 Unrecognized instruction
+1d48 Unrecognized instruction
+1d49 Unrecognized instruction
+1d4a Unrecognized instruction
+1d4b RRC
+1d4c DCR     B
+1d4d Unrecognized instruction
+1d4e Unrecognized instruction
+1d4f Unrecognized instruction
+1d50 Unrecognized instruction
+1d51 Unrecognized instruction
+1d52 Unrecognized instruction
+1d53 Unrecognized instruction
+1d54 Unrecognized instruction
+1d55 DCR     B
+1d56 DCR     B
+1d57 Unrecognized instruction
+1d58 Unrecognized instruction
+1d59 Unrecognized instruction
+1d5a Unrecognized instruction
+1d5b DCR     B
+1d5c Unrecognized instruction
+1d5d Unrecognized instruction
+1d5e Unrecognized instruction
+1d5f Unrecognized instruction
+1d60 DCR     B
+1d61 Unrecognized instruction
+1d62 Unrecognized instruction
+1d63 DCR     B
+1d64 NOP
+1d65 NOP
+1d66 NOP
+1d67 NOP
+1d68 INR     B
+1d6b Unrecognized instruction
+1d6c MVI     A,#0x7c
+1d6e Unrecognized instruction
+1d6f Unrecognized instruction
+1d70 Unrecognized instruction
+1d71 Unrecognized instruction
+1d72 Unrecognized instruction
+1d73 MVI     A,#0x37
+1d75 Unrecognized instruction
+1d76 INCR    C
+1d77 INR     B
+1d7a NOP
+1d7b NOP
+1d7c NOP
+1d7d Unrecognized instruction
+1d7e NOP
+1d7f Unrecognized instruction
+1d80 Unrecognized instruction
+1d81 NOP
+1d82 Unrecognized instruction
+1d83 Unrecognized instruction
+1d84 Unrecognized instruction
+1d85 Unrecognized instruction
+1d86 Unrecognized instruction
+1d87 Unrecognized instruction
+1d88 Unrecognized instruction
+1d89 Unrecognized instruction
+1d8a Unrecognized instruction
+1d8b Unrecognized instruction
+1d8c Unrecognized instruction
+1d8d Unrecognized instruction
+1d8e NOP
+1d8f Unrecognized instruction
+1d90 Unrecognized instruction
+1d91 NOP
+1d92 NOP
+1d93 NOP
+1d94 Unrecognized instruction
+1d95 Unrecognized instruction
+1d96 Unrecognized instruction
+1d97 Unrecognized instruction
+1d98 Unrecognized instruction
+1d99 Unrecognized instruction
+1d9a Unrecognized instruction
+1d9b Unrecognized instruction
+1d9c Unrecognized instruction
+1d9d Unrecognized instruction
+1d9e Unrecognized instruction
+1d9f Unrecognized instruction
+1da0 Unrecognized instruction
+1da1 Unrecognized instruction
+1da2 Unrecognized instruction
+1da3 Unrecognized instruction
+1da4 Unrecognized instruction
+1da5 Unrecognized instruction
+1da6 Unrecognized instruction
+1da7 Unrecognized instruction
+1da8 Unrecognized instruction
+1da9 Unrecognized instruction
+1daa Unrecognized instruction
+1dab RRC
+1dac DCX     B
+1dad NOP
+1dae Unrecognized instruction
+1daf Unrecognized instruction
+1db0 RRC
+1db1 NOP
+1db2 STAX    B
+1db3 INR     B
+1db6 NOP
+1db7 DCR     C
+1db8 Unrecognized instruction
+1db9 NOP
+1dba INX     B
+1dbb INR     B
+1dbe MVI     C, #$2c
+1dc0 Unrecognized instruction
+1dc1 Unrecognized instruction
+1dc2 INCR    C
+1dc3 Unrecognized instruction
+1dc4 Unrecognized instruction
+1dc5 Unrecognized instruction
+1dc6 LDAX    B
+1dc7 Unrecognized instruction
+1dc8 Unrecognized instruction
+1dc9 Unrecognized instruction
+1dca NOP
+1dcb Unrecognized instruction
+1dcc NOP
+1dcd Unrecognized instruction
+1dce Unrecognized instruction
+1dcf MVI     C, #$2e
+1dd1 Unrecognized instruction
+1dd2 Unrecognized instruction
+1dd3 INCR    C
+1dd4 Unrecognized instruction
+1dd5 Unrecognized instruction
+1dd6 Unrecognized instruction
+1dd7 LDAX    B
+1dd8 Unrecognized instruction
+1dd9 Unrecognized instruction
+1dda Unrecognized instruction
+1ddb NOP
+1ddc Unrecognized instruction
+1ddd Unrecognized instruction
+1dde Unrecognized instruction
+1ddf Unrecognized instruction
+1de0 Unrecognized instruction
+1de1 Unrecognized instruction
+1de2 Unrecognized instruction
+1de3 INCR    C
+1de4 Unrecognized instruction
+1de5 Unrecognized instruction
+1de6 Unrecognized instruction
+1de7 INR     B
+1dea Unrecognized instruction
+1deb Unrecognized instruction
+1dec Unrecognized instruction
+1ded Unrecognized instruction
+1dee RRC
+1def MVI     C, #$08
+1df1 DCR     C
+1df2 Unrecognized instruction
+1df3 Unrecognized instruction
+1df4 Unrecognized instruction
+1df5 Unrecognized instruction
+1df6 Unrecognized instruction
+1df7 Unrecognized instruction
+1df8 RRC
+1df9 MVI     C, #$08
+1dfb DCR     C
+1dfc Unrecognized instruction
+1dfd Unrecognized instruction
+1dfe NOP
+1dff NOP
+1e00 NOP
+1e01 Unrecognized instruction
+1e02 Unrecognized instruction
+1e03 Unrecognized instruction
+1e04 Unrecognized instruction
+1e05 Unrecognized instruction
+1e06 NOP
+1e07 NOP
+1e08 NOP
+1e09 Unrecognized instruction
+1e0a Unrecognized instruction
+1e0b Unrecognized instruction
+1e0c Unrecognized instruction
+1e0d Unrecognized instruction
+1e0e NOP
+1e0f NOP
+1e10 NOP
+1e11 MVI     A,#0x41
+1e13 Unrecognized instruction
+1e14 Unrecognized instruction
+1e15 Unrecognized instruction
+1e16 NOP
+1e17 NOP
+1e18 NOP
+1e19 Unrecognized instruction
+1e1a Unrecognized instruction
+1e1b Unrecognized instruction
+1e1c Unrecognized instruction
+1e1d MVI     A,#0x00
+1e1f NOP
+1e20 NOP
+1e21 Unrecognized instruction
+1e22 Unrecognized instruction
+1e23 Unrecognized instruction
+1e24 Unrecognized instruction
+1e25 Unrecognized instruction
+1e26 NOP
+1e27 NOP
+1e28 NOP
+1e29 Unrecognized instruction
+1e2a Unrecognized instruction
+1e2b Unrecognized instruction
+1e2c Unrecognized instruction
+1e2d Unrecognized instruction
+1e2e NOP
+1e2f NOP
+1e30 NOP
+1e31 MVI     A,#0x41
+1e33 Unrecognized instruction
+1e34 Unrecognized instruction
+1e35 Unrecognized instruction
+1e36 NOP
+1e37 NOP
+1e38 NOP
+1e39 Unrecognized instruction
+1e3a NOP
+1e3b NOP
+1e3c NOP
+1e3d Unrecognized instruction
+1e3e NOP
+1e3f NOP
+1e40 NOP
+1e41 NOP
+1e42 Unrecognized instruction
+1e43 Unrecognized instruction
+1e44 Unrecognized instruction
+1e45 NOP
+1e46 NOP
+1e47 NOP
+1e48 NOP
+1e49 STAX    B
+1e4a LXI     B,#$0101
+1e4d Unrecognized instruction
+1e4e NOP
+1e4f NOP
+1e50 NOP
+1e51 Unrecognized instruction
+1e52 NOP
+1e53 Unrecognized instruction
+1e54 Unrecognized instruction
+1e55 Unrecognized instruction
+1e56 NOP
+1e57 NOP
+1e58 NOP
+1e59 Unrecognized instruction
+1e5a LXI     B,#$0101
+1e5d LXI     B,#$0000
+1e60 NOP
+1e61 Unrecognized instruction
+1e62 Unrecognized instruction
+1e63 Unrecognized instruction
+1e64 Unrecognized instruction
+1e65 Unrecognized instruction
+1e66 NOP
+1e67 NOP
+1e68 NOP
+1e69 Unrecognized instruction
+1e6a Unrecognized instruction
+1e6b NOP
+1e6c INR     B
+1e6f NOP
+1e70 NOP
+1e71 MVI     A,#0x41
+1e73 Unrecognized instruction
+1e74 Unrecognized instruction
+1e75 MVI     A,#0x00
+1e77 NOP
+1e78 NOP
+1e79 Unrecognized instruction
+1e7a Unrecognized instruction
+1e7b Unrecognized instruction
+1e7c Unrecognized instruction
+1e7d Unrecognized instruction
+1e7e NOP
+1e7f NOP
+1e80 NOP
+1e81 MVI     A,#0x41
+1e83 Unrecognized instruction
+1e84 Unrecognized instruction
+1e85 Unrecognized instruction
+1e86 NOP
+1e87 NOP
+1e88 NOP
+1e89 Unrecognized instruction
+1e8a Unrecognized instruction
+1e8b Unrecognized instruction
+1e8c Unrecognized instruction
+1e8d Unrecognized instruction
+1e8e NOP
+1e8f NOP
+1e90 NOP
+1e91 Unrecognized instruction
+1e92 Unrecognized instruction
+1e93 Unrecognized instruction
+1e94 Unrecognized instruction
+1e95 Unrecognized instruction
+1e96 NOP
+1e97 NOP
+1e98 NOP
+1e99 Unrecognized instruction
+1e9a Unrecognized instruction
+1e9b Unrecognized instruction
+1e9c Unrecognized instruction
+1e9d Unrecognized instruction
+1e9e NOP
+1e9f NOP
+1ea0 NOP
+1ea1 Unrecognized instruction
+1ea2 LXI     B,#$0101
+1ea5 Unrecognized instruction
+1ea6 NOP
+1ea7 NOP
+1ea8 NOP
+1ea9 Unrecognized instruction
+1eaa STAX    B
+1eab LXI     B,#$7c02
+1eae NOP
+1eaf NOP
+1eb0 NOP
+1eb1 Unrecognized instruction
+1eb2 STAX    B
+1eb3 INCR    C
+1eb4 STAX    B
+1eb5 Unrecognized instruction
+1eb6 NOP
+1eb7 NOP
+1eb8 NOP
+1eb9 Unrecognized instruction
+1eba Unrecognized instruction
+1ebb NOP
+1ebc Unrecognized instruction
+1ebd Unrecognized instruction
+1ebe NOP
+1ebf NOP
+1ec0 NOP
+1ec1 Unrecognized instruction
+1ec2 Unrecognized instruction
+1ec3 RRC
+1ec4 Unrecognized instruction
+1ec5 Unrecognized instruction
+1ec6 NOP
+1ec7 NOP
+1ec8 NOP
+1ec9 Unrecognized instruction
+1eca Unrecognized instruction
+1ecb Unrecognized instruction
+1ecc Unrecognized instruction
+1ecd Unrecognized instruction
+1ece NOP
+1ecf NOP
+1ed0 NOP
+1ed1 MVI     A,#0x45
+1ed3 Unrecognized instruction
+1ed4 Unrecognized instruction
+1ed5 MVI     A,#0x00
+1ed7 NOP
+1ed8 NOP
+1ed9 NOP
+1eda Unrecognized instruction
+1edb Unrecognized instruction
+1edc LXI     B,#$0000
+1edf NOP
+1ee0 NOP
+1ee1 Unrecognized instruction
+1ee2 Unrecognized instruction
+1ee3 Unrecognized instruction
+1ee4 Unrecognized instruction
+1ee5 Unrecognized instruction
+1ee6 NOP
+1ee7 NOP
+1ee8 NOP
+1ee9 Unrecognized instruction
+1eea Unrecognized instruction
+1eeb Unrecognized instruction
+1eec Unrecognized instruction
+1eed Unrecognized instruction
+1eee NOP
+1eef NOP
+1ef0 NOP
+1ef1 INCR    C
+1ef2 Unrecognized instruction
+1ef3 Unrecognized instruction
+1ef4 Unrecognized instruction
+1ef5 INR     B
+1ef8 NOP
+1ef9 Unrecognized instruction
+1efa Unrecognized instruction
+1efb Unrecognized instruction
+1efc Unrecognized instruction
+1efd Unrecognized instruction
+1efe NOP
+1eff NOP
+1f00 NOP
+1f01 Unrecognized instruction
+1f02 Unrecognized instruction
+1f03 Unrecognized instruction
+1f04 Unrecognized instruction
+1f05 Unrecognized instruction
+1f06 NOP
+1f07 NOP
+1f08 NOP
+1f09 Unrecognized instruction
+1f0a Unrecognized instruction
+1f0b Unrecognized instruction
+1f0c Unrecognized instruction
+1f0d Unrecognized instruction
+1f0e NOP
+1f0f NOP
+1f10 NOP
+1f11 Unrecognized instruction
+1f12 Unrecognized instruction
+1f13 Unrecognized instruction
+1f14 Unrecognized instruction
+1f15 Unrecognized instruction
+1f16 NOP
+1f17 NOP
+1f18 NOP
+1f19 Unrecognized instruction
+1f1a Unrecognized instruction
+1f1b Unrecognized instruction
+1f1c Unrecognized instruction
+1f1d Unrecognized instruction
+1f1e NOP
+1f1f NOP
+1f20 NOP
+1f21 NOP
+1f22 Unrecognized instruction
+1f23 Unrecognized instruction
+1f24 Unrecognized instruction
+1f25 NOP
+1f26 NOP
+1f27 NOP
+1f28 NOP
+1f29 NOP
+1f2a Unrecognized instruction
+1f2b Unrecognized instruction
+1f2c Unrecognized instruction
+1f2d NOP
+1f2e NOP
+1f2f NOP
+1f30 NOP
+1f31 NOP
+1f32 NOP
+1f33 NOP
+1f34 NOP
+1f35 NOP
+1f36 NOP
+1f37 NOP
+1f38 NOP
+1f39 Unrecognized instruction
+1f3a Unrecognized instruction
+1f3b Unrecognized instruction
+1f3c Unrecognized instruction
+1f3d Unrecognized instruction
+1f3e NOP
+1f3f NOP
+1f40 NOP
+1f41 Unrecognized instruction
+1f42 Unrecognized instruction
+1f43 Unrecognized instruction
+1f44 Unrecognized instruction
+1f45 Unrecognized instruction
+1f46 NOP
+1f47 NOP
+1f48 NOP
+1f49 INX     B
+1f4a INR     B
+1f4d INX     B
+1f4e NOP
+1f4f NOP
+1f50 Unrecognized instruction
+1f51 Unrecognized instruction
+1f52 Unrecognized instruction
+1f53 MVI     C, #$11
+1f55 Unrecognized instruction
+1f56 Unrecognized instruction
+1f57 Unrecognized instruction
+1f58 RRC
+1f59 DCX     B
+1f5a NOP
+1f5b Unrecognized instruction
+1f5c INR     B
+1f5f Unrecognized instruction
+1f60 Unrecognized instruction
+1f61 Unrecognized instruction
+1f62 Unrecognized instruction
+1f63 Unrecognized instruction
+1f64 Unrecognized instruction
+1f65 RRC
+1f66 DCX     B
+1f67 NOP
+1f68 Unrecognized instruction
+1f69 INR     B
+1f6c Unrecognized instruction
+1f6d Unrecognized instruction
+1f6e Unrecognized instruction
+1f6f STAX    B
+1f70 MVI     C, #$08
+1f72 DCR     C
+1f73 Unrecognized instruction
+1f74 LXI     B,#$0001
+1f77 NOP
+1f78 LXI     B,#$0200
+1f7b LXI     B,#$0200
+1f7e LXI     B,#$6000
+1f81 Unrecognized instruction
+1f82 RRC
+1f83 Unrecognized instruction
+1f84 Unrecognized instruction
+1f85 Unrecognized instruction
+1f86 Unrecognized instruction
+1f87 Unrecognized instruction
+1f88 Unrecognized instruction
+1f89 Unrecognized instruction
+1f8a Unrecognized instruction
+1f8b Unrecognized instruction
+1f8c Unrecognized instruction
+1f8d Unrecognized instruction
+1f8e Unrecognized instruction
+1f8f NOP
+1f90 NOP
+1f91 DCR     C
+1f92 Unrecognized instruction
+1f93 INR     B
+1f96 Unrecognized instruction
+1f97 Unrecognized instruction
+1f98 STAX    B
+1f99 MVI     C, #$08
+1f9b DCR     C
+1f9c DCR     C
+1f9d Unrecognized instruction
+1f9e Unrecognized instruction
+1f9f Unrecognized instruction
+1fa0 LDAX    B
+1fa1 Unrecognized instruction
+1fa2 Unrecognized instruction
+1fa3 Unrecognized instruction
+1fa4 RLC
+1fa5 Unrecognized instruction
+1fa6 Unrecognized instruction
+1fa7 Unrecognized instruction
+1fa8 Unrecognized instruction
+1fa9 STAX    B
+1faa Unrecognized instruction
+1fab INR     B
+1fae Unrecognized instruction
+1faf Unrecognized instruction
+1fb0 NOP
+1fb1 Unrecognized instruction
+1fb2 Unrecognized instruction
+1fb3 RRC
+1fb4 Unrecognized instruction
+1fb5 Unrecognized instruction
+1fb6 Unrecognized instruction
+1fb7 Unrecognized instruction
+1fb8 Unrecognized instruction
+1fb9 Unrecognized instruction
+1fba Unrecognized instruction
+1fbb Unrecognized instruction
+1fbc Unrecognized instruction
+1fbd Unrecognized instruction
+1fbe Unrecognized instruction
+1fbf NOP
+1fc0 NOP
+1fc1 Unrecognized instruction
+1fc2 Unrecognized instruction
+1fc3 Unrecognized instruction
+1fc4 Unrecognized instruction
+1fc5 Unrecognized instruction
+1fc6 NOP
+1fc7 NOP
+1fc8 NOP
+1fc9 NOP
+1fca NOP
+1fcb Unrecognized instruction
+1fcc Unrecognized instruction
+1fcd Unrecognized instruction
+1fce Unrecognized instruction
+1fcf Unrecognized instruction
+1fd0 Unrecognized instruction
+1fd1 Unrecognized instruction
+1fd2 NOP
+1fd3 Unrecognized instruction
+1fd4 Unrecognized instruction
+1fd5 NOP
+1fd6 NOP
+1fd7 LXI     B,#$22d0
+1fda Unrecognized instruction
+1fdb Unrecognized instruction
+1fdc Unrecognized instruction
+1fdd Unrecognized instruction
+1fde NOP
+1fdf Unrecognized instruction
+1fe0 Unrecognized instruction
+1fe1 Unrecognized instruction
+1fe2 Unrecognized instruction
+1fe3 Unrecognized instruction
+1fe4 RRC
+1fe5 DCX     B
+1fe6 NOP
+1fe7 Unrecognized instruction
+1fe8 INR     B
+1feb Unrecognized instruction
+1fec Unrecognized instruction
+1fed Unrecognized instruction
+1fee STAX    B
+1fef MVI     C, #$08
+1ff1 DCR     C
+1ff2 Unrecognized instruction
+1ff3 RRC
+1ff4 Unrecognized instruction
+1ff5 Unrecognized instruction
+1ff6 RLC
+1ff7 Unrecognized instruction
+1ff8 NOP
+1ff9 NOP
+1ffa NOP
+1ffb NOP
+1ffc NOP
+1ffd NOP
+1ffe NOP
+1fff NOP
